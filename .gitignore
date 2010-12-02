@@ -1,0 +1,9 @@
+*~
+.Rhistory
+graphs/*.png
+*Rcheck
+meta/*
+scraper/*
+reports/*.png
+reports/*.txt
+reports/*.html
