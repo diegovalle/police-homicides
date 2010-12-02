@@ -1,0 +1,6007 @@
+Year,Homicides,Crimetype,State,Month
+2010,0,DOLOSOS,Zacatecas,Dec
+2010,0,DOLOSOS,Zacatecas,Nov
+2010,ND,DOLOSOS,Zacatecas,Oct
+2010,ND,DOLOSOS,Zacatecas,Sep
+2010,6,DOLOSOS,Zacatecas,Aug
+2010,10,DOLOSOS,Zacatecas,Jul
+2010,8,DOLOSOS,Zacatecas,Jun
+2010,6,DOLOSOS,Zacatecas,May
+2010,12,DOLOSOS,Zacatecas,Apr
+2010,6,DOLOSOS,Zacatecas,Mar
+2010,2,DOLOSOS,Zacatecas,Feb
+2010,12,DOLOSOS,Zacatecas,Jan
+2010,26,DOLOSOS,Yucatan,Tot
+2010,0,DOLOSOS,Yucatan,Dec
+2010,0,DOLOSOS,Yucatan,Nov
+2010,ND,DOLOSOS,Yucatan,Oct
+2010,1,DOLOSOS,Yucatan,Sep
+2010,62,DOLOSOS,Zacatecas,Tot
+2010,4,DOLOSOS,Yucatan,Aug
+2010,4,DOLOSOS,Yucatan,Jul
+2010,4,DOLOSOS,Yucatan,Jun
+2010,3,DOLOSOS,Yucatan,May
+2010,3,DOLOSOS,Yucatan,Mar
+2010,3,DOLOSOS,Yucatan,Feb
+2010,1,DOLOSOS,Yucatan,Jan
+2010,260,DOLOSOS,Veracruz,Tot
+2010,0,DOLOSOS,Veracruz,Dec
+2010,0,DOLOSOS,Veracruz,Nov
+2010,ND,DOLOSOS,Veracruz,Oct
+2010,ND,DOLOSOS,Veracruz,Sep
+2010,33,DOLOSOS,Veracruz,Aug
+2010,45,DOLOSOS,Veracruz,Jul
+2010,29,DOLOSOS,Veracruz,Jun
+2010,30,DOLOSOS,Veracruz,May
+2010,18,DOLOSOS,Veracruz,Apr
+2010,47,DOLOSOS,Veracruz,Mar
+2010,26,DOLOSOS,Veracruz,Feb
+2010,32,DOLOSOS,Veracruz,Jan
+2010,38,DOLOSOS,Tlaxcala,Tot
+2010,0,DOLOSOS,Tlaxcala,Dec
+2010,0,DOLOSOS,Tlaxcala,Nov
+2010,6,DOLOSOS,Tlaxcala,Oct
+2010,7,DOLOSOS,Tlaxcala,Sep
+2010,6,DOLOSOS,Tlaxcala,Aug
+2010,5,DOLOSOS,Tlaxcala,Jul
+2010,1,DOLOSOS,Tlaxcala,Jun
+2010,5,DOLOSOS,Tlaxcala,May
+2010,2,DOLOSOS,Tlaxcala,Apr
+2010,2,DOLOSOS,Tlaxcala,Mar
+2010,2,DOLOSOS,Tlaxcala,Feb
+2010,2,DOLOSOS,Tlaxcala,Jan
+2010,598,DOLOSOS,Tamaulipas,Tot
+2010,0,DOLOSOS,Tamaulipas,Dec
+2010,0,DOLOSOS,Tamaulipas,Nov
+2010,64,DOLOSOS,Tamaulipas,Oct
+2010,52,DOLOSOS,Tamaulipas,Sep
+2010,65,DOLOSOS,Tamaulipas,Aug
+2010,61,DOLOSOS,Tamaulipas,Jul
+2010,90,DOLOSOS,Tamaulipas,Jun
+2010,67,DOLOSOS,Tamaulipas,May
+2010,73,DOLOSOS,Tamaulipas,Apr
+2010,54,DOLOSOS,Tamaulipas,Mar
+2010,44,DOLOSOS,Tamaulipas,Feb
+2010,28,DOLOSOS,Tamaulipas,Jan
+2010,116,DOLOSOS,Tabasco,Tot
+2010,0,DOLOSOS,Tabasco,Dec
+2010,0,DOLOSOS,Tabasco,Nov
+2010,9,DOLOSOS,Tabasco,Oct
+2010,16,DOLOSOS,Tabasco,Sep
+2010,18,DOLOSOS,Tabasco,Aug
+2010,10,DOLOSOS,Tabasco,Jul
+2010,11,DOLOSOS,Tabasco,Jun
+2010,7,DOLOSOS,Tabasco,May
+2010,12,DOLOSOS,Tabasco,Apr
+2010,12,DOLOSOS,Tabasco,Mar
+2010,9,DOLOSOS,Tabasco,Feb
+2010,12,DOLOSOS,Tabasco,Jan
+2010,569,DOLOSOS,Sonora,Tot
+2010,0,DOLOSOS,Sonora,Dec
+2010,0,DOLOSOS,Sonora,Nov
+2010,49,DOLOSOS,Sonora,Oct
+2010,60,DOLOSOS,Sonora,Sep
+2010,58,DOLOSOS,Sonora,Aug
+2010,79,DOLOSOS,Sonora,Jul
+2010,39,DOLOSOS,Sonora,Jun
+2010,66,DOLOSOS,Sonora,May
+2010,46,DOLOSOS,Sonora,Apr
+2010,52,DOLOSOS,Sonora,Mar
+2010,54,DOLOSOS,Sonora,Feb
+2010,66,DOLOSOS,Sonora,Jan
+2010,1975,DOLOSOS,Sinaloa,Tot
+2010,0,DOLOSOS,Sinaloa,Dec
+2010,0,DOLOSOS,Sinaloa,Nov
+2010,181,DOLOSOS,Sinaloa,Oct
+2010,143,DOLOSOS,Sinaloa,Sep
+2010,228,DOLOSOS,Sinaloa,Aug
+2010,220,DOLOSOS,Sinaloa,Jul
+2010,226,DOLOSOS,Sinaloa,Jun
+2010,147,DOLOSOS,Sinaloa,May
+2010,207,DOLOSOS,Sinaloa,Apr
+2010,192,DOLOSOS,Sinaloa,Mar
+2010,208,DOLOSOS,Sinaloa,Feb
+2010,223,DOLOSOS,Sinaloa,Jan
+2010,108,DOLOSOS,"San Luis Potosi",Tot
+2010,0,DOLOSOS,"San Luis Potosi",Dec
+2010,0,DOLOSOS,"San Luis Potosi",Nov
+2010,ND,DOLOSOS,"San Luis Potosi",Oct
+2010,ND,DOLOSOS,"San Luis Potosi",Sep
+2010,9,DOLOSOS,"San Luis Potosi",Aug
+2010,17,DOLOSOS,"San Luis Potosi",Jul
+2010,16,DOLOSOS,"San Luis Potosi",Jun
+2010,20,DOLOSOS,"San Luis Potosi",May
+2010,11,DOLOSOS,"San Luis Potosi",Apr
+2010,10,DOLOSOS,"San Luis Potosi",Mar
+2010,13,DOLOSOS,"San Luis Potosi",Feb
+2010,12,DOLOSOS,"San Luis Potosi",Jan
+2010,176,DOLOSOS,"Quintana Roo",Tot
+2010,0,DOLOSOS,"Quintana Roo",Dec
+2010,0,DOLOSOS,"Quintana Roo",Nov
+2010,ND,DOLOSOS,"Quintana Roo",Oct
+2010,12,DOLOSOS,"Quintana Roo",Sep
+2010,31,DOLOSOS,"Quintana Roo",Aug
+2010,17,DOLOSOS,"Quintana Roo",Jul
+2010,27,DOLOSOS,"Quintana Roo",Jun
+2010,20,DOLOSOS,"Quintana Roo",May
+2010,14,DOLOSOS,"Quintana Roo",Apr
+2010,25,DOLOSOS,"Quintana Roo",Mar
+2010,9,DOLOSOS,"Quintana Roo",Feb
+2010,3,DOLOSOS,Yucatan,Apr
+2010,21,DOLOSOS,"Quintana Roo",Jan
+2010,50,DOLOSOS,Queretaro,Tot
+2010,0,DOLOSOS,Queretaro,Dec
+2010,0,DOLOSOS,Queretaro,Nov
+2010,2,DOLOSOS,Queretaro,Oct
+2010,9,DOLOSOS,Queretaro,Sep
+2010,6,DOLOSOS,Queretaro,Aug
+2010,7,DOLOSOS,Queretaro,Jul
+2010,10,DOLOSOS,Queretaro,Jun
+2010,3,DOLOSOS,Queretaro,May
+2010,3,DOLOSOS,Queretaro,Apr
+2010,4,DOLOSOS,Queretaro,Mar
+2010,1,DOLOSOS,Queretaro,Feb
+2010,5,DOLOSOS,Queretaro,Jan
+2010,305,DOLOSOS,Puebla,Tot
+2010,0,DOLOSOS,Puebla,Dec
+2010,0,DOLOSOS,Puebla,Nov
+2010,ND,DOLOSOS,Puebla,Oct
+2010,36,DOLOSOS,Puebla,Sep
+2010,34,DOLOSOS,Puebla,Aug
+2010,24,DOLOSOS,Puebla,Jul
+2010,35,DOLOSOS,Puebla,Jun
+2010,40,DOLOSOS,Puebla,May
+2010,32,DOLOSOS,Puebla,Apr
+2010,44,DOLOSOS,Puebla,Mar
+2010,37,DOLOSOS,Puebla,Feb
+2010,23,DOLOSOS,Puebla,Jan
+2010,169,DOLOSOS,Oaxaca,Tot
+2010,0,DOLOSOS,Oaxaca,Dec
+2010,0,DOLOSOS,Oaxaca,Nov
+2010,ND,DOLOSOS,Oaxaca,Oct
+2010,1,DOLOSOS,Oaxaca,Sep
+2010,8,DOLOSOS,Oaxaca,Aug
+2010,19,DOLOSOS,Oaxaca,Jul
+2010,21,DOLOSOS,Oaxaca,Jun
+2010,19,DOLOSOS,Oaxaca,May
+2010,31,DOLOSOS,Oaxaca,Apr
+2010,18,DOLOSOS,Oaxaca,Mar
+2010,17,DOLOSOS,Oaxaca,Feb
+2010,35,DOLOSOS,Oaxaca,Jan
+2010,720,DOLOSOS,"Nuevo Leon",Tot
+2010,0,DOLOSOS,"Nuevo Leon",Dec
+2010,0,DOLOSOS,"Nuevo Leon",Nov
+2010,77,DOLOSOS,"Nuevo Leon",Oct
+2010,60,DOLOSOS,"Nuevo Leon",Sep
+2010,74,DOLOSOS,"Nuevo Leon",Aug
+2010,123,DOLOSOS,"Nuevo Leon",Jul
+2010,102,DOLOSOS,"Nuevo Leon",Jun
+2010,58,DOLOSOS,"Nuevo Leon",May
+2010,101,DOLOSOS,"Nuevo Leon",Apr
+2010,73,DOLOSOS,"Nuevo Leon",Mar
+2010,29,DOLOSOS,"Nuevo Leon",Feb
+2010,23,DOLOSOS,"Nuevo Leon",Jan
+2010,258,DOLOSOS,Nayarit,Tot
+2010,0,DOLOSOS,Nayarit,Dec
+2010,0,DOLOSOS,Nayarit,Nov
+2010,ND,DOLOSOS,Nayarit,Oct
+2010,28,DOLOSOS,Nayarit,Sep
+2010,41,DOLOSOS,Nayarit,Aug
+2010,46,DOLOSOS,Nayarit,Jul
+2010,46,DOLOSOS,Nayarit,Jun
+2010,30,DOLOSOS,Nayarit,May
+2010,23,DOLOSOS,Nayarit,Apr
+2010,14,DOLOSOS,Nayarit,Mar
+2010,18,DOLOSOS,Nayarit,Feb
+2010,12,DOLOSOS,Nayarit,Jan
+2010,477,DOLOSOS,Morelos,Tot
+2010,0,DOLOSOS,Morelos,Dec
+2010,0,DOLOSOS,Morelos,Nov
+2010,53,DOLOSOS,Morelos,Oct
+2010,53,DOLOSOS,Morelos,Sep
+2010,62,DOLOSOS,Morelos,Aug
+2010,61,DOLOSOS,Morelos,Jul
+2010,51,DOLOSOS,Morelos,Jun
+2010,33,DOLOSOS,Morelos,May
+2010,60,DOLOSOS,Morelos,Apr
+2010,45,DOLOSOS,Morelos,Mar
+2010,37,DOLOSOS,Morelos,Feb
+2010,22,DOLOSOS,Morelos,Jan
+2010,566,DOLOSOS,Michoacan,Tot
+2010,0,DOLOSOS,Michoacan,Dec
+2010,0,DOLOSOS,Michoacan,Nov
+2010,79,DOLOSOS,Michoacan,Oct
+2010,62,DOLOSOS,Michoacan,Sep
+2010,60,DOLOSOS,Michoacan,Aug
+2010,38,DOLOSOS,Michoacan,Jul
+2010,48,DOLOSOS,Michoacan,Jun
+2010,56,DOLOSOS,Michoacan,May
+2010,64,DOLOSOS,Michoacan,Apr
+2010,48,DOLOSOS,Michoacan,Mar
+2010,50,DOLOSOS,Michoacan,Feb
+2010,61,DOLOSOS,Michoacan,Jan
+2010,806,DOLOSOS,Mexico,Tot
+2010,0,DOLOSOS,Mexico,Dec
+2010,0,DOLOSOS,Mexico,Nov
+2010,ND,DOLOSOS,Mexico,Oct
+2010,108,DOLOSOS,Mexico,Sep
+2010,104,DOLOSOS,Mexico,Aug
+2010,108,DOLOSOS,Mexico,Jul
+2010,92,DOLOSOS,Mexico,Jun
+2010,92,DOLOSOS,Mexico,May
+2010,102,DOLOSOS,Mexico,Apr
+2010,42,DOLOSOS,Mexico,Mar
+2010,58,DOLOSOS,Mexico,Feb
+2010,100,DOLOSOS,Mexico,Jan
+2010,705,DOLOSOS,Jalisco,Tot
+2010,0,DOLOSOS,Jalisco,Dec
+2010,0,DOLOSOS,Jalisco,Nov
+2010,91,DOLOSOS,Jalisco,Oct
+2010,82,DOLOSOS,Jalisco,Sep
+2010,83,DOLOSOS,Jalisco,Aug
+2010,79,DOLOSOS,Jalisco,Jul
+2010,72,DOLOSOS,Jalisco,Jun
+2010,74,DOLOSOS,Jalisco,May
+2010,68,DOLOSOS,Jalisco,Apr
+2010,67,DOLOSOS,Jalisco,Mar
+2010,40,DOLOSOS,Jalisco,Feb
+2010,49,DOLOSOS,Jalisco,Jan
+2010,106,DOLOSOS,Hidalgo,Tot
+2010,0,DOLOSOS,Hidalgo,Dec
+2010,0,DOLOSOS,Hidalgo,Nov
+2010,13,DOLOSOS,Hidalgo,Oct
+2010,11,DOLOSOS,Hidalgo,Sep
+2010,11,DOLOSOS,Hidalgo,Aug
+2010,10,DOLOSOS,Hidalgo,Jul
+2010,16,DOLOSOS,Hidalgo,Jun
+2010,11,DOLOSOS,Hidalgo,May
+2010,12,DOLOSOS,Hidalgo,Apr
+2010,12,DOLOSOS,Hidalgo,Mar
+2010,2,DOLOSOS,Hidalgo,Feb
+2010,8,DOLOSOS,Hidalgo,Jan
+2010,1277,DOLOSOS,Guerrero,Tot
+2010,0,DOLOSOS,Guerrero,Dec
+2010,0,DOLOSOS,Guerrero,Nov
+2010,159,DOLOSOS,Guerrero,Oct
+2010,127,DOLOSOS,Guerrero,Sep
+2010,116,DOLOSOS,Guerrero,Aug
+2010,88,DOLOSOS,Guerrero,Jul
+2010,105,DOLOSOS,Guerrero,Jun
+2010,190,DOLOSOS,Guerrero,May
+2010,111,DOLOSOS,Guerrero,Apr
+2010,158,DOLOSOS,Guerrero,Mar
+2010,102,DOLOSOS,Guerrero,Feb
+2010,121,DOLOSOS,Guerrero,Jan
+2010,319,DOLOSOS,Guanajuato,Tot
+2010,0,DOLOSOS,Guanajuato,Dec
+2010,0,DOLOSOS,Guanajuato,Nov
+2010,ND,DOLOSOS,Guanajuato,Oct
+2010,40,DOLOSOS,Guanajuato,Sep
+2010,36,DOLOSOS,Guanajuato,Aug
+2010,21,DOLOSOS,Guanajuato,Jul
+2010,30,DOLOSOS,Guanajuato,Jun
+2010,35,DOLOSOS,Guanajuato,May
+2010,35,DOLOSOS,Guanajuato,Apr
+2010,56,DOLOSOS,Guanajuato,Mar
+2010,29,DOLOSOS,Guanajuato,Feb
+2010,37,DOLOSOS,Guanajuato,Jan
+2010,1263,DOLOSOS,Durango,Tot
+2010,0,DOLOSOS,Durango,Dec
+2010,0,DOLOSOS,Durango,Nov
+2010,99,DOLOSOS,Durango,Oct
+2010,100,DOLOSOS,Durango,Sep
+2010,112,DOLOSOS,Durango,Aug
+2010,121,DOLOSOS,Durango,Jul
+2010,147,DOLOSOS,Durango,Jun
+2010,188,DOLOSOS,Durango,May
+2010,111,DOLOSOS,Durango,Apr
+2010,134,DOLOSOS,Durango,Mar
+2010,118,DOLOSOS,Durango,Feb
+2010,133,DOLOSOS,Durango,Jan
+2010,679,DOLOSOS,"Distrito Federal",Tot
+2010,0,DOLOSOS,"Distrito Federal",Dec
+2010,0,DOLOSOS,"Distrito Federal",Nov
+2010,77,DOLOSOS,"Distrito Federal",Oct
+2010,71,DOLOSOS,"Distrito Federal",Sep
+2010,73,DOLOSOS,"Distrito Federal",Aug
+2010,61,DOLOSOS,"Distrito Federal",Jul
+2010,53,DOLOSOS,"Distrito Federal",Jun
+2010,77,DOLOSOS,"Distrito Federal",May
+2010,66,DOLOSOS,"Distrito Federal",Apr
+2010,61,DOLOSOS,"Distrito Federal",Mar
+2010,72,DOLOSOS,"Distrito Federal",Feb
+2010,68,DOLOSOS,"Distrito Federal",Jan
+2010,71,DOLOSOS,Colima,Tot
+2010,0,DOLOSOS,Colima,Dec
+2010,0,DOLOSOS,Colima,Nov
+2010,12,DOLOSOS,Colima,Oct
+2010,22,DOLOSOS,Colima,Sep
+2010,8,DOLOSOS,Colima,Aug
+2010,7,DOLOSOS,Colima,Jul
+2010,6,DOLOSOS,Colima,Jun
+2010,9,DOLOSOS,Colima,May
+2010,0,DOLOSOS,Colima,Apr
+2010,4,DOLOSOS,Colima,Mar
+2010,1,DOLOSOS,Colima,Feb
+2010,2,DOLOSOS,Colima,Jan
+2010,339,DOLOSOS,Coahuila,Tot
+2010,0,DOLOSOS,Coahuila,Dec
+2010,0,DOLOSOS,Coahuila,Nov
+2010,37,DOLOSOS,Coahuila,Oct
+2010,35,DOLOSOS,Coahuila,Sep
+2010,18,DOLOSOS,Coahuila,Aug
+2010,31,DOLOSOS,Coahuila,Jul
+2010,40,DOLOSOS,Coahuila,Jun
+2010,58,DOLOSOS,Coahuila,May
+2010,52,DOLOSOS,Coahuila,Apr
+2010,32,DOLOSOS,Coahuila,Mar
+2010,23,DOLOSOS,Coahuila,Feb
+2010,13,DOLOSOS,Coahuila,Jan
+2010,2507,DOLOSOS,Chihuahua,Tot
+2010,0,DOLOSOS,Chihuahua,Dec
+2010,0,DOLOSOS,Chihuahua,Nov
+2010,ND,DOLOSOS,Chihuahua,Oct
+2010,ND,DOLOSOS,Chihuahua,Sep
+2010,396,DOLOSOS,Chihuahua,Aug
+2010,345,DOLOSOS,Chihuahua,Jul
+2010,276,DOLOSOS,Chihuahua,Jun
+2010,376,DOLOSOS,Chihuahua,May
+2010,274,DOLOSOS,Chihuahua,Apr
+2010,309,DOLOSOS,Chihuahua,Mar
+2010,236,DOLOSOS,Chihuahua,Feb
+2010,295,DOLOSOS,Chihuahua,Jan
+2010,344,DOLOSOS,Chiapas,Tot
+2010,0,DOLOSOS,Chiapas,Dec
+2010,0,DOLOSOS,Chiapas,Nov
+2010,54,DOLOSOS,Chiapas,Oct
+2010,28,DOLOSOS,Chiapas,Sep
+2010,30,DOLOSOS,Chiapas,Aug
+2010,46,DOLOSOS,Chiapas,Jul
+2010,49,DOLOSOS,Chiapas,Jun
+2010,42,DOLOSOS,Chiapas,May
+2010,30,DOLOSOS,Chiapas,Apr
+2010,41,DOLOSOS,Chiapas,Mar
+2010,24,DOLOSOS,Chiapas,Feb
+2010,0,DOLOSOS,Chiapas,Jan
+2010,44,DOLOSOS,Campeche,Tot
+2010,0,DOLOSOS,Campeche,Dec
+2010,0,DOLOSOS,Campeche,Nov
+2010,ND,DOLOSOS,Campeche,Oct
+2010,7,DOLOSOS,Campeche,Sep
+2010,2,DOLOSOS,Campeche,Aug
+2010,5,DOLOSOS,Campeche,Jul
+2010,2,DOLOSOS,Campeche,Jun
+2010,1,DOLOSOS,Campeche,May
+2010,10,DOLOSOS,Campeche,Apr
+2010,9,DOLOSOS,Campeche,Mar
+2010,5,DOLOSOS,Campeche,Feb
+2010,3,DOLOSOS,Campeche,Jan
+2010,42,DOLOSOS,"Baja California Sur",Tot
+2010,0,DOLOSOS,"Baja California Sur",Dec
+2010,0,DOLOSOS,"Baja California Sur",Nov
+2010,2,DOLOSOS,"Baja California Sur",Oct
+2010,8,DOLOSOS,"Baja California Sur",Sep
+2010,6,DOLOSOS,"Baja California Sur",Aug
+2010,3,DOLOSOS,"Baja California Sur",Jul
+2010,0,DOLOSOS,"Baja California Sur",Jun
+2010,6,DOLOSOS,"Baja California Sur",May
+2010,3,DOLOSOS,"Baja California Sur",Apr
+2010,9,DOLOSOS,"Baja California Sur",Mar
+2010,3,DOLOSOS,"Baja California Sur",Feb
+2010,2,DOLOSOS,"Baja California Sur",Jan
+2010,647,DOLOSOS,"Baja California",Tot
+2010,0,DOLOSOS,"Baja California",Dec
+2010,0,DOLOSOS,"Baja California",Nov
+2010,ND,DOLOSOS,"Baja California",Oct
+2010,70,DOLOSOS,"Baja California",Sep
+2010,65,DOLOSOS,"Baja California",Aug
+2010,72,DOLOSOS,"Baja California",Jul
+2010,58,DOLOSOS,"Baja California",Jun
+2010,64,DOLOSOS,"Baja California",May
+2010,70,DOLOSOS,"Baja California",Apr
+2010,70,DOLOSOS,"Baja California",Mar
+2010,64,DOLOSOS,"Baja California",Feb
+2010,114,DOLOSOS,"Baja California",Jan
+2010,36,DOLOSOS,Aguascalientes,Tot
+2010,0,DOLOSOS,Aguascalientes,Dec
+2010,0,DOLOSOS,Aguascalientes,Nov
+2010,ND,DOLOSOS,Aguascalientes,Oct
+2010,ND,DOLOSOS,Aguascalientes,Sep
+2010,8,DOLOSOS,Aguascalientes,Aug
+2010,5,DOLOSOS,Aguascalientes,Jul
+2010,6,DOLOSOS,Aguascalientes,Jun
+2010,4,DOLOSOS,Aguascalientes,May
+2010,1,DOLOSOS,Aguascalientes,Apr
+2010,3,DOLOSOS,Aguascalientes,Mar
+2010,6,DOLOSOS,Aguascalientes,Feb
+2010,3,DOLOSOS,Aguascalientes,Jan
+2010,15685,DOLOSOS,National,Tot
+2010,0,DOLOSOS,National,Dec
+2010,0,DOLOSOS,National,Nov
+2010,1064,DOLOSOS,National,Oct
+2010,1276,DOLOSOS,National,Sep
+2010,1811,DOLOSOS,National,Aug
+2010,1788,DOLOSOS,National,Jul
+2010,1716,DOLOSOS,National,Jun
+2010,1837,DOLOSOS,National,May
+2010,1657,DOLOSOS,National,Apr
+2010,1656,DOLOSOS,National,Mar
+2010,1342,DOLOSOS,National,Feb
+2010,1538,DOLOSOS,National,Jan
+2009,76,DOLOSOS,Zacatecas,Tot
+2009,3,DOLOSOS,Zacatecas,Dec
+2009,5,DOLOSOS,Zacatecas,Nov
+2009,6,DOLOSOS,Zacatecas,Oct
+2009,9,DOLOSOS,Zacatecas,Sep
+2009,9,DOLOSOS,Zacatecas,Aug
+2009,10,DOLOSOS,Zacatecas,Jul
+2009,4,DOLOSOS,Zacatecas,Jun
+2009,6,DOLOSOS,Zacatecas,May
+2009,4,DOLOSOS,Zacatecas,Apr
+2009,2,DOLOSOS,Zacatecas,Mar
+2009,6,DOLOSOS,Zacatecas,Feb
+2009,12,DOLOSOS,Zacatecas,Jan
+2009,33,DOLOSOS,Yucatan,Tot
+2009,2,DOLOSOS,Yucatan,Dec
+2009,4,DOLOSOS,Yucatan,Nov
+2009,4,DOLOSOS,Yucatan,Oct
+2009,2,DOLOSOS,Yucatan,Sep
+2009,2,DOLOSOS,Yucatan,Aug
+2009,4,DOLOSOS,Yucatan,Jul
+2009,2,DOLOSOS,Yucatan,Jun
+2009,4,DOLOSOS,Yucatan,May
+2009,0,DOLOSOS,Yucatan,Apr
+2009,3,DOLOSOS,Yucatan,Mar
+2009,4,DOLOSOS,Yucatan,Feb
+2009,2,DOLOSOS,Yucatan,Jan
+2009,347,DOLOSOS,Veracruz,Tot
+2009,28,DOLOSOS,Veracruz,Dec
+2009,20,DOLOSOS,Veracruz,Nov
+2009,31,DOLOSOS,Veracruz,Oct
+2009,27,DOLOSOS,Veracruz,Sep
+2009,31,DOLOSOS,Veracruz,Aug
+2009,26,DOLOSOS,Veracruz,Jul
+2009,39,DOLOSOS,Veracruz,Jun
+2009,29,DOLOSOS,Veracruz,May
+2009,32,DOLOSOS,Veracruz,Apr
+2009,23,DOLOSOS,Veracruz,Mar
+2009,22,DOLOSOS,Veracruz,Feb
+2009,39,DOLOSOS,Veracruz,Jan
+2009,48,DOLOSOS,Tlaxcala,Tot
+2009,4,DOLOSOS,Tlaxcala,Dec
+2009,3,DOLOSOS,Tlaxcala,Nov
+2009,4,DOLOSOS,Tlaxcala,Oct
+2009,4,DOLOSOS,Tlaxcala,Sep
+2009,5,DOLOSOS,Tlaxcala,Aug
+2009,3,DOLOSOS,Tlaxcala,Jul
+2009,4,DOLOSOS,Tlaxcala,Jun
+2009,3,DOLOSOS,Tlaxcala,May
+2009,3,DOLOSOS,Tlaxcala,Apr
+2009,2,DOLOSOS,Tlaxcala,Mar
+2009,8,DOLOSOS,Tlaxcala,Feb
+2009,5,DOLOSOS,Tlaxcala,Jan
+2009,288,DOLOSOS,Tamaulipas,Tot
+2009,16,DOLOSOS,Tamaulipas,Dec
+2009,30,DOLOSOS,Tamaulipas,Nov
+2009,22,DOLOSOS,Tamaulipas,Oct
+2009,30,DOLOSOS,Tamaulipas,Sep
+2009,19,DOLOSOS,Tamaulipas,Aug
+2009,23,DOLOSOS,Tamaulipas,Jul
+2009,26,DOLOSOS,Tamaulipas,Jun
+2009,27,DOLOSOS,Tamaulipas,May
+2009,24,DOLOSOS,Tamaulipas,Apr
+2009,17,DOLOSOS,Tamaulipas,Mar
+2009,29,DOLOSOS,Tamaulipas,Feb
+2009,25,DOLOSOS,Tamaulipas,Jan
+2009,117,DOLOSOS,Tabasco,Tot
+2009,15,DOLOSOS,Tabasco,Dec
+2009,7,DOLOSOS,Tabasco,Nov
+2009,8,DOLOSOS,Tabasco,Oct
+2009,9,DOLOSOS,Tabasco,Sep
+2009,11,DOLOSOS,Tabasco,Aug
+2009,8,DOLOSOS,Tabasco,Jul
+2009,5,DOLOSOS,Tabasco,Jun
+2009,8,DOLOSOS,Tabasco,May
+2009,10,DOLOSOS,Tabasco,Apr
+2009,7,DOLOSOS,Tabasco,Mar
+2009,15,DOLOSOS,Tabasco,Feb
+2009,14,DOLOSOS,Tabasco,Jan
+2009,498,DOLOSOS,Sonora,Tot
+2009,75,DOLOSOS,Sonora,Dec
+2009,51,DOLOSOS,Sonora,Nov
+2009,43,DOLOSOS,Sonora,Oct
+2009,39,DOLOSOS,Sonora,Sep
+2009,40,DOLOSOS,Sonora,Aug
+2009,29,DOLOSOS,Sonora,Jul
+2009,55,DOLOSOS,Sonora,Jun
+2009,31,DOLOSOS,Sonora,May
+2009,35,DOLOSOS,Sonora,Apr
+2009,30,DOLOSOS,Sonora,Mar
+2009,37,DOLOSOS,Sonora,Feb
+2009,33,DOLOSOS,Sonora,Jan
+2009,1251,DOLOSOS,Sinaloa,Tot
+2009,157,DOLOSOS,Sinaloa,Dec
+2009,161,DOLOSOS,Sinaloa,Nov
+2009,103,DOLOSOS,Sinaloa,Oct
+2009,134,DOLOSOS,Sinaloa,Sep
+2009,107,DOLOSOS,Sinaloa,Aug
+2009,97,DOLOSOS,Sinaloa,Jul
+2009,89,DOLOSOS,Sinaloa,Jun
+2009,86,DOLOSOS,Sinaloa,May
+2009,82,DOLOSOS,Sinaloa,Apr
+2009,107,DOLOSOS,Sinaloa,Mar
+2009,66,DOLOSOS,Sinaloa,Feb
+2009,62,DOLOSOS,Sinaloa,Jan
+2009,158,DOLOSOS,"San Luis Potosi",Tot
+2009,14,DOLOSOS,"San Luis Potosi",Dec
+2009,12,DOLOSOS,"San Luis Potosi",Nov
+2009,9,DOLOSOS,"San Luis Potosi",Oct
+2009,15,DOLOSOS,"San Luis Potosi",Sep
+2009,11,DOLOSOS,"San Luis Potosi",Aug
+2009,9,DOLOSOS,"San Luis Potosi",Jul
+2009,14,DOLOSOS,"San Luis Potosi",Jun
+2009,21,DOLOSOS,"San Luis Potosi",May
+2009,18,DOLOSOS,"San Luis Potosi",Apr
+2009,9,DOLOSOS,"San Luis Potosi",Mar
+2009,16,DOLOSOS,"San Luis Potosi",Feb
+2009,10,DOLOSOS,"San Luis Potosi",Jan
+2009,177,DOLOSOS,"Quintana Roo",Tot
+2009,15,DOLOSOS,"Quintana Roo",Dec
+2009,9,DOLOSOS,"Quintana Roo",Nov
+2009,14,DOLOSOS,"Quintana Roo",Oct
+2009,17,DOLOSOS,"Quintana Roo",Sep
+2009,21,DOLOSOS,"Quintana Roo",Aug
+2009,22,DOLOSOS,"Quintana Roo",Jul
+2009,11,DOLOSOS,"Quintana Roo",Jun
+2009,7,DOLOSOS,"Quintana Roo",May
+2009,14,DOLOSOS,"Quintana Roo",Apr
+2009,14,DOLOSOS,"Quintana Roo",Mar
+2009,17,DOLOSOS,"Quintana Roo",Feb
+2009,16,DOLOSOS,"Quintana Roo",Jan
+2009,90,DOLOSOS,Queretaro,Tot
+2009,12,DOLOSOS,Queretaro,Dec
+2009,7,DOLOSOS,Queretaro,Nov
+2009,6,DOLOSOS,Queretaro,Oct
+2009,8,DOLOSOS,Queretaro,Sep
+2009,12,DOLOSOS,Queretaro,Aug
+2009,7,DOLOSOS,Queretaro,Jul
+2009,8,DOLOSOS,Queretaro,Jun
+2009,7,DOLOSOS,Queretaro,May
+2009,4,DOLOSOS,Queretaro,Apr
+2009,5,DOLOSOS,Queretaro,Mar
+2009,6,DOLOSOS,Queretaro,Feb
+2009,8,DOLOSOS,Queretaro,Jan
+2009,414,DOLOSOS,Puebla,Tot
+2009,19,DOLOSOS,Puebla,Dec
+2009,40,DOLOSOS,Puebla,Nov
+2009,44,DOLOSOS,Puebla,Oct
+2009,26,DOLOSOS,Puebla,Sep
+2009,27,DOLOSOS,Puebla,Aug
+2009,35,DOLOSOS,Puebla,Jul
+2009,37,DOLOSOS,Puebla,Jun
+2009,22,DOLOSOS,Puebla,May
+2009,27,DOLOSOS,Puebla,Apr
+2009,39,DOLOSOS,Puebla,Mar
+2009,49,DOLOSOS,Puebla,Feb
+2009,49,DOLOSOS,Puebla,Jan
+2009,752,DOLOSOS,Oaxaca,Tot
+2009,21,DOLOSOS,Oaxaca,Dec
+2009,42,DOLOSOS,Oaxaca,Nov
+2009,13,DOLOSOS,Oaxaca,Oct
+2009,20,DOLOSOS,Oaxaca,Sep
+2009,55,DOLOSOS,Oaxaca,Aug
+2009,71,DOLOSOS,Oaxaca,Jul
+2009,68,DOLOSOS,Oaxaca,Jun
+2009,98,DOLOSOS,Oaxaca,May
+2009,110,DOLOSOS,Oaxaca,Apr
+2009,91,DOLOSOS,Oaxaca,Mar
+2009,78,DOLOSOS,Oaxaca,Feb
+2009,85,DOLOSOS,Oaxaca,Jan
+2009,267,DOLOSOS,"Nuevo Leon",Tot
+2009,42,DOLOSOS,"Nuevo Leon",Dec
+2009,15,DOLOSOS,"Nuevo Leon",Nov
+2009,26,DOLOSOS,"Nuevo Leon",Oct
+2009,31,DOLOSOS,"Nuevo Leon",Sep
+2009,32,DOLOSOS,"Nuevo Leon",Aug
+2009,24,DOLOSOS,"Nuevo Leon",Jul
+2009,13,DOLOSOS,"Nuevo Leon",Jun
+2009,15,DOLOSOS,"Nuevo Leon",May
+2009,26,DOLOSOS,"Nuevo Leon",Apr
+2009,7,DOLOSOS,"Nuevo Leon",Mar
+2009,16,DOLOSOS,"Nuevo Leon",Feb
+2009,20,DOLOSOS,"Nuevo Leon",Jan
+2009,148,DOLOSOS,Nayarit,Tot
+2009,12,DOLOSOS,Nayarit,Dec
+2009,16,DOLOSOS,Nayarit,Nov
+2009,14,DOLOSOS,Nayarit,Oct
+2009,12,DOLOSOS,Nayarit,Sep
+2009,11,DOLOSOS,Nayarit,Aug
+2009,8,DOLOSOS,Nayarit,Jul
+2009,6,DOLOSOS,Nayarit,Jun
+2009,14,DOLOSOS,Nayarit,May
+2009,18,DOLOSOS,Nayarit,Apr
+2009,12,DOLOSOS,Nayarit,Mar
+2009,14,DOLOSOS,Nayarit,Feb
+2009,11,DOLOSOS,Nayarit,Jan
+2009,317,DOLOSOS,Morelos,Tot
+2009,25,DOLOSOS,Morelos,Dec
+2009,29,DOLOSOS,Morelos,Nov
+2009,26,DOLOSOS,Morelos,Oct
+2009,43,DOLOSOS,Morelos,Sep
+2009,27,DOLOSOS,Morelos,Aug
+2009,32,DOLOSOS,Morelos,Jul
+2009,28,DOLOSOS,Morelos,Jun
+2009,26,DOLOSOS,Morelos,May
+2009,18,DOLOSOS,Morelos,Apr
+2009,31,DOLOSOS,Morelos,Mar
+2009,12,DOLOSOS,Morelos,Feb
+2009,20,DOLOSOS,Morelos,Jan
+2009,728,DOLOSOS,Michoacan,Tot
+2009,69,DOLOSOS,Michoacan,Dec
+2009,61,DOLOSOS,Michoacan,Nov
+2009,50,DOLOSOS,Michoacan,Oct
+2009,58,DOLOSOS,Michoacan,Sep
+2009,57,DOLOSOS,Michoacan,Aug
+2009,67,DOLOSOS,Michoacan,Jul
+2009,71,DOLOSOS,Michoacan,Jun
+2009,65,DOLOSOS,Michoacan,May
+2009,88,DOLOSOS,Michoacan,Apr
+2009,61,DOLOSOS,Michoacan,Mar
+2009,44,DOLOSOS,Michoacan,Feb
+2009,37,DOLOSOS,Michoacan,Jan
+2009,1345,DOLOSOS,Mexico,Tot
+2009,119,DOLOSOS,Mexico,Dec
+2009,104,DOLOSOS,Mexico,Nov
+2009,130,DOLOSOS,Mexico,Oct
+2009,124,DOLOSOS,Mexico,Sep
+2009,104,DOLOSOS,Mexico,Aug
+2009,115,DOLOSOS,Mexico,Jul
+2009,114,DOLOSOS,Mexico,Jun
+2009,104,DOLOSOS,Mexico,May
+2009,106,DOLOSOS,Mexico,Apr
+2009,111,DOLOSOS,Mexico,Mar
+2009,110,DOLOSOS,Mexico,Feb
+2009,104,DOLOSOS,Mexico,Jan
+2009,570,DOLOSOS,Jalisco,Tot
+2009,61,DOLOSOS,Jalisco,Dec
+2009,52,DOLOSOS,Jalisco,Nov
+2009,51,DOLOSOS,Jalisco,Oct
+2009,43,DOLOSOS,Jalisco,Sep
+2009,54,DOLOSOS,Jalisco,Aug
+2009,46,DOLOSOS,Jalisco,Jul
+2009,52,DOLOSOS,Jalisco,Jun
+2009,48,DOLOSOS,Jalisco,May
+2009,35,DOLOSOS,Jalisco,Apr
+2009,42,DOLOSOS,Jalisco,Mar
+2009,34,DOLOSOS,Jalisco,Feb
+2009,52,DOLOSOS,Jalisco,Jan
+2009,137,DOLOSOS,Hidalgo,Tot
+2009,11,DOLOSOS,Hidalgo,Dec
+2009,9,DOLOSOS,Hidalgo,Nov
+2009,10,DOLOSOS,Hidalgo,Oct
+2009,12,DOLOSOS,Hidalgo,Sep
+2009,19,DOLOSOS,Hidalgo,Aug
+2009,11,DOLOSOS,Hidalgo,Jul
+2009,10,DOLOSOS,Hidalgo,Jun
+2009,10,DOLOSOS,Hidalgo,May
+2009,17,DOLOSOS,Hidalgo,Apr
+2009,8,DOLOSOS,Hidalgo,Mar
+2009,9,DOLOSOS,Hidalgo,Feb
+2009,11,DOLOSOS,Hidalgo,Jan
+2009,1431,DOLOSOS,Guerrero,Tot
+2009,121,DOLOSOS,Guerrero,Dec
+2009,105,DOLOSOS,Guerrero,Nov
+2009,145,DOLOSOS,Guerrero,Oct
+2009,128,DOLOSOS,Guerrero,Sep
+2009,113,DOLOSOS,Guerrero,Aug
+2009,133,DOLOSOS,Guerrero,Jul
+2009,132,DOLOSOS,Guerrero,Jun
+2009,110,DOLOSOS,Guerrero,May
+2009,127,DOLOSOS,Guerrero,Apr
+2009,105,DOLOSOS,Guerrero,Mar
+2009,124,DOLOSOS,Guerrero,Feb
+2009,88,DOLOSOS,Guerrero,Jan
+2009,414,DOLOSOS,Guanajuato,Tot
+2009,38,DOLOSOS,Guanajuato,Dec
+2009,36,DOLOSOS,Guanajuato,Nov
+2009,30,DOLOSOS,Guanajuato,Oct
+2009,36,DOLOSOS,Guanajuato,Sep
+2009,37,DOLOSOS,Guanajuato,Aug
+2009,34,DOLOSOS,Guanajuato,Jul
+2009,30,DOLOSOS,Guanajuato,Jun
+2009,37,DOLOSOS,Guanajuato,May
+2009,30,DOLOSOS,Guanajuato,Apr
+2009,35,DOLOSOS,Guanajuato,Mar
+2009,22,DOLOSOS,Guanajuato,Feb
+2009,49,DOLOSOS,Guanajuato,Jan
+2009,930,DOLOSOS,Durango,Tot
+2009,101,DOLOSOS,Durango,Dec
+2009,67,DOLOSOS,Durango,Nov
+2009,64,DOLOSOS,Durango,Oct
+2009,90,DOLOSOS,Durango,Sep
+2009,106,DOLOSOS,Durango,Aug
+2009,55,DOLOSOS,Durango,Jul
+2009,125,DOLOSOS,Durango,Jun
+2009,53,DOLOSOS,Durango,May
+2009,54,DOLOSOS,Durango,Apr
+2009,96,DOLOSOS,Durango,Mar
+2009,89,DOLOSOS,Durango,Feb
+2009,30,DOLOSOS,Durango,Jan
+2009,747,DOLOSOS,"Distrito Federal",Tot
+2009,70,DOLOSOS,"Distrito Federal",Dec
+2009,45,DOLOSOS,"Distrito Federal",Nov
+2009,62,DOLOSOS,"Distrito Federal",Oct
+2009,72,DOLOSOS,"Distrito Federal",Sep
+2009,67,DOLOSOS,"Distrito Federal",Aug
+2009,56,DOLOSOS,"Distrito Federal",Jul
+2009,61,DOLOSOS,"Distrito Federal",Jun
+2009,75,DOLOSOS,"Distrito Federal",May
+2009,72,DOLOSOS,"Distrito Federal",Apr
+2009,66,DOLOSOS,"Distrito Federal",Mar
+2009,58,DOLOSOS,"Distrito Federal",Feb
+2009,43,DOLOSOS,"Distrito Federal",Jan
+2009,52,DOLOSOS,Colima,Tot
+2009,3,DOLOSOS,Colima,Dec
+2009,2,DOLOSOS,Colima,Nov
+2009,1,DOLOSOS,Colima,Oct
+2009,9,DOLOSOS,Colima,Sep
+2009,7,DOLOSOS,Colima,Aug
+2009,3,DOLOSOS,Colima,Jul
+2009,2,DOLOSOS,Colima,Jun
+2009,4,DOLOSOS,Colima,May
+2009,3,DOLOSOS,Colima,Apr
+2009,8,DOLOSOS,Colima,Mar
+2009,6,DOLOSOS,Colima,Feb
+2009,4,DOLOSOS,Colima,Jan
+2009,240,DOLOSOS,Coahuila,Tot
+2009,21,DOLOSOS,Coahuila,Dec
+2009,18,DOLOSOS,Coahuila,Nov
+2009,22,DOLOSOS,Coahuila,Oct
+2009,14,DOLOSOS,Coahuila,Sep
+2009,16,DOLOSOS,Coahuila,Aug
+2009,19,DOLOSOS,Coahuila,Jul
+2009,25,DOLOSOS,Coahuila,Jun
+2009,21,DOLOSOS,Coahuila,May
+2009,23,DOLOSOS,Coahuila,Apr
+2009,23,DOLOSOS,Coahuila,Mar
+2009,20,DOLOSOS,Coahuila,Feb
+2009,18,DOLOSOS,Coahuila,Jan
+2009,3156,DOLOSOS,Chihuahua,Tot
+2009,334,DOLOSOS,Chihuahua,Dec
+2009,299,DOLOSOS,Chihuahua,Nov
+2009,318,DOLOSOS,Chihuahua,Oct
+2009,332,DOLOSOS,Chihuahua,Sep
+2009,318,DOLOSOS,Chihuahua,Aug
+2009,293,DOLOSOS,Chihuahua,Jul
+2009,272,DOLOSOS,Chihuahua,Jun
+2009,217,DOLOSOS,Chihuahua,May
+2009,157,DOLOSOS,Chihuahua,Apr
+2009,140,DOLOSOS,Chihuahua,Mar
+2009,255,DOLOSOS,Chihuahua,Feb
+2009,221,DOLOSOS,Chihuahua,Jan
+2009,499,DOLOSOS,Chiapas,Tot
+2009,45,DOLOSOS,Chiapas,Dec
+2009,37,DOLOSOS,Chiapas,Nov
+2009,44,DOLOSOS,Chiapas,Oct
+2009,61,DOLOSOS,Chiapas,Sep
+2009,45,DOLOSOS,Chiapas,Aug
+2009,58,DOLOSOS,Chiapas,Jul
+2009,42,DOLOSOS,Chiapas,Jun
+2009,46,DOLOSOS,Chiapas,May
+2009,29,DOLOSOS,Chiapas,Apr
+2009,29,DOLOSOS,Chiapas,Mar
+2009,30,DOLOSOS,Chiapas,Feb
+2009,33,DOLOSOS,Chiapas,Jan
+2009,41,DOLOSOS,Campeche,Tot
+2009,1,DOLOSOS,Campeche,Dec
+2009,2,DOLOSOS,Campeche,Nov
+2009,8,DOLOSOS,Campeche,Oct
+2009,6,DOLOSOS,Campeche,Sep
+2009,3,DOLOSOS,Campeche,Aug
+2009,7,DOLOSOS,Campeche,Jul
+2009,1,DOLOSOS,Campeche,Jun
+2009,7,DOLOSOS,Campeche,May
+2009,1,DOLOSOS,Campeche,Apr
+2009,2,DOLOSOS,Campeche,Mar
+2009,2,DOLOSOS,Campeche,Feb
+2009,1,DOLOSOS,Campeche,Jan
+2009,31,DOLOSOS,"Baja California Sur",Tot
+2009,3,DOLOSOS,"Baja California Sur",Dec
+2009,2,DOLOSOS,"Baja California Sur",Nov
+2009,3,DOLOSOS,"Baja California Sur",Oct
+2009,2,DOLOSOS,"Baja California Sur",Sep
+2009,4,DOLOSOS,"Baja California Sur",Aug
+2009,2,DOLOSOS,"Baja California Sur",Jul
+2009,4,DOLOSOS,"Baja California Sur",Jun
+2009,4,DOLOSOS,"Baja California Sur",May
+2009,0,DOLOSOS,"Baja California Sur",Apr
+2009,2,DOLOSOS,"Baja California Sur",Mar
+2009,5,DOLOSOS,"Baja California Sur",Feb
+2009,0,DOLOSOS,"Baja California Sur",Jan
+2009,749,DOLOSOS,"Baja California",Tot
+2009,107,DOLOSOS,"Baja California",Dec
+2009,55,DOLOSOS,"Baja California",Nov
+2009,44,DOLOSOS,"Baja California",Oct
+2009,61,DOLOSOS,"Baja California",Sep
+2009,66,DOLOSOS,"Baja California",Aug
+2009,61,DOLOSOS,"Baja California",Jul
+2009,45,DOLOSOS,"Baja California",Jun
+2009,57,DOLOSOS,"Baja California",May
+2009,59,DOLOSOS,"Baja California",Apr
+2009,59,DOLOSOS,"Baja California",Mar
+2009,58,DOLOSOS,"Baja California",Feb
+2009,77,DOLOSOS,"Baja California",Jan
+2009,66,DOLOSOS,Aguascalientes,Tot
+2009,12,DOLOSOS,Aguascalientes,Dec
+2009,4,DOLOSOS,Aguascalientes,Nov
+2009,3,DOLOSOS,Aguascalientes,Oct
+2009,4,DOLOSOS,Aguascalientes,Sep
+2009,3,DOLOSOS,Aguascalientes,Aug
+2009,6,DOLOSOS,Aguascalientes,Jul
+2009,5,DOLOSOS,Aguascalientes,Jun
+2009,6,DOLOSOS,Aguascalientes,May
+2009,6,DOLOSOS,Aguascalientes,Apr
+2009,7,DOLOSOS,Aguascalientes,Mar
+2009,5,DOLOSOS,Aguascalientes,Feb
+2009,5,DOLOSOS,Aguascalientes,Jan
+2009,16117,DOLOSOS,National,Tot
+2009,1576,DOLOSOS,National,Dec
+2009,1349,DOLOSOS,National,Nov
+2009,1358,DOLOSOS,National,Oct
+2009,1478,DOLOSOS,National,Sep
+2009,1439,DOLOSOS,National,Aug
+2009,1374,DOLOSOS,National,Jul
+2009,1400,DOLOSOS,National,Jun
+2009,1268,DOLOSOS,National,May
+2009,1232,DOLOSOS,National,Apr
+2009,1193,DOLOSOS,National,Mar
+2009,1266,DOLOSOS,National,Feb
+2009,1184,DOLOSOS,National,Jan
+2008,74,DOLOSOS,Zacatecas,Tot
+2008,7,DOLOSOS,Zacatecas,Dec
+2008,5,DOLOSOS,Zacatecas,Nov
+2008,4,DOLOSOS,Zacatecas,Oct
+2008,11,DOLOSOS,Zacatecas,Sep
+2008,8,DOLOSOS,Zacatecas,Aug
+2008,3,DOLOSOS,Zacatecas,Jul
+2008,6,DOLOSOS,Zacatecas,Jun
+2008,6,DOLOSOS,Zacatecas,May
+2008,8,DOLOSOS,Zacatecas,Apr
+2008,8,DOLOSOS,Zacatecas,Mar
+2008,4,DOLOSOS,Zacatecas,Feb
+2008,4,DOLOSOS,Zacatecas,Jan
+2008,47,DOLOSOS,Yucatan,Tot
+2008,4,DOLOSOS,Yucatan,Dec
+2008,1,DOLOSOS,Yucatan,Nov
+2008,3,DOLOSOS,Yucatan,Oct
+2008,0,DOLOSOS,Yucatan,Sep
+2008,15,DOLOSOS,Yucatan,Aug
+2008,2,DOLOSOS,Yucatan,Jul
+2008,3,DOLOSOS,Yucatan,Jun
+2008,6,DOLOSOS,Yucatan,May
+2008,2,DOLOSOS,Yucatan,Apr
+2008,2,DOLOSOS,Yucatan,Mar
+2008,4,DOLOSOS,Yucatan,Feb
+2008,5,DOLOSOS,Yucatan,Jan
+2008,477,DOLOSOS,Veracruz,Tot
+2008,20,DOLOSOS,Veracruz,Dec
+2008,46,DOLOSOS,Veracruz,Nov
+2008,43,DOLOSOS,Veracruz,Oct
+2008,29,DOLOSOS,Veracruz,Sep
+2008,29,DOLOSOS,Veracruz,Aug
+2008,29,DOLOSOS,Veracruz,Jul
+2008,56,DOLOSOS,Veracruz,Jun
+2008,50,DOLOSOS,Veracruz,May
+2008,48,DOLOSOS,Veracruz,Apr
+2008,45,DOLOSOS,Veracruz,Mar
+2008,39,DOLOSOS,Veracruz,Feb
+2008,43,DOLOSOS,Veracruz,Jan
+2008,42,DOLOSOS,Tlaxcala,Tot
+2008,4,DOLOSOS,Tlaxcala,Dec
+2008,3,DOLOSOS,Tlaxcala,Nov
+2008,5,DOLOSOS,Tlaxcala,Oct
+2008,4,DOLOSOS,Tlaxcala,Sep
+2008,3,DOLOSOS,Tlaxcala,Aug
+2008,3,DOLOSOS,Tlaxcala,Jul
+2008,0,DOLOSOS,Tlaxcala,Jun
+2008,5,DOLOSOS,Tlaxcala,May
+2008,15,DOLOSOS,Tlaxcala,Apr
+2008,0,DOLOSOS,Tlaxcala,Mar
+2008,0,DOLOSOS,Tlaxcala,Feb
+2008,0,DOLOSOS,Tlaxcala,Jan
+2008,308,DOLOSOS,Tamaulipas,Tot
+2008,16,DOLOSOS,Tamaulipas,Dec
+2008,24,DOLOSOS,Tamaulipas,Nov
+2008,54,DOLOSOS,Tamaulipas,Oct
+2008,25,DOLOSOS,Tamaulipas,Sep
+2008,23,DOLOSOS,Tamaulipas,Aug
+2008,18,DOLOSOS,Tamaulipas,Jul
+2008,19,DOLOSOS,Tamaulipas,Jun
+2008,25,DOLOSOS,Tamaulipas,May
+2008,24,DOLOSOS,Tamaulipas,Apr
+2008,30,DOLOSOS,Tamaulipas,Mar
+2008,20,DOLOSOS,Tamaulipas,Feb
+2008,30,DOLOSOS,Tamaulipas,Jan
+2008,148,DOLOSOS,Tabasco,Tot
+2008,19,DOLOSOS,Tabasco,Dec
+2008,10,DOLOSOS,Tabasco,Nov
+2008,8,DOLOSOS,Tabasco,Oct
+2008,15,DOLOSOS,Tabasco,Sep
+2008,18,DOLOSOS,Tabasco,Aug
+2008,8,DOLOSOS,Tabasco,Jul
+2008,12,DOLOSOS,Tabasco,Jun
+2008,17,DOLOSOS,Tabasco,May
+2008,14,DOLOSOS,Tabasco,Apr
+2008,10,DOLOSOS,Tabasco,Mar
+2008,9,DOLOSOS,Tabasco,Feb
+2008,8,DOLOSOS,Tabasco,Jan
+2008,393,DOLOSOS,Sonora,Tot
+2008,40,DOLOSOS,Sonora,Dec
+2008,32,DOLOSOS,Sonora,Nov
+2008,54,DOLOSOS,Sonora,Oct
+2008,39,DOLOSOS,Sonora,Sep
+2008,46,DOLOSOS,Sonora,Aug
+2008,39,DOLOSOS,Sonora,Jul
+2008,32,DOLOSOS,Sonora,Jun
+2008,31,DOLOSOS,Sonora,May
+2008,21,DOLOSOS,Sonora,Apr
+2008,22,DOLOSOS,Sonora,Mar
+2008,17,DOLOSOS,Sonora,Feb
+2008,20,DOLOSOS,Sonora,Jan
+2008,1156,DOLOSOS,Sinaloa,Tot
+2008,144,DOLOSOS,Sinaloa,Dec
+2008,127,DOLOSOS,Sinaloa,Nov
+2008,102,DOLOSOS,Sinaloa,Oct
+2008,91,DOLOSOS,Sinaloa,Sep
+2008,92,DOLOSOS,Sinaloa,Aug
+2008,141,DOLOSOS,Sinaloa,Jul
+2008,128,DOLOSOS,Sinaloa,Jun
+2008,106,DOLOSOS,Sinaloa,May
+2008,62,DOLOSOS,Sinaloa,Apr
+2008,76,DOLOSOS,Sinaloa,Mar
+2008,39,DOLOSOS,Sinaloa,Feb
+2008,48,DOLOSOS,Sinaloa,Jan
+2008,218,DOLOSOS,"San Luis Potosi",Tot
+2008,12,DOLOSOS,"San Luis Potosi",Dec
+2008,19,DOLOSOS,"San Luis Potosi",Nov
+2008,24,DOLOSOS,"San Luis Potosi",Oct
+2008,11,DOLOSOS,"San Luis Potosi",Sep
+2008,19,DOLOSOS,"San Luis Potosi",Aug
+2008,16,DOLOSOS,"San Luis Potosi",Jul
+2008,13,DOLOSOS,"San Luis Potosi",Jun
+2008,15,DOLOSOS,"San Luis Potosi",May
+2008,24,DOLOSOS,"San Luis Potosi",Apr
+2008,17,DOLOSOS,"San Luis Potosi",Mar
+2008,28,DOLOSOS,"San Luis Potosi",Feb
+2008,20,DOLOSOS,"San Luis Potosi",Jan
+2008,192,DOLOSOS,"Quintana Roo",Tot
+2008,12,DOLOSOS,"Quintana Roo",Dec
+2008,16,DOLOSOS,"Quintana Roo",Nov
+2008,10,DOLOSOS,"Quintana Roo",Oct
+2008,24,DOLOSOS,"Quintana Roo",Sep
+2008,27,DOLOSOS,"Quintana Roo",Aug
+2008,13,DOLOSOS,"Quintana Roo",Jul
+2008,19,DOLOSOS,"Quintana Roo",Jun
+2008,11,DOLOSOS,"Quintana Roo",May
+2008,8,DOLOSOS,"Quintana Roo",Apr
+2008,18,DOLOSOS,"Quintana Roo",Mar
+2008,14,DOLOSOS,"Quintana Roo",Feb
+2008,20,DOLOSOS,"Quintana Roo",Jan
+2008,58,DOLOSOS,Queretaro,Tot
+2008,9,DOLOSOS,Queretaro,Dec
+2008,4,DOLOSOS,Queretaro,Nov
+2008,5,DOLOSOS,Queretaro,Oct
+2008,3,DOLOSOS,Queretaro,Sep
+2008,3,DOLOSOS,Queretaro,Aug
+2008,7,DOLOSOS,Queretaro,Jul
+2008,3,DOLOSOS,Queretaro,Jun
+2008,7,DOLOSOS,Queretaro,May
+2008,1,DOLOSOS,Queretaro,Apr
+2008,4,DOLOSOS,Queretaro,Mar
+2008,7,DOLOSOS,Queretaro,Feb
+2008,5,DOLOSOS,Queretaro,Jan
+2008,429,DOLOSOS,Puebla,Tot
+2008,36,DOLOSOS,Puebla,Dec
+2008,34,DOLOSOS,Puebla,Nov
+2008,35,DOLOSOS,Puebla,Oct
+2008,35,DOLOSOS,Puebla,Sep
+2008,19,DOLOSOS,Puebla,Aug
+2008,39,DOLOSOS,Puebla,Jul
+2008,33,DOLOSOS,Puebla,Jun
+2008,42,DOLOSOS,Puebla,May
+2008,48,DOLOSOS,Puebla,Apr
+2008,36,DOLOSOS,Puebla,Mar
+2008,41,DOLOSOS,Puebla,Feb
+2008,31,DOLOSOS,Puebla,Jan
+2008,733,DOLOSOS,Oaxaca,Tot
+2008,20,DOLOSOS,Oaxaca,Dec
+2008,31,DOLOSOS,Oaxaca,Nov
+2008,46,DOLOSOS,Oaxaca,Oct
+2008,53,DOLOSOS,Oaxaca,Sep
+2008,37,DOLOSOS,Oaxaca,Aug
+2008,64,DOLOSOS,Oaxaca,Jul
+2008,45,DOLOSOS,Oaxaca,Jun
+2008,80,DOLOSOS,Oaxaca,May
+2008,81,DOLOSOS,Oaxaca,Apr
+2008,83,DOLOSOS,Oaxaca,Mar
+2008,87,DOLOSOS,Oaxaca,Feb
+2008,106,DOLOSOS,Oaxaca,Jan
+2008,263,DOLOSOS,"Nuevo Leon",Tot
+2008,22,DOLOSOS,"Nuevo Leon",Dec
+2008,23,DOLOSOS,"Nuevo Leon",Nov
+2008,26,DOLOSOS,"Nuevo Leon",Oct
+2008,18,DOLOSOS,"Nuevo Leon",Sep
+2008,13,DOLOSOS,"Nuevo Leon",Aug
+2008,23,DOLOSOS,"Nuevo Leon",Jul
+2008,19,DOLOSOS,"Nuevo Leon",Jun
+2008,20,DOLOSOS,"Nuevo Leon",May
+2008,24,DOLOSOS,"Nuevo Leon",Apr
+2008,22,DOLOSOS,"Nuevo Leon",Mar
+2008,34,DOLOSOS,"Nuevo Leon",Feb
+2008,19,DOLOSOS,"Nuevo Leon",Jan
+2008,147,DOLOSOS,Nayarit,Tot
+2008,13,DOLOSOS,Nayarit,Dec
+2008,18,DOLOSOS,Nayarit,Nov
+2008,15,DOLOSOS,Nayarit,Oct
+2008,9,DOLOSOS,Nayarit,Sep
+2008,16,DOLOSOS,Nayarit,Aug
+2008,11,DOLOSOS,Nayarit,Jul
+2008,11,DOLOSOS,Nayarit,Jun
+2008,17,DOLOSOS,Nayarit,May
+2008,14,DOLOSOS,Nayarit,Apr
+2008,10,DOLOSOS,Nayarit,Mar
+2008,6,DOLOSOS,Nayarit,Feb
+2008,7,DOLOSOS,Nayarit,Jan
+2008,135,DOLOSOS,Morelos,Tot
+2008,2,DOLOSOS,Morelos,Dec
+2008,11,DOLOSOS,Morelos,Nov
+2008,9,DOLOSOS,Morelos,Oct
+2008,20,DOLOSOS,Morelos,Sep
+2008,14,DOLOSOS,Morelos,Aug
+2008,12,DOLOSOS,Morelos,Jul
+2008,17,DOLOSOS,Morelos,Jun
+2008,12,DOLOSOS,Morelos,May
+2008,5,DOLOSOS,Morelos,Apr
+2008,19,DOLOSOS,Morelos,Mar
+2008,8,DOLOSOS,Morelos,Feb
+2008,6,DOLOSOS,Morelos,Jan
+2008,565,DOLOSOS,Michoacan,Tot
+2008,58,DOLOSOS,Michoacan,Dec
+2008,55,DOLOSOS,Michoacan,Nov
+2008,35,DOLOSOS,Michoacan,Oct
+2008,45,DOLOSOS,Michoacan,Sep
+2008,36,DOLOSOS,Michoacan,Aug
+2008,55,DOLOSOS,Michoacan,Jul
+2008,39,DOLOSOS,Michoacan,Jun
+2008,48,DOLOSOS,Michoacan,May
+2008,42,DOLOSOS,Michoacan,Apr
+2008,49,DOLOSOS,Michoacan,Mar
+2008,46,DOLOSOS,Michoacan,Feb
+2008,57,DOLOSOS,Michoacan,Jan
+2008,1261,DOLOSOS,Mexico,Tot
+2008,115,DOLOSOS,Mexico,Dec
+2008,118,DOLOSOS,Mexico,Nov
+2008,119,DOLOSOS,Mexico,Oct
+2008,140,DOLOSOS,Mexico,Sep
+2008,120,DOLOSOS,Mexico,Aug
+2008,125,DOLOSOS,Mexico,Jul
+2008,89,DOLOSOS,Mexico,Jun
+2008,98,DOLOSOS,Mexico,May
+2008,105,DOLOSOS,Mexico,Apr
+2008,76,DOLOSOS,Mexico,Mar
+2008,67,DOLOSOS,Mexico,Feb
+2008,89,DOLOSOS,Mexico,Jan
+2008,462,DOLOSOS,Jalisco,Tot
+2008,55,DOLOSOS,Jalisco,Dec
+2008,31,DOLOSOS,Jalisco,Nov
+2008,43,DOLOSOS,Jalisco,Oct
+2008,33,DOLOSOS,Jalisco,Sep
+2008,37,DOLOSOS,Jalisco,Aug
+2008,44,DOLOSOS,Jalisco,Jul
+2008,48,DOLOSOS,Jalisco,Jun
+2008,46,DOLOSOS,Jalisco,May
+2008,33,DOLOSOS,Jalisco,Apr
+2008,30,DOLOSOS,Jalisco,Mar
+2008,30,DOLOSOS,Jalisco,Feb
+2008,32,DOLOSOS,Jalisco,Jan
+2008,139,DOLOSOS,Hidalgo,Tot
+2008,19,DOLOSOS,Hidalgo,Dec
+2008,10,DOLOSOS,Hidalgo,Nov
+2008,9,DOLOSOS,Hidalgo,Oct
+2008,12,DOLOSOS,Hidalgo,Sep
+2008,14,DOLOSOS,Hidalgo,Aug
+2008,5,DOLOSOS,Hidalgo,Jul
+2008,14,DOLOSOS,Hidalgo,Jun
+2008,17,DOLOSOS,Hidalgo,May
+2008,10,DOLOSOS,Hidalgo,Apr
+2008,9,DOLOSOS,Hidalgo,Mar
+2008,8,DOLOSOS,Hidalgo,Feb
+2008,12,DOLOSOS,Hidalgo,Jan
+2008,951,DOLOSOS,Guerrero,Tot
+2008,147,DOLOSOS,Guerrero,Dec
+2008,84,DOLOSOS,Guerrero,Nov
+2008,95,DOLOSOS,Guerrero,Oct
+2008,77,DOLOSOS,Guerrero,Sep
+2008,70,DOLOSOS,Guerrero,Aug
+2008,70,DOLOSOS,Guerrero,Jul
+2008,81,DOLOSOS,Guerrero,Jun
+2008,88,DOLOSOS,Guerrero,May
+2008,49,DOLOSOS,Guerrero,Apr
+2008,57,DOLOSOS,Guerrero,Mar
+2008,56,DOLOSOS,Guerrero,Feb
+2008,77,DOLOSOS,Guerrero,Jan
+2008,257,DOLOSOS,Guanajuato,Tot
+2008,27,DOLOSOS,Guanajuato,Dec
+2008,20,DOLOSOS,Guanajuato,Nov
+2008,31,DOLOSOS,Guanajuato,Oct
+2008,19,DOLOSOS,Guanajuato,Sep
+2008,24,DOLOSOS,Guanajuato,Aug
+2008,10,DOLOSOS,Guanajuato,Jul
+2008,20,DOLOSOS,Guanajuato,Jun
+2008,24,DOLOSOS,Guanajuato,May
+2008,27,DOLOSOS,Guanajuato,Apr
+2008,17,DOLOSOS,Guanajuato,Mar
+2008,19,DOLOSOS,Guanajuato,Feb
+2008,19,DOLOSOS,Guanajuato,Jan
+2008,430,DOLOSOS,Durango,Tot
+2008,35,DOLOSOS,Durango,Dec
+2008,61,DOLOSOS,Durango,Nov
+2008,41,DOLOSOS,Durango,Oct
+2008,29,DOLOSOS,Durango,Sep
+2008,32,DOLOSOS,Durango,Aug
+2008,35,DOLOSOS,Durango,Jul
+2008,46,DOLOSOS,Durango,Jun
+2008,44,DOLOSOS,Durango,May
+2008,28,DOLOSOS,Durango,Apr
+2008,28,DOLOSOS,Durango,Mar
+2008,27,DOLOSOS,Durango,Feb
+2008,24,DOLOSOS,Durango,Jan
+2008,713,DOLOSOS,"Distrito Federal",Tot
+2008,59,DOLOSOS,"Distrito Federal",Dec
+2008,71,DOLOSOS,"Distrito Federal",Nov
+2008,60,DOLOSOS,"Distrito Federal",Oct
+2008,51,DOLOSOS,"Distrito Federal",Sep
+2008,61,DOLOSOS,"Distrito Federal",Aug
+2008,66,DOLOSOS,"Distrito Federal",Jul
+2008,49,DOLOSOS,"Distrito Federal",Jun
+2008,72,DOLOSOS,"Distrito Federal",May
+2008,49,DOLOSOS,"Distrito Federal",Apr
+2008,51,DOLOSOS,"Distrito Federal",Mar
+2008,58,DOLOSOS,"Distrito Federal",Feb
+2008,66,DOLOSOS,"Distrito Federal",Jan
+2008,2030,DOLOSOS,Chihuahua,Tot
+2008,140,DOLOSOS,Chihuahua,Dec
+2008,255,DOLOSOS,Chihuahua,Nov
+2008,221,DOLOSOS,Chihuahua,Oct
+2008,170,DOLOSOS,Chihuahua,Sep
+2008,232,DOLOSOS,Chihuahua,Aug
+2008,202,DOLOSOS,Chihuahua,Jul
+2008,200,DOLOSOS,Chihuahua,Jun
+2008,185,DOLOSOS,Chihuahua,May
+2008,98,DOLOSOS,Chihuahua,Apr
+2008,156,DOLOSOS,Chihuahua,Mar
+2008,91,DOLOSOS,Chihuahua,Feb
+2008,80,DOLOSOS,Chihuahua,Jan
+2008,364,DOLOSOS,Chiapas,Tot
+2008,16,DOLOSOS,Chiapas,Dec
+2008,29,DOLOSOS,Chiapas,Nov
+2008,29,DOLOSOS,Chiapas,Oct
+2008,25,DOLOSOS,Chiapas,Sep
+2008,42,DOLOSOS,Chiapas,Aug
+2008,32,DOLOSOS,Chiapas,Jul
+2008,35,DOLOSOS,Chiapas,Jun
+2008,29,DOLOSOS,Chiapas,May
+2008,36,DOLOSOS,Chiapas,Apr
+2008,30,DOLOSOS,Chiapas,Mar
+2008,28,DOLOSOS,Chiapas,Feb
+2008,33,DOLOSOS,Chiapas,Jan
+2008,33,DOLOSOS,Colima,Tot
+2008,0,DOLOSOS,Colima,Dec
+2008,4,DOLOSOS,Colima,Nov
+2008,0,DOLOSOS,Colima,Oct
+2008,6,DOLOSOS,Colima,Sep
+2008,7,DOLOSOS,Colima,Aug
+2008,3,DOLOSOS,Colima,Jul
+2008,1,DOLOSOS,Colima,Jun
+2008,2,DOLOSOS,Colima,May
+2008,1,DOLOSOS,Colima,Apr
+2008,2,DOLOSOS,Colima,Mar
+2008,3,DOLOSOS,Colima,Feb
+2008,4,DOLOSOS,Colima,Jan
+2008,179,DOLOSOS,Coahuila,Tot
+2008,11,DOLOSOS,Coahuila,Dec
+2008,18,DOLOSOS,Coahuila,Nov
+2008,15,DOLOSOS,Coahuila,Oct
+2008,16,DOLOSOS,Coahuila,Sep
+2008,10,DOLOSOS,Coahuila,Aug
+2008,21,DOLOSOS,Coahuila,Jul
+2008,15,DOLOSOS,Coahuila,Jun
+2008,12,DOLOSOS,Coahuila,May
+2008,12,DOLOSOS,Coahuila,Apr
+2008,12,DOLOSOS,Coahuila,Mar
+2008,24,DOLOSOS,Coahuila,Feb
+2008,13,DOLOSOS,Coahuila,Jan
+2008,45,DOLOSOS,Campeche,Tot
+2008,6,DOLOSOS,Campeche,Dec
+2008,5,DOLOSOS,Campeche,Nov
+2008,4,DOLOSOS,Campeche,Oct
+2008,4,DOLOSOS,Campeche,Sep
+2008,2,DOLOSOS,Campeche,Aug
+2008,10,DOLOSOS,Campeche,Jul
+2008,2,DOLOSOS,Campeche,Jun
+2008,0,DOLOSOS,Campeche,May
+2008,4,DOLOSOS,Campeche,Apr
+2008,3,DOLOSOS,Campeche,Mar
+2008,2,DOLOSOS,Campeche,Feb
+2008,3,DOLOSOS,Campeche,Jan
+2008,28,DOLOSOS,"Baja California Sur",Tot
+2008,2,DOLOSOS,"Baja California Sur",Dec
+2008,3,DOLOSOS,"Baja California Sur",Nov
+2008,4,DOLOSOS,"Baja California Sur",Oct
+2008,0,DOLOSOS,"Baja California Sur",Sep
+2008,2,DOLOSOS,"Baja California Sur",Aug
+2008,0,DOLOSOS,"Baja California Sur",Jul
+2008,3,DOLOSOS,"Baja California Sur",Jun
+2008,5,DOLOSOS,"Baja California Sur",May
+2008,4,DOLOSOS,"Baja California Sur",Apr
+2008,2,DOLOSOS,"Baja California Sur",Mar
+2008,0,DOLOSOS,"Baja California Sur",Feb
+2008,3,DOLOSOS,"Baja California Sur",Jan
+2008,853,DOLOSOS,"Baja California",Tot
+2008,99,DOLOSOS,"Baja California",Dec
+2008,160,DOLOSOS,"Baja California",Nov
+2008,125,DOLOSOS,"Baja California",Oct
+2008,52,DOLOSOS,"Baja California",Sep
+2008,42,DOLOSOS,"Baja California",Aug
+2008,46,DOLOSOS,"Baja California",Jul
+2008,62,DOLOSOS,"Baja California",Jun
+2008,32,DOLOSOS,"Baja California",May
+2008,69,DOLOSOS,"Baja California",Apr
+2008,66,DOLOSOS,"Baja California",Mar
+2008,49,DOLOSOS,"Baja California",Feb
+2008,51,DOLOSOS,"Baja California",Jan
+2008,63,DOLOSOS,Aguascalientes,Tot
+2008,8,DOLOSOS,Aguascalientes,Dec
+2008,2,DOLOSOS,Aguascalientes,Nov
+2008,4,DOLOSOS,Aguascalientes,Oct
+2008,6,DOLOSOS,Aguascalientes,Sep
+2008,12,DOLOSOS,Aguascalientes,Aug
+2008,10,DOLOSOS,Aguascalientes,Jul
+2008,5,DOLOSOS,Aguascalientes,Jun
+2008,5,DOLOSOS,Aguascalientes,May
+2008,2,DOLOSOS,Aguascalientes,Apr
+2008,3,DOLOSOS,Aguascalientes,Mar
+2008,3,DOLOSOS,Aguascalientes,Feb
+2008,3,DOLOSOS,Aguascalientes,Jan
+2008,13193,DOLOSOS,National,Tot
+2008,1177,DOLOSOS,National,Dec
+2008,1330,DOLOSOS,National,Nov
+2008,1278,DOLOSOS,National,Oct
+2008,1072,DOLOSOS,National,Sep
+2008,1125,DOLOSOS,National,Aug
+2008,1162,DOLOSOS,National,Jul
+2008,1125,DOLOSOS,National,Jun
+2008,1157,DOLOSOS,National,May
+2008,968,DOLOSOS,National,Apr
+2008,993,DOLOSOS,National,Mar
+2008,868,DOLOSOS,National,Feb
+2008,938,DOLOSOS,National,Jan
+2007,66,DOLOSOS,Zacatecas,Tot
+2007,5,DOLOSOS,Zacatecas,Dec
+2007,2,DOLOSOS,Zacatecas,Nov
+2007,5,DOLOSOS,Zacatecas,Oct
+2007,9,DOLOSOS,Zacatecas,Sep
+2007,8,DOLOSOS,Zacatecas,Aug
+2007,7,DOLOSOS,Zacatecas,Jul
+2007,9,DOLOSOS,Zacatecas,Jun
+2007,4,DOLOSOS,Zacatecas,May
+2007,7,DOLOSOS,Zacatecas,Apr
+2007,5,DOLOSOS,Zacatecas,Mar
+2007,1,DOLOSOS,Zacatecas,Feb
+2007,4,DOLOSOS,Zacatecas,Jan
+2007,30,DOLOSOS,Yucatan,Tot
+2007,1,DOLOSOS,Yucatan,Dec
+2007,3,DOLOSOS,Yucatan,Nov
+2007,4,DOLOSOS,Yucatan,Oct
+2007,1,DOLOSOS,Yucatan,Sep
+2007,4,DOLOSOS,Yucatan,Aug
+2007,2,DOLOSOS,Yucatan,Jul
+2007,4,DOLOSOS,Yucatan,Jun
+2007,3,DOLOSOS,Yucatan,May
+2007,1,DOLOSOS,Yucatan,Apr
+2007,2,DOLOSOS,Yucatan,Mar
+2007,2,DOLOSOS,Yucatan,Feb
+2007,3,DOLOSOS,Yucatan,Jan
+2007,478,DOLOSOS,Veracruz,Tot
+2007,48,DOLOSOS,Veracruz,Dec
+2007,42,DOLOSOS,Veracruz,Nov
+2007,41,DOLOSOS,Veracruz,Oct
+2007,30,DOLOSOS,Veracruz,Sep
+2007,37,DOLOSOS,Veracruz,Aug
+2007,41,DOLOSOS,Veracruz,Jul
+2007,53,DOLOSOS,Veracruz,Jun
+2007,56,DOLOSOS,Veracruz,May
+2007,35,DOLOSOS,Veracruz,Apr
+2007,36,DOLOSOS,Veracruz,Mar
+2007,26,DOLOSOS,Veracruz,Feb
+2007,33,DOLOSOS,Veracruz,Jan
+2007,0,DOLOSOS,Tlaxcala,Tot
+2007,0,DOLOSOS,Tlaxcala,Dec
+2007,0,DOLOSOS,Tlaxcala,Nov
+2007,0,DOLOSOS,Tlaxcala,Oct
+2007,0,DOLOSOS,Tlaxcala,Sep
+2007,0,DOLOSOS,Tlaxcala,Aug
+2007,0,DOLOSOS,Tlaxcala,Jul
+2007,0,DOLOSOS,Tlaxcala,Jun
+2007,0,DOLOSOS,Tlaxcala,May
+2007,0,DOLOSOS,Tlaxcala,Apr
+2007,0,DOLOSOS,Tlaxcala,Mar
+2007,0,DOLOSOS,Tlaxcala,Feb
+2007,0,DOLOSOS,Tlaxcala,Jan
+2007,265,DOLOSOS,Tamaulipas,Tot
+2007,27,DOLOSOS,Tamaulipas,Dec
+2007,22,DOLOSOS,Tamaulipas,Nov
+2007,22,DOLOSOS,Tamaulipas,Oct
+2007,26,DOLOSOS,Tamaulipas,Sep
+2007,22,DOLOSOS,Tamaulipas,Aug
+2007,21,DOLOSOS,Tamaulipas,Jul
+2007,21,DOLOSOS,Tamaulipas,Jun
+2007,18,DOLOSOS,Tamaulipas,May
+2007,27,DOLOSOS,Tamaulipas,Apr
+2007,24,DOLOSOS,Tamaulipas,Mar
+2007,15,DOLOSOS,Tamaulipas,Feb
+2007,20,DOLOSOS,Tamaulipas,Jan
+2007,193,DOLOSOS,Tabasco,Tot
+2007,17,DOLOSOS,Tabasco,Dec
+2007,9,DOLOSOS,Tabasco,Nov
+2007,17,DOLOSOS,Tabasco,Oct
+2007,12,DOLOSOS,Tabasco,Sep
+2007,5,DOLOSOS,Tabasco,Aug
+2007,21,DOLOSOS,Tabasco,Jul
+2007,18,DOLOSOS,Tabasco,Jun
+2007,30,DOLOSOS,Tabasco,May
+2007,12,DOLOSOS,Tabasco,Apr
+2007,21,DOLOSOS,Tabasco,Mar
+2007,16,DOLOSOS,Tabasco,Feb
+2007,15,DOLOSOS,Tabasco,Jan
+2007,308,DOLOSOS,Sonora,Tot
+2007,16,DOLOSOS,Sonora,Dec
+2007,25,DOLOSOS,Sonora,Nov
+2007,16,DOLOSOS,Sonora,Oct
+2007,18,DOLOSOS,Sonora,Sep
+2007,24,DOLOSOS,Sonora,Aug
+2007,28,DOLOSOS,Sonora,Jul
+2007,18,DOLOSOS,Sonora,Jun
+2007,39,DOLOSOS,Sonora,May
+2007,38,DOLOSOS,Sonora,Apr
+2007,32,DOLOSOS,Sonora,Mar
+2007,35,DOLOSOS,Sonora,Feb
+2007,19,DOLOSOS,Sonora,Jan
+2007,741,DOLOSOS,Sinaloa,Tot
+2007,46,DOLOSOS,Sinaloa,Dec
+2007,78,DOLOSOS,Sinaloa,Nov
+2007,83,DOLOSOS,Sinaloa,Oct
+2007,61,DOLOSOS,Sinaloa,Sep
+2007,70,DOLOSOS,Sinaloa,Aug
+2007,48,DOLOSOS,Sinaloa,Jul
+2007,74,DOLOSOS,Sinaloa,Jun
+2007,68,DOLOSOS,Sinaloa,May
+2007,64,DOLOSOS,Sinaloa,Apr
+2007,67,DOLOSOS,Sinaloa,Mar
+2007,35,DOLOSOS,Sinaloa,Feb
+2007,47,DOLOSOS,Sinaloa,Jan
+2007,153,DOLOSOS,"San Luis Potosi",Tot
+2007,10,DOLOSOS,"San Luis Potosi",Dec
+2007,19,DOLOSOS,"San Luis Potosi",Nov
+2007,17,DOLOSOS,"San Luis Potosi",Oct
+2007,15,DOLOSOS,"San Luis Potosi",Sep
+2007,16,DOLOSOS,"San Luis Potosi",Aug
+2007,12,DOLOSOS,"San Luis Potosi",Jul
+2007,11,DOLOSOS,"San Luis Potosi",Jun
+2007,8,DOLOSOS,"San Luis Potosi",May
+2007,8,DOLOSOS,"San Luis Potosi",Apr
+2007,4,DOLOSOS,"San Luis Potosi",Mar
+2007,16,DOLOSOS,"San Luis Potosi",Feb
+2007,17,DOLOSOS,"San Luis Potosi",Jan
+2007,176,DOLOSOS,"Quintana Roo",Tot
+2007,35,DOLOSOS,"Quintana Roo",Dec
+2007,8,DOLOSOS,"Quintana Roo",Nov
+2007,20,DOLOSOS,"Quintana Roo",Oct
+2007,16,DOLOSOS,"Quintana Roo",Sep
+2007,6,DOLOSOS,"Quintana Roo",Aug
+2007,15,DOLOSOS,"Quintana Roo",Jul
+2007,10,DOLOSOS,"Quintana Roo",Jun
+2007,9,DOLOSOS,"Quintana Roo",May
+2007,8,DOLOSOS,"Quintana Roo",Apr
+2007,27,DOLOSOS,"Quintana Roo",Mar
+2007,11,DOLOSOS,"Quintana Roo",Feb
+2007,11,DOLOSOS,"Quintana Roo",Jan
+2007,57,DOLOSOS,Queretaro,Tot
+2007,7,DOLOSOS,Queretaro,Dec
+2007,4,DOLOSOS,Queretaro,Nov
+2007,8,DOLOSOS,Queretaro,Oct
+2007,4,DOLOSOS,Queretaro,Sep
+2007,2,DOLOSOS,Queretaro,Aug
+2007,6,DOLOSOS,Queretaro,Jul
+2007,2,DOLOSOS,Queretaro,Jun
+2007,4,DOLOSOS,Queretaro,May
+2007,8,DOLOSOS,Queretaro,Apr
+2007,0,DOLOSOS,Queretaro,Mar
+2007,6,DOLOSOS,Queretaro,Feb
+2007,6,DOLOSOS,Queretaro,Jan
+2007,401,DOLOSOS,Puebla,Tot
+2007,36,DOLOSOS,Puebla,Dec
+2007,49,DOLOSOS,Puebla,Nov
+2007,37,DOLOSOS,Puebla,Oct
+2007,30,DOLOSOS,Puebla,Sep
+2007,20,DOLOSOS,Puebla,Aug
+2007,25,DOLOSOS,Puebla,Jul
+2007,27,DOLOSOS,Puebla,Jun
+2007,40,DOLOSOS,Puebla,May
+2007,40,DOLOSOS,Puebla,Apr
+2007,35,DOLOSOS,Puebla,Mar
+2007,28,DOLOSOS,Puebla,Feb
+2007,34,DOLOSOS,Puebla,Jan
+2007,948,DOLOSOS,Oaxaca,Tot
+2007,16,DOLOSOS,Oaxaca,Dec
+2007,61,DOLOSOS,Oaxaca,Nov
+2007,42,DOLOSOS,Oaxaca,Oct
+2007,45,DOLOSOS,Oaxaca,Sep
+2007,74,DOLOSOS,Oaxaca,Aug
+2007,47,DOLOSOS,Oaxaca,Jul
+2007,115,DOLOSOS,Oaxaca,Jun
+2007,132,DOLOSOS,Oaxaca,May
+2007,126,DOLOSOS,Oaxaca,Apr
+2007,103,DOLOSOS,Oaxaca,Mar
+2007,80,DOLOSOS,Oaxaca,Feb
+2007,107,DOLOSOS,Oaxaca,Jan
+2007,283,DOLOSOS,"Nuevo Leon",Tot
+2007,15,DOLOSOS,"Nuevo Leon",Dec
+2007,20,DOLOSOS,"Nuevo Leon",Nov
+2007,21,DOLOSOS,"Nuevo Leon",Oct
+2007,23,DOLOSOS,"Nuevo Leon",Sep
+2007,16,DOLOSOS,"Nuevo Leon",Aug
+2007,26,DOLOSOS,"Nuevo Leon",Jul
+2007,19,DOLOSOS,"Nuevo Leon",Jun
+2007,39,DOLOSOS,"Nuevo Leon",May
+2007,25,DOLOSOS,"Nuevo Leon",Apr
+2007,38,DOLOSOS,"Nuevo Leon",Mar
+2007,19,DOLOSOS,"Nuevo Leon",Feb
+2007,22,DOLOSOS,"Nuevo Leon",Jan
+2007,108,DOLOSOS,Nayarit,Tot
+2007,10,DOLOSOS,Nayarit,Dec
+2007,14,DOLOSOS,Nayarit,Nov
+2007,10,DOLOSOS,Nayarit,Oct
+2007,11,DOLOSOS,Nayarit,Sep
+2007,10,DOLOSOS,Nayarit,Aug
+2007,11,DOLOSOS,Nayarit,Jul
+2007,5,DOLOSOS,Nayarit,Jun
+2007,6,DOLOSOS,Nayarit,May
+2007,7,DOLOSOS,Nayarit,Apr
+2007,6,DOLOSOS,Nayarit,Mar
+2007,10,DOLOSOS,Nayarit,Feb
+2007,8,DOLOSOS,Nayarit,Jan
+2007,113,DOLOSOS,Morelos,Tot
+2007,2,DOLOSOS,Morelos,Dec
+2007,6,DOLOSOS,Morelos,Nov
+2007,3,DOLOSOS,Morelos,Oct
+2007,4,DOLOSOS,Morelos,Sep
+2007,11,DOLOSOS,Morelos,Aug
+2007,10,DOLOSOS,Morelos,Jul
+2007,18,DOLOSOS,Morelos,Jun
+2007,19,DOLOSOS,Morelos,May
+2007,11,DOLOSOS,Morelos,Apr
+2007,11,DOLOSOS,Morelos,Mar
+2007,8,DOLOSOS,Morelos,Feb
+2007,10,DOLOSOS,Morelos,Jan
+2007,527,DOLOSOS,Michoacan,Tot
+2007,42,DOLOSOS,Michoacan,Dec
+2007,38,DOLOSOS,Michoacan,Nov
+2007,47,DOLOSOS,Michoacan,Oct
+2007,42,DOLOSOS,Michoacan,Sep
+2007,38,DOLOSOS,Michoacan,Aug
+2007,51,DOLOSOS,Michoacan,Jul
+2007,40,DOLOSOS,Michoacan,Jun
+2007,41,DOLOSOS,Michoacan,May
+2007,50,DOLOSOS,Michoacan,Apr
+2007,61,DOLOSOS,Michoacan,Mar
+2007,33,DOLOSOS,Michoacan,Feb
+2007,44,DOLOSOS,Michoacan,Jan
+2007,1127,DOLOSOS,Mexico,Tot
+2007,111,DOLOSOS,Mexico,Dec
+2007,113,DOLOSOS,Mexico,Nov
+2007,116,DOLOSOS,Mexico,Oct
+2007,114,DOLOSOS,Mexico,Sep
+2007,76,DOLOSOS,Mexico,Aug
+2007,91,DOLOSOS,Mexico,Jul
+2007,74,DOLOSOS,Mexico,Jun
+2007,82,DOLOSOS,Mexico,May
+2007,97,DOLOSOS,Mexico,Apr
+2007,89,DOLOSOS,Mexico,Mar
+2007,70,DOLOSOS,Mexico,Feb
+2007,94,DOLOSOS,Mexico,Jan
+2007,389,DOLOSOS,Jalisco,Tot
+2007,38,DOLOSOS,Jalisco,Dec
+2007,34,DOLOSOS,Jalisco,Nov
+2007,33,DOLOSOS,Jalisco,Oct
+2007,31,DOLOSOS,Jalisco,Sep
+2007,35,DOLOSOS,Jalisco,Aug
+2007,33,DOLOSOS,Jalisco,Jul
+2007,34,DOLOSOS,Jalisco,Jun
+2007,35,DOLOSOS,Jalisco,May
+2007,30,DOLOSOS,Jalisco,Apr
+2007,27,DOLOSOS,Jalisco,Mar
+2007,24,DOLOSOS,Jalisco,Feb
+2007,35,DOLOSOS,Jalisco,Jan
+2007,147,DOLOSOS,Hidalgo,Tot
+2007,12,DOLOSOS,Hidalgo,Dec
+2007,9,DOLOSOS,Hidalgo,Nov
+2007,13,DOLOSOS,Hidalgo,Oct
+2007,13,DOLOSOS,Hidalgo,Sep
+2007,16,DOLOSOS,Hidalgo,Aug
+2007,4,DOLOSOS,Hidalgo,Jul
+2007,20,DOLOSOS,Hidalgo,Jun
+2007,15,DOLOSOS,Hidalgo,May
+2007,14,DOLOSOS,Hidalgo,Apr
+2007,12,DOLOSOS,Hidalgo,Mar
+2007,11,DOLOSOS,Hidalgo,Feb
+2007,8,DOLOSOS,Hidalgo,Jan
+2007,800,DOLOSOS,Guerrero,Tot
+2007,69,DOLOSOS,Guerrero,Dec
+2007,54,DOLOSOS,Guerrero,Nov
+2007,64,DOLOSOS,Guerrero,Oct
+2007,70,DOLOSOS,Guerrero,Sep
+2007,67,DOLOSOS,Guerrero,Aug
+2007,78,DOLOSOS,Guerrero,Jul
+2007,70,DOLOSOS,Guerrero,Jun
+2007,84,DOLOSOS,Guerrero,May
+2007,73,DOLOSOS,Guerrero,Apr
+2007,69,DOLOSOS,Guerrero,Mar
+2007,48,DOLOSOS,Guerrero,Feb
+2007,54,DOLOSOS,Guerrero,Jan
+2007,229,DOLOSOS,Guanajuato,Tot
+2007,30,DOLOSOS,Guanajuato,Dec
+2007,26,DOLOSOS,Guanajuato,Nov
+2007,24,DOLOSOS,Guanajuato,Oct
+2007,16,DOLOSOS,Guanajuato,Sep
+2007,21,DOLOSOS,Guanajuato,Aug
+2007,18,DOLOSOS,Guanajuato,Jul
+2007,13,DOLOSOS,Guanajuato,Jun
+2007,22,DOLOSOS,Guanajuato,May
+2007,12,DOLOSOS,Guanajuato,Apr
+2007,20,DOLOSOS,Guanajuato,Mar
+2007,17,DOLOSOS,Guanajuato,Feb
+2007,10,DOLOSOS,Guanajuato,Jan
+2007,250,DOLOSOS,Durango,Tot
+2007,27,DOLOSOS,Durango,Dec
+2007,18,DOLOSOS,Durango,Nov
+2007,27,DOLOSOS,Durango,Oct
+2007,18,DOLOSOS,Durango,Sep
+2007,13,DOLOSOS,Durango,Aug
+2007,21,DOLOSOS,Durango,Jul
+2007,23,DOLOSOS,Durango,Jun
+2007,23,DOLOSOS,Durango,May
+2007,18,DOLOSOS,Durango,Apr
+2007,24,DOLOSOS,Durango,Mar
+2007,20,DOLOSOS,Durango,Feb
+2007,18,DOLOSOS,Durango,Jan
+2007,714,DOLOSOS,"Distrito Federal",Tot
+2007,70,DOLOSOS,"Distrito Federal",Dec
+2007,56,DOLOSOS,"Distrito Federal",Nov
+2007,65,DOLOSOS,"Distrito Federal",Oct
+2007,71,DOLOSOS,"Distrito Federal",Sep
+2007,49,DOLOSOS,"Distrito Federal",Aug
+2007,56,DOLOSOS,"Distrito Federal",Jul
+2007,61,DOLOSOS,"Distrito Federal",Jun
+2007,68,DOLOSOS,"Distrito Federal",May
+2007,52,DOLOSOS,"Distrito Federal",Apr
+2007,55,DOLOSOS,"Distrito Federal",Mar
+2007,54,DOLOSOS,"Distrito Federal",Feb
+2007,57,DOLOSOS,"Distrito Federal",Jan
+2007,617,DOLOSOS,Chihuahua,Tot
+2007,59,DOLOSOS,Chihuahua,Dec
+2007,54,DOLOSOS,Chihuahua,Nov
+2007,50,DOLOSOS,Chihuahua,Oct
+2007,52,DOLOSOS,Chihuahua,Sep
+2007,53,DOLOSOS,Chihuahua,Aug
+2007,32,DOLOSOS,Chihuahua,Jul
+2007,57,DOLOSOS,Chihuahua,Jun
+2007,61,DOLOSOS,Chihuahua,May
+2007,54,DOLOSOS,Chihuahua,Apr
+2007,58,DOLOSOS,Chihuahua,Mar
+2007,49,DOLOSOS,Chihuahua,Feb
+2007,38,DOLOSOS,Chihuahua,Jan
+2007,358,DOLOSOS,Chiapas,Tot
+2007,18,DOLOSOS,Chiapas,Dec
+2007,42,DOLOSOS,Chiapas,Nov
+2007,25,DOLOSOS,Chiapas,Oct
+2007,30,DOLOSOS,Chiapas,Sep
+2007,32,DOLOSOS,Chiapas,Aug
+2007,33,DOLOSOS,Chiapas,Jul
+2007,26,DOLOSOS,Chiapas,Jun
+2007,33,DOLOSOS,Chiapas,May
+2007,38,DOLOSOS,Chiapas,Apr
+2007,27,DOLOSOS,Chiapas,Mar
+2007,22,DOLOSOS,Chiapas,Feb
+2007,32,DOLOSOS,Chiapas,Jan
+2007,30,DOLOSOS,Colima,Tot
+2007,5,DOLOSOS,Colima,Dec
+2007,3,DOLOSOS,Colima,Nov
+2007,3,DOLOSOS,Colima,Oct
+2007,2,DOLOSOS,Colima,Sep
+2007,3,DOLOSOS,Colima,Aug
+2007,3,DOLOSOS,Colima,Jul
+2007,3,DOLOSOS,Colima,Jun
+2007,2,DOLOSOS,Colima,May
+2007,1,DOLOSOS,Colima,Apr
+2007,1,DOLOSOS,Colima,Mar
+2007,1,DOLOSOS,Colima,Feb
+2007,3,DOLOSOS,Colima,Jan
+2007,121,DOLOSOS,Coahuila,Tot
+2007,20,DOLOSOS,Coahuila,Dec
+2007,11,DOLOSOS,Coahuila,Nov
+2007,7,DOLOSOS,Coahuila,Oct
+2007,12,DOLOSOS,Coahuila,Sep
+2007,12,DOLOSOS,Coahuila,Aug
+2007,8,DOLOSOS,Coahuila,Jul
+2007,9,DOLOSOS,Coahuila,Jun
+2007,14,DOLOSOS,Coahuila,May
+2007,9,DOLOSOS,Coahuila,Apr
+2007,8,DOLOSOS,Coahuila,Mar
+2007,4,DOLOSOS,Coahuila,Feb
+2007,7,DOLOSOS,Coahuila,Jan
+2007,36,DOLOSOS,Campeche,Tot
+2007,6,DOLOSOS,Campeche,Dec
+2007,2,DOLOSOS,Campeche,Nov
+2007,2,DOLOSOS,Campeche,Oct
+2007,2,DOLOSOS,Campeche,Sep
+2007,0,DOLOSOS,Campeche,Aug
+2007,1,DOLOSOS,Campeche,Jul
+2007,3,DOLOSOS,Campeche,Jun
+2007,3,DOLOSOS,Campeche,May
+2007,3,DOLOSOS,Campeche,Apr
+2007,1,DOLOSOS,Campeche,Mar
+2007,9,DOLOSOS,Campeche,Feb
+2007,4,DOLOSOS,Campeche,Jan
+2007,28,DOLOSOS,"Baja California Sur",Tot
+2007,2,DOLOSOS,"Baja California Sur",Dec
+2007,4,DOLOSOS,"Baja California Sur",Nov
+2007,2,DOLOSOS,"Baja California Sur",Oct
+2007,1,DOLOSOS,"Baja California Sur",Sep
+2007,0,DOLOSOS,"Baja California Sur",Aug
+2007,4,DOLOSOS,"Baja California Sur",Jul
+2007,4,DOLOSOS,"Baja California Sur",Jun
+2007,0,DOLOSOS,"Baja California Sur",May
+2007,3,DOLOSOS,"Baja California Sur",Apr
+2007,3,DOLOSOS,"Baja California Sur",Mar
+2007,1,DOLOSOS,"Baja California Sur",Feb
+2007,4,DOLOSOS,"Baja California Sur",Jan
+2007,511,DOLOSOS,"Baja California",Tot
+2007,36,DOLOSOS,"Baja California",Dec
+2007,56,DOLOSOS,"Baja California",Nov
+2007,37,DOLOSOS,"Baja California",Oct
+2007,48,DOLOSOS,"Baja California",Sep
+2007,43,DOLOSOS,"Baja California",Aug
+2007,37,DOLOSOS,"Baja California",Jul
+2007,48,DOLOSOS,"Baja California",Jun
+2007,48,DOLOSOS,"Baja California",May
+2007,39,DOLOSOS,"Baja California",Apr
+2007,44,DOLOSOS,"Baja California",Mar
+2007,43,DOLOSOS,"Baja California",Feb
+2007,32,DOLOSOS,"Baja California",Jan
+2007,49,DOLOSOS,Aguascalientes,Tot
+2007,2,DOLOSOS,Aguascalientes,Dec
+2007,3,DOLOSOS,Aguascalientes,Nov
+2007,4,DOLOSOS,Aguascalientes,Oct
+2007,3,DOLOSOS,Aguascalientes,Sep
+2007,12,DOLOSOS,Aguascalientes,Aug
+2007,5,DOLOSOS,Aguascalientes,Jul
+2007,5,DOLOSOS,Aguascalientes,Jun
+2007,4,DOLOSOS,Aguascalientes,May
+2007,2,DOLOSOS,Aguascalientes,Apr
+2007,1,DOLOSOS,Aguascalientes,Mar
+2007,6,DOLOSOS,Aguascalientes,Feb
+2007,2,DOLOSOS,Aguascalientes,Jan
+2007,10253,DOLOSOS,National,Tot
+2007,838,DOLOSOS,National,Dec
+2007,885,DOLOSOS,National,Nov
+2007,865,DOLOSOS,National,Oct
+2007,830,DOLOSOS,National,Sep
+2007,795,DOLOSOS,National,Aug
+2007,795,DOLOSOS,National,Jul
+2007,894,DOLOSOS,National,Jun
+2007,1010,DOLOSOS,National,May
+2007,912,DOLOSOS,National,Apr
+2007,911,DOLOSOS,National,Mar
+2007,720,DOLOSOS,National,Feb
+2007,798,DOLOSOS,National,Jan
+2006,50,DOLOSOS,Zacatecas,Tot
+2006,8,DOLOSOS,Zacatecas,Dec
+2006,2,DOLOSOS,Zacatecas,Nov
+2006,2,DOLOSOS,Zacatecas,Oct
+2006,2,DOLOSOS,Zacatecas,Sep
+2006,6,DOLOSOS,Zacatecas,Aug
+2006,3,DOLOSOS,Zacatecas,Jul
+2006,4,DOLOSOS,Zacatecas,Jun
+2006,3,DOLOSOS,Zacatecas,May
+2006,5,DOLOSOS,Zacatecas,Apr
+2006,3,DOLOSOS,Zacatecas,Mar
+2006,6,DOLOSOS,Zacatecas,Feb
+2006,6,DOLOSOS,Zacatecas,Jan
+2006,22,DOLOSOS,Yucatan,Tot
+2006,3,DOLOSOS,Yucatan,Dec
+2006,1,DOLOSOS,Yucatan,Nov
+2006,6,DOLOSOS,Yucatan,Oct
+2006,0,DOLOSOS,Yucatan,Sep
+2006,3,DOLOSOS,Yucatan,Aug
+2006,1,DOLOSOS,Yucatan,Jul
+2006,2,DOLOSOS,Yucatan,Jun
+2006,2,DOLOSOS,Yucatan,May
+2006,0,DOLOSOS,Yucatan,Apr
+2006,1,DOLOSOS,Yucatan,Mar
+2006,2,DOLOSOS,Yucatan,Feb
+2006,1,DOLOSOS,Yucatan,Jan
+2006,434,DOLOSOS,Veracruz,Tot
+2006,39,DOLOSOS,Veracruz,Dec
+2006,30,DOLOSOS,Veracruz,Nov
+2006,36,DOLOSOS,Veracruz,Oct
+2006,28,DOLOSOS,Veracruz,Sep
+2006,34,DOLOSOS,Veracruz,Aug
+2006,27,DOLOSOS,Veracruz,Jul
+2006,46,DOLOSOS,Veracruz,Jun
+2006,38,DOLOSOS,Veracruz,May
+2006,31,DOLOSOS,Veracruz,Apr
+2006,40,DOLOSOS,Veracruz,Mar
+2006,45,DOLOSOS,Veracruz,Feb
+2006,40,DOLOSOS,Veracruz,Jan
+2006,158,DOLOSOS,Tlaxcala,Tot
+2006,0,DOLOSOS,Tlaxcala,Dec
+2006,1,DOLOSOS,Tlaxcala,Nov
+2006,0,DOLOSOS,Tlaxcala,Oct
+2006,0,DOLOSOS,Tlaxcala,Sep
+2006,6,DOLOSOS,Tlaxcala,Aug
+2006,14,DOLOSOS,Tlaxcala,Jul
+2006,9,DOLOSOS,Tlaxcala,Jun
+2006,28,DOLOSOS,Tlaxcala,May
+2006,22,DOLOSOS,Tlaxcala,Apr
+2006,39,DOLOSOS,Tlaxcala,Mar
+2006,4,DOLOSOS,Tlaxcala,Feb
+2006,35,DOLOSOS,Tlaxcala,Jan
+2006,346,DOLOSOS,Tamaulipas,Tot
+2006,20,DOLOSOS,Tamaulipas,Dec
+2006,20,DOLOSOS,Tamaulipas,Nov
+2006,15,DOLOSOS,Tamaulipas,Oct
+2006,29,DOLOSOS,Tamaulipas,Sep
+2006,17,DOLOSOS,Tamaulipas,Aug
+2006,32,DOLOSOS,Tamaulipas,Jul
+2006,28,DOLOSOS,Tamaulipas,Jun
+2006,46,DOLOSOS,Tamaulipas,May
+2006,42,DOLOSOS,Tamaulipas,Apr
+2006,42,DOLOSOS,Tamaulipas,Mar
+2006,17,DOLOSOS,Tamaulipas,Feb
+2006,38,DOLOSOS,Tamaulipas,Jan
+2006,166,DOLOSOS,Tabasco,Tot
+2006,13,DOLOSOS,Tabasco,Dec
+2006,13,DOLOSOS,Tabasco,Nov
+2006,20,DOLOSOS,Tabasco,Oct
+2006,16,DOLOSOS,Tabasco,Sep
+2006,11,DOLOSOS,Tabasco,Aug
+2006,9,DOLOSOS,Tabasco,Jul
+2006,19,DOLOSOS,Tabasco,Jun
+2006,14,DOLOSOS,Tabasco,May
+2006,21,DOLOSOS,Tabasco,Apr
+2006,12,DOLOSOS,Tabasco,Mar
+2006,10,DOLOSOS,Tabasco,Feb
+2006,8,DOLOSOS,Tabasco,Jan
+2006,238,DOLOSOS,Sonora,Tot
+2006,19,DOLOSOS,Sonora,Dec
+2006,12,DOLOSOS,Sonora,Nov
+2006,16,DOLOSOS,Sonora,Oct
+2006,24,DOLOSOS,Sonora,Sep
+2006,21,DOLOSOS,Sonora,Aug
+2006,21,DOLOSOS,Sonora,Jul
+2006,29,DOLOSOS,Sonora,Jun
+2006,27,DOLOSOS,Sonora,May
+2006,16,DOLOSOS,Sonora,Apr
+2006,18,DOLOSOS,Sonora,Mar
+2006,13,DOLOSOS,Sonora,Feb
+2006,22,DOLOSOS,Sonora,Jan
+2006,602,DOLOSOS,Sinaloa,Tot
+2006,55,DOLOSOS,Sinaloa,Dec
+2006,43,DOLOSOS,Sinaloa,Nov
+2006,64,DOLOSOS,Sinaloa,Oct
+2006,59,DOLOSOS,Sinaloa,Sep
+2006,51,DOLOSOS,Sinaloa,Aug
+2006,50,DOLOSOS,Sinaloa,Jul
+2006,61,DOLOSOS,Sinaloa,Jun
+2006,52,DOLOSOS,Sinaloa,May
+2006,36,DOLOSOS,Sinaloa,Apr
+2006,46,DOLOSOS,Sinaloa,Mar
+2006,46,DOLOSOS,Sinaloa,Feb
+2006,39,DOLOSOS,Sinaloa,Jan
+2006,131,DOLOSOS,"San Luis Potosi",Tot
+2006,7,DOLOSOS,"San Luis Potosi",Dec
+2006,14,DOLOSOS,"San Luis Potosi",Nov
+2006,12,DOLOSOS,"San Luis Potosi",Oct
+2006,6,DOLOSOS,"San Luis Potosi",Sep
+2006,6,DOLOSOS,"San Luis Potosi",Aug
+2006,10,DOLOSOS,"San Luis Potosi",Jul
+2006,8,DOLOSOS,"San Luis Potosi",Jun
+2006,13,DOLOSOS,"San Luis Potosi",May
+2006,10,DOLOSOS,"San Luis Potosi",Apr
+2006,19,DOLOSOS,"San Luis Potosi",Mar
+2006,9,DOLOSOS,"San Luis Potosi",Feb
+2006,17,DOLOSOS,"San Luis Potosi",Jan
+2006,119,DOLOSOS,"Quintana Roo",Tot
+2006,6,DOLOSOS,"Quintana Roo",Dec
+2006,7,DOLOSOS,"Quintana Roo",Nov
+2006,8,DOLOSOS,"Quintana Roo",Oct
+2006,14,DOLOSOS,"Quintana Roo",Sep
+2006,20,DOLOSOS,"Quintana Roo",Aug
+2006,12,DOLOSOS,"Quintana Roo",Jul
+2006,11,DOLOSOS,"Quintana Roo",Jun
+2006,11,DOLOSOS,"Quintana Roo",May
+2006,7,DOLOSOS,"Quintana Roo",Apr
+2006,7,DOLOSOS,"Quintana Roo",Mar
+2006,9,DOLOSOS,"Quintana Roo",Feb
+2006,7,DOLOSOS,"Quintana Roo",Jan
+2006,52,DOLOSOS,Queretaro,Tot
+2006,1,DOLOSOS,Queretaro,Dec
+2006,1,DOLOSOS,Queretaro,Nov
+2006,8,DOLOSOS,Queretaro,Oct
+2006,5,DOLOSOS,Queretaro,Sep
+2006,3,DOLOSOS,Queretaro,Aug
+2006,7,DOLOSOS,Queretaro,Jul
+2006,6,DOLOSOS,Queretaro,Jun
+2006,6,DOLOSOS,Queretaro,May
+2006,0,DOLOSOS,Queretaro,Apr
+2006,7,DOLOSOS,Queretaro,Mar
+2006,2,DOLOSOS,Queretaro,Feb
+2006,6,DOLOSOS,Queretaro,Jan
+2006,415,DOLOSOS,Puebla,Tot
+2006,22,DOLOSOS,Puebla,Dec
+2006,33,DOLOSOS,Puebla,Nov
+2006,40,DOLOSOS,Puebla,Oct
+2006,29,DOLOSOS,Puebla,Sep
+2006,40,DOLOSOS,Puebla,Aug
+2006,31,DOLOSOS,Puebla,Jul
+2006,36,DOLOSOS,Puebla,Jun
+2006,41,DOLOSOS,Puebla,May
+2006,31,DOLOSOS,Puebla,Apr
+2006,47,DOLOSOS,Puebla,Mar
+2006,31,DOLOSOS,Puebla,Feb
+2006,34,DOLOSOS,Puebla,Jan
+2006,1077,DOLOSOS,Oaxaca,Tot
+2006,108,DOLOSOS,Oaxaca,Dec
+2006,75,DOLOSOS,Oaxaca,Nov
+2006,83,DOLOSOS,Oaxaca,Oct
+2006,71,DOLOSOS,Oaxaca,Sep
+2006,68,DOLOSOS,Oaxaca,Aug
+2006,77,DOLOSOS,Oaxaca,Jul
+2006,69,DOLOSOS,Oaxaca,Jun
+2006,91,DOLOSOS,Oaxaca,May
+2006,99,DOLOSOS,Oaxaca,Apr
+2006,124,DOLOSOS,Oaxaca,Mar
+2006,88,DOLOSOS,Oaxaca,Feb
+2006,124,DOLOSOS,Oaxaca,Jan
+2006,180,DOLOSOS,"Nuevo Leon",Tot
+2006,10,DOLOSOS,"Nuevo Leon",Dec
+2006,24,DOLOSOS,"Nuevo Leon",Nov
+2006,14,DOLOSOS,"Nuevo Leon",Oct
+2006,20,DOLOSOS,"Nuevo Leon",Sep
+2006,17,DOLOSOS,"Nuevo Leon",Aug
+2006,15,DOLOSOS,"Nuevo Leon",Jul
+2006,10,DOLOSOS,"Nuevo Leon",Jun
+2006,17,DOLOSOS,"Nuevo Leon",May
+2006,11,DOLOSOS,"Nuevo Leon",Apr
+2006,16,DOLOSOS,"Nuevo Leon",Mar
+2006,12,DOLOSOS,"Nuevo Leon",Feb
+2006,14,DOLOSOS,"Nuevo Leon",Jan
+2006,94,DOLOSOS,Nayarit,Tot
+2006,11,DOLOSOS,Nayarit,Dec
+2006,5,DOLOSOS,Nayarit,Nov
+2006,13,DOLOSOS,Nayarit,Oct
+2006,8,DOLOSOS,Nayarit,Sep
+2006,7,DOLOSOS,Nayarit,Aug
+2006,7,DOLOSOS,Nayarit,Jul
+2006,10,DOLOSOS,Nayarit,Jun
+2006,7,DOLOSOS,Nayarit,May
+2006,7,DOLOSOS,Nayarit,Apr
+2006,9,DOLOSOS,Nayarit,Mar
+2006,1,DOLOSOS,Nayarit,Feb
+2006,9,DOLOSOS,Nayarit,Jan
+2006,159,DOLOSOS,Morelos,Tot
+2006,9,DOLOSOS,Morelos,Dec
+2006,13,DOLOSOS,Morelos,Nov
+2006,10,DOLOSOS,Morelos,Oct
+2006,11,DOLOSOS,Morelos,Sep
+2006,15,DOLOSOS,Morelos,Aug
+2006,16,DOLOSOS,Morelos,Jul
+2006,20,DOLOSOS,Morelos,Jun
+2006,17,DOLOSOS,Morelos,May
+2006,16,DOLOSOS,Morelos,Apr
+2006,15,DOLOSOS,Morelos,Mar
+2006,4,DOLOSOS,Morelos,Feb
+2006,13,DOLOSOS,Morelos,Jan
+2006,661,DOLOSOS,Michoacan,Tot
+2006,67,DOLOSOS,Michoacan,Dec
+2006,60,DOLOSOS,Michoacan,Nov
+2006,65,DOLOSOS,Michoacan,Oct
+2006,58,DOLOSOS,Michoacan,Sep
+2006,88,DOLOSOS,Michoacan,Aug
+2006,55,DOLOSOS,Michoacan,Jul
+2006,44,DOLOSOS,Michoacan,Jun
+2006,55,DOLOSOS,Michoacan,May
+2006,46,DOLOSOS,Michoacan,Apr
+2006,40,DOLOSOS,Michoacan,Mar
+2006,36,DOLOSOS,Michoacan,Feb
+2006,47,DOLOSOS,Michoacan,Jan
+2006,2766,DOLOSOS,Mexico,Tot
+2006,250,DOLOSOS,Mexico,Dec
+2006,257,DOLOSOS,Mexico,Nov
+2006,299,DOLOSOS,Mexico,Oct
+2006,247,DOLOSOS,Mexico,Sep
+2006,209,DOLOSOS,Mexico,Aug
+2006,198,DOLOSOS,Mexico,Jul
+2006,206,DOLOSOS,Mexico,Jun
+2006,235,DOLOSOS,Mexico,May
+2006,223,DOLOSOS,Mexico,Apr
+2006,195,DOLOSOS,Mexico,Mar
+2006,241,DOLOSOS,Mexico,Feb
+2006,206,DOLOSOS,Mexico,Jan
+2006,425,DOLOSOS,Jalisco,Tot
+2006,34,DOLOSOS,Jalisco,Dec
+2006,44,DOLOSOS,Jalisco,Nov
+2006,28,DOLOSOS,Jalisco,Oct
+2006,31,DOLOSOS,Jalisco,Sep
+2006,32,DOLOSOS,Jalisco,Aug
+2006,31,DOLOSOS,Jalisco,Jul
+2006,34,DOLOSOS,Jalisco,Jun
+2006,44,DOLOSOS,Jalisco,May
+2006,43,DOLOSOS,Jalisco,Apr
+2006,32,DOLOSOS,Jalisco,Mar
+2006,25,DOLOSOS,Jalisco,Feb
+2006,47,DOLOSOS,Jalisco,Jan
+2006,101,DOLOSOS,Hidalgo,Tot
+2006,9,DOLOSOS,Hidalgo,Dec
+2006,6,DOLOSOS,Hidalgo,Nov
+2006,8,DOLOSOS,Hidalgo,Oct
+2006,8,DOLOSOS,Hidalgo,Sep
+2006,12,DOLOSOS,Hidalgo,Aug
+2006,8,DOLOSOS,Hidalgo,Jul
+2006,8,DOLOSOS,Hidalgo,Jun
+2006,7,DOLOSOS,Hidalgo,May
+2006,10,DOLOSOS,Hidalgo,Apr
+2006,10,DOLOSOS,Hidalgo,Mar
+2006,8,DOLOSOS,Hidalgo,Feb
+2006,7,DOLOSOS,Hidalgo,Jan
+2006,837,DOLOSOS,Guerrero,Tot
+2006,85,DOLOSOS,Guerrero,Dec
+2006,88,DOLOSOS,Guerrero,Nov
+2006,95,DOLOSOS,Guerrero,Oct
+2006,72,DOLOSOS,Guerrero,Sep
+2006,46,DOLOSOS,Guerrero,Aug
+2006,68,DOLOSOS,Guerrero,Jul
+2006,84,DOLOSOS,Guerrero,Jun
+2006,66,DOLOSOS,Guerrero,May
+2006,62,DOLOSOS,Guerrero,Apr
+2006,75,DOLOSOS,Guerrero,Mar
+2006,45,DOLOSOS,Guerrero,Feb
+2006,51,DOLOSOS,Guerrero,Jan
+2006,242,DOLOSOS,Guanajuato,Tot
+2006,20,DOLOSOS,Guanajuato,Dec
+2006,21,DOLOSOS,Guanajuato,Nov
+2006,13,DOLOSOS,Guanajuato,Oct
+2006,17,DOLOSOS,Guanajuato,Sep
+2006,17,DOLOSOS,Guanajuato,Aug
+2006,47,DOLOSOS,Guanajuato,Jul
+2006,18,DOLOSOS,Guanajuato,Jun
+2006,14,DOLOSOS,Guanajuato,May
+2006,22,DOLOSOS,Guanajuato,Apr
+2006,18,DOLOSOS,Guanajuato,Mar
+2006,18,DOLOSOS,Guanajuato,Feb
+2006,17,DOLOSOS,Guanajuato,Jan
+2006,205,DOLOSOS,Durango,Tot
+2006,17,DOLOSOS,Durango,Dec
+2006,14,DOLOSOS,Durango,Nov
+2006,15,DOLOSOS,Durango,Oct
+2006,19,DOLOSOS,Durango,Sep
+2006,8,DOLOSOS,Durango,Aug
+2006,20,DOLOSOS,Durango,Jul
+2006,23,DOLOSOS,Durango,Jun
+2006,16,DOLOSOS,Durango,May
+2006,21,DOLOSOS,Durango,Apr
+2006,16,DOLOSOS,Durango,Mar
+2006,22,DOLOSOS,Durango,Feb
+2006,14,DOLOSOS,Durango,Jan
+2006,649,DOLOSOS,"Distrito Federal",Tot
+2006,68,DOLOSOS,"Distrito Federal",Dec
+2006,60,DOLOSOS,"Distrito Federal",Nov
+2006,49,DOLOSOS,"Distrito Federal",Oct
+2006,60,DOLOSOS,"Distrito Federal",Sep
+2006,72,DOLOSOS,"Distrito Federal",Aug
+2006,40,DOLOSOS,"Distrito Federal",Jul
+2006,42,DOLOSOS,"Distrito Federal",Jun
+2006,51,DOLOSOS,"Distrito Federal",May
+2006,46,DOLOSOS,"Distrito Federal",Apr
+2006,56,DOLOSOS,"Distrito Federal",Mar
+2006,43,DOLOSOS,"Distrito Federal",Feb
+2006,62,DOLOSOS,"Distrito Federal",Jan
+2006,593,DOLOSOS,Chihuahua,Tot
+2006,54,DOLOSOS,Chihuahua,Dec
+2006,64,DOLOSOS,Chihuahua,Nov
+2006,37,DOLOSOS,Chihuahua,Oct
+2006,48,DOLOSOS,Chihuahua,Sep
+2006,53,DOLOSOS,Chihuahua,Aug
+2006,49,DOLOSOS,Chihuahua,Jul
+2006,58,DOLOSOS,Chihuahua,Jun
+2006,56,DOLOSOS,Chihuahua,May
+2006,49,DOLOSOS,Chihuahua,Apr
+2006,38,DOLOSOS,Chihuahua,Mar
+2006,42,DOLOSOS,Chihuahua,Feb
+2006,45,DOLOSOS,Chihuahua,Jan
+2006,358,DOLOSOS,Chiapas,Tot
+2006,30,DOLOSOS,Chiapas,Dec
+2006,36,DOLOSOS,Chiapas,Nov
+2006,25,DOLOSOS,Chiapas,Oct
+2006,22,DOLOSOS,Chiapas,Sep
+2006,31,DOLOSOS,Chiapas,Aug
+2006,27,DOLOSOS,Chiapas,Jul
+2006,35,DOLOSOS,Chiapas,Jun
+2006,31,DOLOSOS,Chiapas,May
+2006,33,DOLOSOS,Chiapas,Apr
+2006,37,DOLOSOS,Chiapas,Mar
+2006,22,DOLOSOS,Chiapas,Feb
+2006,29,DOLOSOS,Chiapas,Jan
+2006,31,DOLOSOS,Colima,Tot
+2006,7,DOLOSOS,Colima,Dec
+2006,6,DOLOSOS,Colima,Nov
+2006,1,DOLOSOS,Colima,Oct
+2006,3,DOLOSOS,Colima,Sep
+2006,1,DOLOSOS,Colima,Aug
+2006,2,DOLOSOS,Colima,Jul
+2006,2,DOLOSOS,Colima,Jun
+2006,2,DOLOSOS,Colima,May
+2006,1,DOLOSOS,Colima,Apr
+2006,3,DOLOSOS,Colima,Mar
+2006,2,DOLOSOS,Colima,Feb
+2006,1,DOLOSOS,Colima,Jan
+2006,109,DOLOSOS,Coahuila,Tot
+2006,7,DOLOSOS,Coahuila,Dec
+2006,13,DOLOSOS,Coahuila,Nov
+2006,9,DOLOSOS,Coahuila,Oct
+2006,9,DOLOSOS,Coahuila,Sep
+2006,7,DOLOSOS,Coahuila,Aug
+2006,9,DOLOSOS,Coahuila,Jul
+2006,10,DOLOSOS,Coahuila,Jun
+2006,9,DOLOSOS,Coahuila,May
+2006,10,DOLOSOS,Coahuila,Apr
+2006,7,DOLOSOS,Coahuila,Mar
+2006,10,DOLOSOS,Coahuila,Feb
+2006,9,DOLOSOS,Coahuila,Jan
+2006,28,DOLOSOS,Campeche,Tot
+2006,3,DOLOSOS,Campeche,Dec
+2006,2,DOLOSOS,Campeche,Nov
+2006,4,DOLOSOS,Campeche,Oct
+2006,2,DOLOSOS,Campeche,Sep
+2006,3,DOLOSOS,Campeche,Aug
+2006,1,DOLOSOS,Campeche,Jul
+2006,2,DOLOSOS,Campeche,Jun
+2006,2,DOLOSOS,Campeche,May
+2006,0,DOLOSOS,Campeche,Apr
+2006,2,DOLOSOS,Campeche,Mar
+2006,3,DOLOSOS,Campeche,Feb
+2006,4,DOLOSOS,Campeche,Jan
+2006,20,DOLOSOS,"Baja California Sur",Tot
+2006,0,DOLOSOS,"Baja California Sur",Dec
+2006,3,DOLOSOS,"Baja California Sur",Nov
+2006,2,DOLOSOS,"Baja California Sur",Oct
+2006,3,DOLOSOS,"Baja California Sur",Sep
+2006,0,DOLOSOS,"Baja California Sur",Aug
+2006,4,DOLOSOS,"Baja California Sur",Jul
+2006,0,DOLOSOS,"Baja California Sur",Jun
+2006,1,DOLOSOS,"Baja California Sur",May
+2006,0,DOLOSOS,"Baja California Sur",Apr
+2006,2,DOLOSOS,"Baja California Sur",Mar
+2006,4,DOLOSOS,"Baja California Sur",Feb
+2006,1,DOLOSOS,"Baja California Sur",Jan
+2006,483,DOLOSOS,"Baja California",Tot
+2006,38,DOLOSOS,"Baja California",Dec
+2006,32,DOLOSOS,"Baja California",Nov
+2006,41,DOLOSOS,"Baja California",Oct
+2006,52,DOLOSOS,"Baja California",Sep
+2006,51,DOLOSOS,"Baja California",Aug
+2006,43,DOLOSOS,"Baja California",Jul
+2006,42,DOLOSOS,"Baja California",Jun
+2006,42,DOLOSOS,"Baja California",May
+2006,37,DOLOSOS,"Baja California",Apr
+2006,26,DOLOSOS,"Baja California",Mar
+2006,38,DOLOSOS,"Baja California",Feb
+2006,41,DOLOSOS,"Baja California",Jan
+2006,24,DOLOSOS,Aguascalientes,Tot
+2006,1,DOLOSOS,Aguascalientes,Dec
+2006,1,DOLOSOS,Aguascalientes,Nov
+2006,1,DOLOSOS,Aguascalientes,Oct
+2006,3,DOLOSOS,Aguascalientes,Sep
+2006,1,DOLOSOS,Aguascalientes,Aug
+2006,4,DOLOSOS,Aguascalientes,Jul
+2006,2,DOLOSOS,Aguascalientes,Jun
+2006,5,DOLOSOS,Aguascalientes,May
+2006,2,DOLOSOS,Aguascalientes,Apr
+2006,1,DOLOSOS,Aguascalientes,Mar
+2006,2,DOLOSOS,Aguascalientes,Feb
+2006,1,DOLOSOS,Aguascalientes,Jan
+2006,11775,DOLOSOS,National,Tot
+2006,1021,DOLOSOS,National,Dec
+2006,1001,DOLOSOS,National,Nov
+2006,1039,DOLOSOS,National,Oct
+2006,976,DOLOSOS,National,Sep
+2006,956,DOLOSOS,National,Aug
+2006,938,DOLOSOS,National,Jul
+2006,978,DOLOSOS,National,Jun
+2006,1049,DOLOSOS,National,May
+2006,959,DOLOSOS,National,Apr
+2006,1003,DOLOSOS,National,Mar
+2006,860,DOLOSOS,National,Feb
+2006,995,DOLOSOS,National,Jan
+2005,58,DOLOSOS,Zacatecas,Tot
+2005,6,DOLOSOS,Zacatecas,Dec
+2005,3,DOLOSOS,Zacatecas,Nov
+2005,5,DOLOSOS,Zacatecas,Oct
+2005,7,DOLOSOS,Zacatecas,Sep
+2005,2,DOLOSOS,Zacatecas,Aug
+2005,4,DOLOSOS,Zacatecas,Jul
+2005,3,DOLOSOS,Zacatecas,Jun
+2005,10,DOLOSOS,Zacatecas,May
+2005,4,DOLOSOS,Zacatecas,Apr
+2005,7,DOLOSOS,Zacatecas,Mar
+2005,4,DOLOSOS,Zacatecas,Feb
+2005,3,DOLOSOS,Zacatecas,Jan
+2005,22,DOLOSOS,Yucatan,Tot
+2005,3,DOLOSOS,Yucatan,Dec
+2005,0,DOLOSOS,Yucatan,Nov
+2005,0,DOLOSOS,Yucatan,Oct
+2005,3,DOLOSOS,Yucatan,Sep
+2005,3,DOLOSOS,Yucatan,Aug
+2005,0,DOLOSOS,Yucatan,Jul
+2005,5,DOLOSOS,Yucatan,Jun
+2005,1,DOLOSOS,Yucatan,May
+2005,3,DOLOSOS,Yucatan,Apr
+2005,0,DOLOSOS,Yucatan,Mar
+2005,3,DOLOSOS,Yucatan,Feb
+2005,1,DOLOSOS,Yucatan,Jan
+2005,459,DOLOSOS,Veracruz,Tot
+2005,34,DOLOSOS,Veracruz,Dec
+2005,37,DOLOSOS,Veracruz,Nov
+2005,33,DOLOSOS,Veracruz,Oct
+2005,34,DOLOSOS,Veracruz,Sep
+2005,29,DOLOSOS,Veracruz,Aug
+2005,29,DOLOSOS,Veracruz,Jul
+2005,50,DOLOSOS,Veracruz,Jun
+2005,38,DOLOSOS,Veracruz,May
+2005,34,DOLOSOS,Veracruz,Apr
+2005,54,DOLOSOS,Veracruz,Mar
+2005,56,DOLOSOS,Veracruz,Feb
+2005,31,DOLOSOS,Veracruz,Jan
+2005,350,DOLOSOS,Tlaxcala,Tot
+2005,24,DOLOSOS,Tlaxcala,Dec
+2005,21,DOLOSOS,Tlaxcala,Nov
+2005,29,DOLOSOS,Tlaxcala,Oct
+2005,29,DOLOSOS,Tlaxcala,Sep
+2005,35,DOLOSOS,Tlaxcala,Aug
+2005,27,DOLOSOS,Tlaxcala,Jul
+2005,28,DOLOSOS,Tlaxcala,Jun
+2005,39,DOLOSOS,Tlaxcala,May
+2005,26,DOLOSOS,Tlaxcala,Apr
+2005,39,DOLOSOS,Tlaxcala,Mar
+2005,23,DOLOSOS,Tlaxcala,Feb
+2005,30,DOLOSOS,Tlaxcala,Jan
+2005,357,DOLOSOS,Tamaulipas,Tot
+2005,25,DOLOSOS,Tamaulipas,Dec
+2005,25,DOLOSOS,Tamaulipas,Nov
+2005,25,DOLOSOS,Tamaulipas,Oct
+2005,26,DOLOSOS,Tamaulipas,Sep
+2005,28,DOLOSOS,Tamaulipas,Aug
+2005,46,DOLOSOS,Tamaulipas,Jul
+2005,41,DOLOSOS,Tamaulipas,Jun
+2005,28,DOLOSOS,Tamaulipas,May
+2005,25,DOLOSOS,Tamaulipas,Apr
+2005,30,DOLOSOS,Tamaulipas,Mar
+2005,24,DOLOSOS,Tamaulipas,Feb
+2005,34,DOLOSOS,Tamaulipas,Jan
+2005,84,DOLOSOS,Tabasco,Tot
+2005,13,DOLOSOS,Tabasco,Dec
+2005,9,DOLOSOS,Tabasco,Nov
+2005,10,DOLOSOS,Tabasco,Oct
+2005,9,DOLOSOS,Tabasco,Sep
+2005,6,DOLOSOS,Tabasco,Aug
+2005,8,DOLOSOS,Tabasco,Jul
+2005,3,DOLOSOS,Tabasco,Jun
+2005,5,DOLOSOS,Tabasco,May
+2005,4,DOLOSOS,Tabasco,Apr
+2005,5,DOLOSOS,Tabasco,Mar
+2005,8,DOLOSOS,Tabasco,Feb
+2005,4,DOLOSOS,Tabasco,Jan
+2005,275,DOLOSOS,Sonora,Tot
+2005,24,DOLOSOS,Sonora,Dec
+2005,25,DOLOSOS,Sonora,Nov
+2005,22,DOLOSOS,Sonora,Oct
+2005,21,DOLOSOS,Sonora,Sep
+2005,20,DOLOSOS,Sonora,Aug
+2005,19,DOLOSOS,Sonora,Jul
+2005,24,DOLOSOS,Sonora,Jun
+2005,35,DOLOSOS,Sonora,May
+2005,28,DOLOSOS,Sonora,Apr
+2005,24,DOLOSOS,Sonora,Mar
+2005,14,DOLOSOS,Sonora,Feb
+2005,19,DOLOSOS,Sonora,Jan
+2005,609,DOLOSOS,Sinaloa,Tot
+2005,59,DOLOSOS,Sinaloa,Dec
+2005,57,DOLOSOS,Sinaloa,Nov
+2005,40,DOLOSOS,Sinaloa,Oct
+2005,40,DOLOSOS,Sinaloa,Sep
+2005,49,DOLOSOS,Sinaloa,Aug
+2005,54,DOLOSOS,Sinaloa,Jul
+2005,38,DOLOSOS,Sinaloa,Jun
+2005,66,DOLOSOS,Sinaloa,May
+2005,66,DOLOSOS,Sinaloa,Apr
+2005,40,DOLOSOS,Sinaloa,Mar
+2005,54,DOLOSOS,Sinaloa,Feb
+2005,46,DOLOSOS,Sinaloa,Jan
+2005,176,DOLOSOS,"San Luis Potosi",Tot
+2005,6,DOLOSOS,"San Luis Potosi",Dec
+2005,14,DOLOSOS,"San Luis Potosi",Nov
+2005,6,DOLOSOS,"San Luis Potosi",Oct
+2005,15,DOLOSOS,"San Luis Potosi",Sep
+2005,13,DOLOSOS,"San Luis Potosi",Aug
+2005,15,DOLOSOS,"San Luis Potosi",Jul
+2005,13,DOLOSOS,"San Luis Potosi",Jun
+2005,13,DOLOSOS,"San Luis Potosi",May
+2005,35,DOLOSOS,"San Luis Potosi",Apr
+2005,16,DOLOSOS,"San Luis Potosi",Mar
+2005,15,DOLOSOS,"San Luis Potosi",Feb
+2005,15,DOLOSOS,"San Luis Potosi",Jan
+2005,119,DOLOSOS,"Quintana Roo",Tot
+2005,14,DOLOSOS,"Quintana Roo",Dec
+2005,8,DOLOSOS,"Quintana Roo",Nov
+2005,9,DOLOSOS,"Quintana Roo",Oct
+2005,15,DOLOSOS,"Quintana Roo",Sep
+2005,5,DOLOSOS,"Quintana Roo",Aug
+2005,13,DOLOSOS,"Quintana Roo",Jul
+2005,4,DOLOSOS,"Quintana Roo",Jun
+2005,14,DOLOSOS,"Quintana Roo",May
+2005,5,DOLOSOS,"Quintana Roo",Apr
+2005,15,DOLOSOS,"Quintana Roo",Mar
+2005,10,DOLOSOS,"Quintana Roo",Feb
+2005,7,DOLOSOS,"Quintana Roo",Jan
+2005,68,DOLOSOS,Queretaro,Tot
+2005,6,DOLOSOS,Queretaro,Dec
+2005,6,DOLOSOS,Queretaro,Nov
+2005,6,DOLOSOS,Queretaro,Oct
+2005,5,DOLOSOS,Queretaro,Sep
+2005,6,DOLOSOS,Queretaro,Aug
+2005,5,DOLOSOS,Queretaro,Jul
+2005,4,DOLOSOS,Queretaro,Jun
+2005,11,DOLOSOS,Queretaro,May
+2005,6,DOLOSOS,Queretaro,Apr
+2005,5,DOLOSOS,Queretaro,Mar
+2005,2,DOLOSOS,Queretaro,Feb
+2005,6,DOLOSOS,Queretaro,Jan
+2005,341,DOLOSOS,Puebla,Tot
+2005,32,DOLOSOS,Puebla,Dec
+2005,29,DOLOSOS,Puebla,Nov
+2005,18,DOLOSOS,Puebla,Oct
+2005,30,DOLOSOS,Puebla,Sep
+2005,26,DOLOSOS,Puebla,Aug
+2005,20,DOLOSOS,Puebla,Jul
+2005,33,DOLOSOS,Puebla,Jun
+2005,29,DOLOSOS,Puebla,May
+2005,28,DOLOSOS,Puebla,Apr
+2005,22,DOLOSOS,Puebla,Mar
+2005,28,DOLOSOS,Puebla,Feb
+2005,46,DOLOSOS,Puebla,Jan
+2005,1053,DOLOSOS,Oaxaca,Tot
+2005,49,DOLOSOS,Oaxaca,Dec
+2005,9,DOLOSOS,Oaxaca,Nov
+2005,76,DOLOSOS,Oaxaca,Oct
+2005,16,DOLOSOS,Oaxaca,Sep
+2005,72,DOLOSOS,Oaxaca,Aug
+2005,100,DOLOSOS,Oaxaca,Jul
+2005,134,DOLOSOS,Oaxaca,Jun
+2005,118,DOLOSOS,Oaxaca,May
+2005,122,DOLOSOS,Oaxaca,Apr
+2005,128,DOLOSOS,Oaxaca,Mar
+2005,125,DOLOSOS,Oaxaca,Feb
+2005,104,DOLOSOS,Oaxaca,Jan
+2005,143,DOLOSOS,"Nuevo Leon",Tot
+2005,13,DOLOSOS,"Nuevo Leon",Dec
+2005,7,DOLOSOS,"Nuevo Leon",Nov
+2005,18,DOLOSOS,"Nuevo Leon",Oct
+2005,16,DOLOSOS,"Nuevo Leon",Sep
+2005,4,DOLOSOS,"Nuevo Leon",Aug
+2005,18,DOLOSOS,"Nuevo Leon",Jul
+2005,12,DOLOSOS,"Nuevo Leon",Jun
+2005,13,DOLOSOS,"Nuevo Leon",May
+2005,13,DOLOSOS,"Nuevo Leon",Apr
+2005,11,DOLOSOS,"Nuevo Leon",Mar
+2005,11,DOLOSOS,"Nuevo Leon",Feb
+2005,7,DOLOSOS,"Nuevo Leon",Jan
+2005,93,DOLOSOS,Nayarit,Tot
+2005,4,DOLOSOS,Nayarit,Dec
+2005,10,DOLOSOS,Nayarit,Nov
+2005,13,DOLOSOS,Nayarit,Oct
+2005,12,DOLOSOS,Nayarit,Sep
+2005,13,DOLOSOS,Nayarit,Aug
+2005,4,DOLOSOS,Nayarit,Jul
+2005,10,DOLOSOS,Nayarit,Jun
+2005,6,DOLOSOS,Nayarit,May
+2005,3,DOLOSOS,Nayarit,Apr
+2005,5,DOLOSOS,Nayarit,Mar
+2005,5,DOLOSOS,Nayarit,Feb
+2005,8,DOLOSOS,Nayarit,Jan
+2005,160,DOLOSOS,Morelos,Tot
+2005,7,DOLOSOS,Morelos,Dec
+2005,12,DOLOSOS,Morelos,Nov
+2005,20,DOLOSOS,Morelos,Oct
+2005,14,DOLOSOS,Morelos,Sep
+2005,9,DOLOSOS,Morelos,Aug
+2005,8,DOLOSOS,Morelos,Jul
+2005,24,DOLOSOS,Morelos,Jun
+2005,17,DOLOSOS,Morelos,May
+2005,11,DOLOSOS,Morelos,Apr
+2005,11,DOLOSOS,Morelos,Mar
+2005,13,DOLOSOS,Morelos,Feb
+2005,14,DOLOSOS,Morelos,Jan
+2005,427,DOLOSOS,Michoacan,Tot
+2005,41,DOLOSOS,Michoacan,Dec
+2005,39,DOLOSOS,Michoacan,Nov
+2005,37,DOLOSOS,Michoacan,Oct
+2005,34,DOLOSOS,Michoacan,Sep
+2005,22,DOLOSOS,Michoacan,Aug
+2005,39,DOLOSOS,Michoacan,Jul
+2005,32,DOLOSOS,Michoacan,Jun
+2005,38,DOLOSOS,Michoacan,May
+2005,35,DOLOSOS,Michoacan,Apr
+2005,40,DOLOSOS,Michoacan,Mar
+2005,37,DOLOSOS,Michoacan,Feb
+2005,33,DOLOSOS,Michoacan,Jan
+2005,2313,DOLOSOS,Mexico,Tot
+2005,212,DOLOSOS,Mexico,Dec
+2005,216,DOLOSOS,Mexico,Nov
+2005,182,DOLOSOS,Mexico,Oct
+2005,176,DOLOSOS,Mexico,Sep
+2005,163,DOLOSOS,Mexico,Aug
+2005,178,DOLOSOS,Mexico,Jul
+2005,187,DOLOSOS,Mexico,Jun
+2005,172,DOLOSOS,Mexico,May
+2005,189,DOLOSOS,Mexico,Apr
+2005,212,DOLOSOS,Mexico,Mar
+2005,192,DOLOSOS,Mexico,Feb
+2005,234,DOLOSOS,Mexico,Jan
+2005,384,DOLOSOS,Jalisco,Tot
+2005,35,DOLOSOS,Jalisco,Dec
+2005,28,DOLOSOS,Jalisco,Nov
+2005,40,DOLOSOS,Jalisco,Oct
+2005,38,DOLOSOS,Jalisco,Sep
+2005,32,DOLOSOS,Jalisco,Aug
+2005,26,DOLOSOS,Jalisco,Jul
+2005,31,DOLOSOS,Jalisco,Jun
+2005,32,DOLOSOS,Jalisco,May
+2005,39,DOLOSOS,Jalisco,Apr
+2005,32,DOLOSOS,Jalisco,Mar
+2005,26,DOLOSOS,Jalisco,Feb
+2005,25,DOLOSOS,Jalisco,Jan
+2005,118,DOLOSOS,Hidalgo,Tot
+2005,5,DOLOSOS,Hidalgo,Dec
+2005,17,DOLOSOS,Hidalgo,Nov
+2005,8,DOLOSOS,Hidalgo,Oct
+2005,17,DOLOSOS,Hidalgo,Sep
+2005,12,DOLOSOS,Hidalgo,Aug
+2005,10,DOLOSOS,Hidalgo,Jul
+2005,7,DOLOSOS,Hidalgo,Jun
+2005,8,DOLOSOS,Hidalgo,May
+2005,6,DOLOSOS,Hidalgo,Apr
+2005,8,DOLOSOS,Hidalgo,Mar
+2005,8,DOLOSOS,Hidalgo,Feb
+2005,12,DOLOSOS,Hidalgo,Jan
+2005,755,DOLOSOS,Guerrero,Tot
+2005,75,DOLOSOS,Guerrero,Dec
+2005,75,DOLOSOS,Guerrero,Nov
+2005,50,DOLOSOS,Guerrero,Oct
+2005,80,DOLOSOS,Guerrero,Sep
+2005,63,DOLOSOS,Guerrero,Aug
+2005,71,DOLOSOS,Guerrero,Jul
+2005,73,DOLOSOS,Guerrero,Jun
+2005,59,DOLOSOS,Guerrero,May
+2005,79,DOLOSOS,Guerrero,Apr
+2005,28,DOLOSOS,Guerrero,Mar
+2005,48,DOLOSOS,Guerrero,Feb
+2005,54,DOLOSOS,Guerrero,Jan
+2005,213,DOLOSOS,Guanajuato,Tot
+2005,22,DOLOSOS,Guanajuato,Dec
+2005,17,DOLOSOS,Guanajuato,Nov
+2005,20,DOLOSOS,Guanajuato,Oct
+2005,11,DOLOSOS,Guanajuato,Sep
+2005,14,DOLOSOS,Guanajuato,Aug
+2005,19,DOLOSOS,Guanajuato,Jul
+2005,20,DOLOSOS,Guanajuato,Jun
+2005,19,DOLOSOS,Guanajuato,May
+2005,23,DOLOSOS,Guanajuato,Apr
+2005,24,DOLOSOS,Guanajuato,Mar
+2005,17,DOLOSOS,Guanajuato,Feb
+2005,7,DOLOSOS,Guanajuato,Jan
+2005,189,DOLOSOS,Durango,Tot
+2005,13,DOLOSOS,Durango,Dec
+2005,19,DOLOSOS,Durango,Nov
+2005,11,DOLOSOS,Durango,Oct
+2005,21,DOLOSOS,Durango,Sep
+2005,10,DOLOSOS,Durango,Aug
+2005,10,DOLOSOS,Durango,Jul
+2005,22,DOLOSOS,Durango,Jun
+2005,19,DOLOSOS,Durango,May
+2005,19,DOLOSOS,Durango,Apr
+2005,18,DOLOSOS,Durango,Mar
+2005,16,DOLOSOS,Durango,Feb
+2005,11,DOLOSOS,Durango,Jan
+2005,698,DOLOSOS,"Distrito Federal",Tot
+2005,71,DOLOSOS,"Distrito Federal",Dec
+2005,61,DOLOSOS,"Distrito Federal",Nov
+2005,68,DOLOSOS,"Distrito Federal",Oct
+2005,59,DOLOSOS,"Distrito Federal",Sep
+2005,50,DOLOSOS,"Distrito Federal",Aug
+2005,64,DOLOSOS,"Distrito Federal",Jul
+2005,68,DOLOSOS,"Distrito Federal",Jun
+2005,47,DOLOSOS,"Distrito Federal",May
+2005,65,DOLOSOS,"Distrito Federal",Apr
+2005,49,DOLOSOS,"Distrito Federal",Mar
+2005,44,DOLOSOS,"Distrito Federal",Feb
+2005,52,DOLOSOS,"Distrito Federal",Jan
+2005,550,DOLOSOS,Chihuahua,Tot
+2005,50,DOLOSOS,Chihuahua,Dec
+2005,39,DOLOSOS,Chihuahua,Nov
+2005,52,DOLOSOS,Chihuahua,Oct
+2005,41,DOLOSOS,Chihuahua,Sep
+2005,39,DOLOSOS,Chihuahua,Aug
+2005,40,DOLOSOS,Chihuahua,Jul
+2005,52,DOLOSOS,Chihuahua,Jun
+2005,62,DOLOSOS,Chihuahua,May
+2005,40,DOLOSOS,Chihuahua,Apr
+2005,52,DOLOSOS,Chihuahua,Mar
+2005,37,DOLOSOS,Chihuahua,Feb
+2005,46,DOLOSOS,Chihuahua,Jan
+2005,415,DOLOSOS,Chiapas,Tot
+2005,30,DOLOSOS,Chiapas,Dec
+2005,45,DOLOSOS,Chiapas,Nov
+2005,27,DOLOSOS,Chiapas,Oct
+2005,42,DOLOSOS,Chiapas,Sep
+2005,36,DOLOSOS,Chiapas,Aug
+2005,41,DOLOSOS,Chiapas,Jul
+2005,41,DOLOSOS,Chiapas,Jun
+2005,32,DOLOSOS,Chiapas,May
+2005,27,DOLOSOS,Chiapas,Apr
+2005,29,DOLOSOS,Chiapas,Mar
+2005,32,DOLOSOS,Chiapas,Feb
+2005,33,DOLOSOS,Chiapas,Jan
+2005,44,DOLOSOS,Colima,Tot
+2005,5,DOLOSOS,Colima,Dec
+2005,6,DOLOSOS,Colima,Nov
+2005,1,DOLOSOS,Colima,Oct
+2005,3,DOLOSOS,Colima,Sep
+2005,6,DOLOSOS,Colima,Aug
+2005,4,DOLOSOS,Colima,Jul
+2005,7,DOLOSOS,Colima,Jun
+2005,1,DOLOSOS,Colima,May
+2005,4,DOLOSOS,Colima,Apr
+2005,1,DOLOSOS,Colima,Mar
+2005,5,DOLOSOS,Colima,Feb
+2005,1,DOLOSOS,Colima,Jan
+2005,139,DOLOSOS,Coahuila,Tot
+2005,12,DOLOSOS,Coahuila,Dec
+2005,9,DOLOSOS,Coahuila,Nov
+2005,15,DOLOSOS,Coahuila,Oct
+2005,18,DOLOSOS,Coahuila,Sep
+2005,17,DOLOSOS,Coahuila,Aug
+2005,7,DOLOSOS,Coahuila,Jul
+2005,15,DOLOSOS,Coahuila,Jun
+2005,8,DOLOSOS,Coahuila,May
+2005,14,DOLOSOS,Coahuila,Apr
+2005,5,DOLOSOS,Coahuila,Mar
+2005,10,DOLOSOS,Coahuila,Feb
+2005,9,DOLOSOS,Coahuila,Jan
+2005,51,DOLOSOS,Campeche,Tot
+2005,4,DOLOSOS,Campeche,Dec
+2005,8,DOLOSOS,Campeche,Nov
+2005,3,DOLOSOS,Campeche,Oct
+2005,6,DOLOSOS,Campeche,Sep
+2005,2,DOLOSOS,Campeche,Aug
+2005,6,DOLOSOS,Campeche,Jul
+2005,4,DOLOSOS,Campeche,Jun
+2005,3,DOLOSOS,Campeche,May
+2005,7,DOLOSOS,Campeche,Apr
+2005,1,DOLOSOS,Campeche,Mar
+2005,5,DOLOSOS,Campeche,Feb
+2005,2,DOLOSOS,Campeche,Jan
+2005,34,DOLOSOS,"Baja California Sur",Tot
+2005,1,DOLOSOS,"Baja California Sur",Dec
+2005,0,DOLOSOS,"Baja California Sur",Nov
+2005,3,DOLOSOS,"Baja California Sur",Oct
+2005,0,DOLOSOS,"Baja California Sur",Sep
+2005,2,DOLOSOS,"Baja California Sur",Aug
+2005,5,DOLOSOS,"Baja California Sur",Jul
+2005,6,DOLOSOS,"Baja California Sur",Jun
+2005,5,DOLOSOS,"Baja California Sur",May
+2005,2,DOLOSOS,"Baja California Sur",Apr
+2005,3,DOLOSOS,"Baja California Sur",Mar
+2005,4,DOLOSOS,"Baja California Sur",Feb
+2005,3,DOLOSOS,"Baja California Sur",Jan
+2005,539,DOLOSOS,"Baja California",Tot
+2005,36,DOLOSOS,"Baja California",Dec
+2005,39,DOLOSOS,"Baja California",Nov
+2005,54,DOLOSOS,"Baja California",Oct
+2005,52,DOLOSOS,"Baja California",Sep
+2005,53,DOLOSOS,"Baja California",Aug
+2005,37,DOLOSOS,"Baja California",Jul
+2005,32,DOLOSOS,"Baja California",Jun
+2005,41,DOLOSOS,"Baja California",May
+2005,61,DOLOSOS,"Baja California",Apr
+2005,36,DOLOSOS,"Baja California",Mar
+2005,45,DOLOSOS,"Baja California",Feb
+2005,53,DOLOSOS,"Baja California",Jan
+2005,19,DOLOSOS,Aguascalientes,Tot
+2005,2,DOLOSOS,Aguascalientes,Dec
+2005,2,DOLOSOS,Aguascalientes,Nov
+2005,0,DOLOSOS,Aguascalientes,Oct
+2005,2,DOLOSOS,Aguascalientes,Sep
+2005,2,DOLOSOS,Aguascalientes,Aug
+2005,0,DOLOSOS,Aguascalientes,Jul
+2005,3,DOLOSOS,Aguascalientes,Jun
+2005,1,DOLOSOS,Aguascalientes,May
+2005,0,DOLOSOS,Aguascalientes,Apr
+2005,5,DOLOSOS,Aguascalientes,Mar
+2005,0,DOLOSOS,Aguascalientes,Feb
+2005,2,DOLOSOS,Aguascalientes,Jan
+2005,11255,DOLOSOS,National,Tot
+2005,933,DOLOSOS,National,Dec
+2005,892,DOLOSOS,National,Nov
+2005,901,DOLOSOS,National,Oct
+2005,892,DOLOSOS,National,Sep
+2005,843,DOLOSOS,National,Aug
+2005,927,DOLOSOS,National,Jul
+2005,1026,DOLOSOS,National,Jun
+2005,990,DOLOSOS,National,May
+2005,1023,DOLOSOS,National,Apr
+2005,955,DOLOSOS,National,Mar
+2005,921,DOLOSOS,National,Feb
+2005,952,DOLOSOS,National,Jan
+2004,55,DOLOSOS,Zacatecas,Tot
+2004,8,DOLOSOS,Zacatecas,Dec
+2004,4,DOLOSOS,Zacatecas,Nov
+2004,7,DOLOSOS,Zacatecas,Oct
+2004,0,DOLOSOS,Zacatecas,Sep
+2004,5,DOLOSOS,Zacatecas,Aug
+2004,8,DOLOSOS,Zacatecas,Jul
+2004,5,DOLOSOS,Zacatecas,Jun
+2004,2,DOLOSOS,Zacatecas,May
+2004,4,DOLOSOS,Zacatecas,Apr
+2004,7,DOLOSOS,Zacatecas,Mar
+2004,1,DOLOSOS,Zacatecas,Feb
+2004,4,DOLOSOS,Zacatecas,Jan
+2004,30,DOLOSOS,Yucatan,Tot
+2004,5,DOLOSOS,Yucatan,Dec
+2004,2,DOLOSOS,Yucatan,Nov
+2004,1,DOLOSOS,Yucatan,Oct
+2004,3,DOLOSOS,Yucatan,Sep
+2004,1,DOLOSOS,Yucatan,Aug
+2004,4,DOLOSOS,Yucatan,Jul
+2004,5,DOLOSOS,Yucatan,Jun
+2004,4,DOLOSOS,Yucatan,May
+2004,0,DOLOSOS,Yucatan,Apr
+2004,1,DOLOSOS,Yucatan,Mar
+2004,2,DOLOSOS,Yucatan,Feb
+2004,2,DOLOSOS,Yucatan,Jan
+2004,465,DOLOSOS,Veracruz,Tot
+2004,43,DOLOSOS,Veracruz,Dec
+2004,42,DOLOSOS,Veracruz,Nov
+2004,36,DOLOSOS,Veracruz,Oct
+2004,40,DOLOSOS,Veracruz,Sep
+2004,40,DOLOSOS,Veracruz,Aug
+2004,34,DOLOSOS,Veracruz,Jul
+2004,33,DOLOSOS,Veracruz,Jun
+2004,38,DOLOSOS,Veracruz,May
+2004,35,DOLOSOS,Veracruz,Apr
+2004,40,DOLOSOS,Veracruz,Mar
+2004,56,DOLOSOS,Veracruz,Feb
+2004,28,DOLOSOS,Veracruz,Jan
+2004,260,DOLOSOS,Tlaxcala,Tot
+2004,20,DOLOSOS,Tlaxcala,Dec
+2004,17,DOLOSOS,Tlaxcala,Nov
+2004,20,DOLOSOS,Tlaxcala,Oct
+2004,8,DOLOSOS,Tlaxcala,Sep
+2004,30,DOLOSOS,Tlaxcala,Aug
+2004,14,DOLOSOS,Tlaxcala,Jul
+2004,16,DOLOSOS,Tlaxcala,Jun
+2004,20,DOLOSOS,Tlaxcala,May
+2004,21,DOLOSOS,Tlaxcala,Apr
+2004,34,DOLOSOS,Tlaxcala,Mar
+2004,27,DOLOSOS,Tlaxcala,Feb
+2004,33,DOLOSOS,Tlaxcala,Jan
+2004,225,DOLOSOS,Tamaulipas,Tot
+2004,11,DOLOSOS,Tamaulipas,Dec
+2004,15,DOLOSOS,Tamaulipas,Nov
+2004,24,DOLOSOS,Tamaulipas,Oct
+2004,12,DOLOSOS,Tamaulipas,Sep
+2004,25,DOLOSOS,Tamaulipas,Aug
+2004,13,DOLOSOS,Tamaulipas,Jul
+2004,25,DOLOSOS,Tamaulipas,Jun
+2004,24,DOLOSOS,Tamaulipas,May
+2004,21,DOLOSOS,Tamaulipas,Apr
+2004,16,DOLOSOS,Tamaulipas,Mar
+2004,21,DOLOSOS,Tamaulipas,Feb
+2004,18,DOLOSOS,Tamaulipas,Jan
+2004,120,DOLOSOS,Tabasco,Tot
+2004,9,DOLOSOS,Tabasco,Dec
+2004,9,DOLOSOS,Tabasco,Nov
+2004,9,DOLOSOS,Tabasco,Oct
+2004,13,DOLOSOS,Tabasco,Sep
+2004,15,DOLOSOS,Tabasco,Aug
+2004,7,DOLOSOS,Tabasco,Jul
+2004,6,DOLOSOS,Tabasco,Jun
+2004,19,DOLOSOS,Tabasco,May
+2004,7,DOLOSOS,Tabasco,Apr
+2004,12,DOLOSOS,Tabasco,Mar
+2004,8,DOLOSOS,Tabasco,Feb
+2004,6,DOLOSOS,Tabasco,Jan
+2004,250,DOLOSOS,Sonora,Tot
+2004,36,DOLOSOS,Sonora,Dec
+2004,22,DOLOSOS,Sonora,Nov
+2004,16,DOLOSOS,Sonora,Oct
+2004,23,DOLOSOS,Sonora,Sep
+2004,12,DOLOSOS,Sonora,Aug
+2004,21,DOLOSOS,Sonora,Jul
+2004,23,DOLOSOS,Sonora,Jun
+2004,22,DOLOSOS,Sonora,May
+2004,19,DOLOSOS,Sonora,Apr
+2004,16,DOLOSOS,Sonora,Mar
+2004,28,DOLOSOS,Sonora,Feb
+2004,12,DOLOSOS,Sonora,Jan
+2004,515,DOLOSOS,Sinaloa,Tot
+2004,45,DOLOSOS,Sinaloa,Dec
+2004,35,DOLOSOS,Sinaloa,Nov
+2004,39,DOLOSOS,Sinaloa,Oct
+2004,42,DOLOSOS,Sinaloa,Sep
+2004,54,DOLOSOS,Sinaloa,Aug
+2004,32,DOLOSOS,Sinaloa,Jul
+2004,52,DOLOSOS,Sinaloa,Jun
+2004,40,DOLOSOS,Sinaloa,May
+2004,42,DOLOSOS,Sinaloa,Apr
+2004,41,DOLOSOS,Sinaloa,Mar
+2004,34,DOLOSOS,Sinaloa,Feb
+2004,59,DOLOSOS,Sinaloa,Jan
+2004,199,DOLOSOS,"San Luis Potosi",Tot
+2004,13,DOLOSOS,"San Luis Potosi",Dec
+2004,13,DOLOSOS,"San Luis Potosi",Nov
+2004,14,DOLOSOS,"San Luis Potosi",Oct
+2004,18,DOLOSOS,"San Luis Potosi",Sep
+2004,13,DOLOSOS,"San Luis Potosi",Aug
+2004,24,DOLOSOS,"San Luis Potosi",Jul
+2004,16,DOLOSOS,"San Luis Potosi",Jun
+2004,8,DOLOSOS,"San Luis Potosi",May
+2004,9,DOLOSOS,"San Luis Potosi",Apr
+2004,26,DOLOSOS,"San Luis Potosi",Mar
+2004,22,DOLOSOS,"San Luis Potosi",Feb
+2004,23,DOLOSOS,"San Luis Potosi",Jan
+2004,138,DOLOSOS,"Quintana Roo",Tot
+2004,9,DOLOSOS,"Quintana Roo",Dec
+2004,13,DOLOSOS,"Quintana Roo",Nov
+2004,13,DOLOSOS,"Quintana Roo",Oct
+2004,9,DOLOSOS,"Quintana Roo",Sep
+2004,10,DOLOSOS,"Quintana Roo",Aug
+2004,12,DOLOSOS,"Quintana Roo",Jul
+2004,11,DOLOSOS,"Quintana Roo",Jun
+2004,11,DOLOSOS,"Quintana Roo",May
+2004,10,DOLOSOS,"Quintana Roo",Apr
+2004,16,DOLOSOS,"Quintana Roo",Mar
+2004,10,DOLOSOS,"Quintana Roo",Feb
+2004,14,DOLOSOS,"Quintana Roo",Jan
+2004,62,DOLOSOS,Queretaro,Tot
+2004,6,DOLOSOS,Queretaro,Dec
+2004,7,DOLOSOS,Queretaro,Nov
+2004,6,DOLOSOS,Queretaro,Oct
+2004,5,DOLOSOS,Queretaro,Sep
+2004,4,DOLOSOS,Queretaro,Aug
+2004,3,DOLOSOS,Queretaro,Jul
+2004,4,DOLOSOS,Queretaro,Jun
+2004,5,DOLOSOS,Queretaro,May
+2004,5,DOLOSOS,Queretaro,Apr
+2004,8,DOLOSOS,Queretaro,Mar
+2004,4,DOLOSOS,Queretaro,Feb
+2004,5,DOLOSOS,Queretaro,Jan
+2004,468,DOLOSOS,Puebla,Tot
+2004,31,DOLOSOS,Puebla,Dec
+2004,41,DOLOSOS,Puebla,Nov
+2004,32,DOLOSOS,Puebla,Oct
+2004,46,DOLOSOS,Puebla,Sep
+2004,46,DOLOSOS,Puebla,Aug
+2004,48,DOLOSOS,Puebla,Jul
+2004,55,DOLOSOS,Puebla,Jun
+2004,41,DOLOSOS,Puebla,May
+2004,49,DOLOSOS,Puebla,Apr
+2004,28,DOLOSOS,Puebla,Mar
+2004,24,DOLOSOS,Puebla,Feb
+2004,27,DOLOSOS,Puebla,Jan
+2004,1130,DOLOSOS,Oaxaca,Tot
+2004,82,DOLOSOS,Oaxaca,Dec
+2004,99,DOLOSOS,Oaxaca,Nov
+2004,133,DOLOSOS,Oaxaca,Oct
+2004,30,DOLOSOS,Oaxaca,Sep
+2004,56,DOLOSOS,Oaxaca,Aug
+2004,52,DOLOSOS,Oaxaca,Jul
+2004,151,DOLOSOS,Oaxaca,Jun
+2004,130,DOLOSOS,Oaxaca,May
+2004,109,DOLOSOS,Oaxaca,Apr
+2004,96,DOLOSOS,Oaxaca,Mar
+2004,100,DOLOSOS,Oaxaca,Feb
+2004,92,DOLOSOS,Oaxaca,Jan
+2004,117,DOLOSOS,"Nuevo Leon",Tot
+2004,9,DOLOSOS,"Nuevo Leon",Dec
+2004,11,DOLOSOS,"Nuevo Leon",Nov
+2004,7,DOLOSOS,"Nuevo Leon",Oct
+2004,12,DOLOSOS,"Nuevo Leon",Sep
+2004,8,DOLOSOS,"Nuevo Leon",Aug
+2004,11,DOLOSOS,"Nuevo Leon",Jul
+2004,12,DOLOSOS,"Nuevo Leon",Jun
+2004,7,DOLOSOS,"Nuevo Leon",May
+2004,9,DOLOSOS,"Nuevo Leon",Apr
+2004,12,DOLOSOS,"Nuevo Leon",Mar
+2004,9,DOLOSOS,"Nuevo Leon",Feb
+2004,10,DOLOSOS,"Nuevo Leon",Jan
+2004,109,DOLOSOS,Nayarit,Tot
+2004,12,DOLOSOS,Nayarit,Dec
+2004,3,DOLOSOS,Nayarit,Nov
+2004,8,DOLOSOS,Nayarit,Oct
+2004,13,DOLOSOS,Nayarit,Sep
+2004,6,DOLOSOS,Nayarit,Aug
+2004,4,DOLOSOS,Nayarit,Jul
+2004,17,DOLOSOS,Nayarit,Jun
+2004,11,DOLOSOS,Nayarit,May
+2004,6,DOLOSOS,Nayarit,Apr
+2004,10,DOLOSOS,Nayarit,Mar
+2004,6,DOLOSOS,Nayarit,Feb
+2004,13,DOLOSOS,Nayarit,Jan
+2004,219,DOLOSOS,Morelos,Tot
+2004,15,DOLOSOS,Morelos,Dec
+2004,25,DOLOSOS,Morelos,Nov
+2004,13,DOLOSOS,Morelos,Oct
+2004,24,DOLOSOS,Morelos,Sep
+2004,17,DOLOSOS,Morelos,Aug
+2004,21,DOLOSOS,Morelos,Jul
+2004,20,DOLOSOS,Morelos,Jun
+2004,20,DOLOSOS,Morelos,May
+2004,17,DOLOSOS,Morelos,Apr
+2004,22,DOLOSOS,Morelos,Mar
+2004,9,DOLOSOS,Morelos,Feb
+2004,16,DOLOSOS,Morelos,Jan
+2004,446,DOLOSOS,Michoacan,Tot
+2004,28,DOLOSOS,Michoacan,Dec
+2004,40,DOLOSOS,Michoacan,Nov
+2004,39,DOLOSOS,Michoacan,Oct
+2004,29,DOLOSOS,Michoacan,Sep
+2004,36,DOLOSOS,Michoacan,Aug
+2004,32,DOLOSOS,Michoacan,Jul
+2004,40,DOLOSOS,Michoacan,Jun
+2004,35,DOLOSOS,Michoacan,May
+2004,38,DOLOSOS,Michoacan,Apr
+2004,46,DOLOSOS,Michoacan,Mar
+2004,45,DOLOSOS,Michoacan,Feb
+2004,38,DOLOSOS,Michoacan,Jan
+2004,2855,DOLOSOS,Mexico,Tot
+2004,295,DOLOSOS,Mexico,Dec
+2004,242,DOLOSOS,Mexico,Nov
+2004,212,DOLOSOS,Mexico,Oct
+2004,215,DOLOSOS,Mexico,Sep
+2004,242,DOLOSOS,Mexico,Aug
+2004,239,DOLOSOS,Mexico,Jul
+2004,212,DOLOSOS,Mexico,Jun
+2004,246,DOLOSOS,Mexico,May
+2004,275,DOLOSOS,Mexico,Apr
+2004,245,DOLOSOS,Mexico,Mar
+2004,211,DOLOSOS,Mexico,Feb
+2004,221,DOLOSOS,Mexico,Jan
+2004,370,DOLOSOS,Jalisco,Tot
+2004,30,DOLOSOS,Jalisco,Dec
+2004,28,DOLOSOS,Jalisco,Nov
+2004,46,DOLOSOS,Jalisco,Oct
+2004,25,DOLOSOS,Jalisco,Sep
+2004,29,DOLOSOS,Jalisco,Aug
+2004,24,DOLOSOS,Jalisco,Jul
+2004,30,DOLOSOS,Jalisco,Jun
+2004,26,DOLOSOS,Jalisco,May
+2004,34,DOLOSOS,Jalisco,Apr
+2004,41,DOLOSOS,Jalisco,Mar
+2004,26,DOLOSOS,Jalisco,Feb
+2004,31,DOLOSOS,Jalisco,Jan
+2004,123,DOLOSOS,Hidalgo,Tot
+2004,7,DOLOSOS,Hidalgo,Dec
+2004,10,DOLOSOS,Hidalgo,Nov
+2004,15,DOLOSOS,Hidalgo,Oct
+2004,13,DOLOSOS,Hidalgo,Sep
+2004,5,DOLOSOS,Hidalgo,Aug
+2004,4,DOLOSOS,Hidalgo,Jul
+2004,7,DOLOSOS,Hidalgo,Jun
+2004,12,DOLOSOS,Hidalgo,May
+2004,17,DOLOSOS,Hidalgo,Apr
+2004,10,DOLOSOS,Hidalgo,Mar
+2004,10,DOLOSOS,Hidalgo,Feb
+2004,13,DOLOSOS,Hidalgo,Jan
+2004,539,DOLOSOS,Guerrero,Tot
+2004,45,DOLOSOS,Guerrero,Dec
+2004,58,DOLOSOS,Guerrero,Nov
+2004,62,DOLOSOS,Guerrero,Oct
+2004,48,DOLOSOS,Guerrero,Sep
+2004,40,DOLOSOS,Guerrero,Aug
+2004,51,DOLOSOS,Guerrero,Jul
+2004,34,DOLOSOS,Guerrero,Jun
+2004,37,DOLOSOS,Guerrero,May
+2004,44,DOLOSOS,Guerrero,Apr
+2004,39,DOLOSOS,Guerrero,Mar
+2004,44,DOLOSOS,Guerrero,Feb
+2004,37,DOLOSOS,Guerrero,Jan
+2004,194,DOLOSOS,Guanajuato,Tot
+2004,18,DOLOSOS,Guanajuato,Dec
+2004,16,DOLOSOS,Guanajuato,Nov
+2004,15,DOLOSOS,Guanajuato,Oct
+2004,12,DOLOSOS,Guanajuato,Sep
+2004,14,DOLOSOS,Guanajuato,Aug
+2004,21,DOLOSOS,Guanajuato,Jul
+2004,17,DOLOSOS,Guanajuato,Jun
+2004,11,DOLOSOS,Guanajuato,May
+2004,16,DOLOSOS,Guanajuato,Apr
+2004,22,DOLOSOS,Guanajuato,Mar
+2004,13,DOLOSOS,Guanajuato,Feb
+2004,19,DOLOSOS,Guanajuato,Jan
+2004,120,DOLOSOS,Durango,Tot
+2004,17,DOLOSOS,Durango,Dec
+2004,18,DOLOSOS,Durango,Nov
+2004,22,DOLOSOS,Durango,Oct
+2004,11,DOLOSOS,Durango,Sep
+2004,18,DOLOSOS,Durango,Aug
+2004,5,DOLOSOS,Durango,Jul
+2004,5,DOLOSOS,Durango,Jun
+2004,2,DOLOSOS,Durango,May
+2004,2,DOLOSOS,Durango,Apr
+2004,6,DOLOSOS,Durango,Mar
+2004,6,DOLOSOS,Durango,Feb
+2004,8,DOLOSOS,Durango,Jan
+2004,710,DOLOSOS,"Distrito Federal",Tot
+2004,58,DOLOSOS,"Distrito Federal",Dec
+2004,63,DOLOSOS,"Distrito Federal",Nov
+2004,52,DOLOSOS,"Distrito Federal",Oct
+2004,58,DOLOSOS,"Distrito Federal",Sep
+2004,51,DOLOSOS,"Distrito Federal",Aug
+2004,54,DOLOSOS,"Distrito Federal",Jul
+2004,63,DOLOSOS,"Distrito Federal",Jun
+2004,62,DOLOSOS,"Distrito Federal",May
+2004,47,DOLOSOS,"Distrito Federal",Apr
+2004,68,DOLOSOS,"Distrito Federal",Mar
+2004,70,DOLOSOS,"Distrito Federal",Feb
+2004,64,DOLOSOS,"Distrito Federal",Jan
+2004,444,DOLOSOS,Chihuahua,Tot
+2004,44,DOLOSOS,Chihuahua,Dec
+2004,31,DOLOSOS,Chihuahua,Nov
+2004,29,DOLOSOS,Chihuahua,Oct
+2004,35,DOLOSOS,Chihuahua,Sep
+2004,41,DOLOSOS,Chihuahua,Aug
+2004,37,DOLOSOS,Chihuahua,Jul
+2004,39,DOLOSOS,Chihuahua,Jun
+2004,39,DOLOSOS,Chihuahua,May
+2004,43,DOLOSOS,Chihuahua,Apr
+2004,44,DOLOSOS,Chihuahua,Mar
+2004,30,DOLOSOS,Chihuahua,Feb
+2004,32,DOLOSOS,Chihuahua,Jan
+2004,787,DOLOSOS,Chiapas,Tot
+2004,39,DOLOSOS,Chiapas,Dec
+2004,58,DOLOSOS,Chiapas,Nov
+2004,58,DOLOSOS,Chiapas,Oct
+2004,61,DOLOSOS,Chiapas,Sep
+2004,55,DOLOSOS,Chiapas,Aug
+2004,61,DOLOSOS,Chiapas,Jul
+2004,77,DOLOSOS,Chiapas,Jun
+2004,82,DOLOSOS,Chiapas,May
+2004,80,DOLOSOS,Chiapas,Apr
+2004,83,DOLOSOS,Chiapas,Mar
+2004,70,DOLOSOS,Chiapas,Feb
+2004,63,DOLOSOS,Chiapas,Jan
+2004,45,DOLOSOS,Colima,Tot
+2004,5,DOLOSOS,Colima,Dec
+2004,4,DOLOSOS,Colima,Nov
+2004,5,DOLOSOS,Colima,Oct
+2004,4,DOLOSOS,Colima,Sep
+2004,3,DOLOSOS,Colima,Aug
+2004,2,DOLOSOS,Colima,Jul
+2004,4,DOLOSOS,Colima,Jun
+2004,4,DOLOSOS,Colima,May
+2004,2,DOLOSOS,Colima,Apr
+2004,3,DOLOSOS,Colima,Mar
+2004,2,DOLOSOS,Colima,Feb
+2004,7,DOLOSOS,Colima,Jan
+2004,103,DOLOSOS,Coahuila,Tot
+2004,7,DOLOSOS,Coahuila,Dec
+2004,6,DOLOSOS,Coahuila,Nov
+2004,11,DOLOSOS,Coahuila,Oct
+2004,11,DOLOSOS,Coahuila,Sep
+2004,10,DOLOSOS,Coahuila,Aug
+2004,9,DOLOSOS,Coahuila,Jul
+2004,4,DOLOSOS,Coahuila,Jun
+2004,8,DOLOSOS,Coahuila,May
+2004,6,DOLOSOS,Coahuila,Apr
+2004,17,DOLOSOS,Coahuila,Mar
+2004,5,DOLOSOS,Coahuila,Feb
+2004,9,DOLOSOS,Coahuila,Jan
+2004,37,DOLOSOS,Campeche,Tot
+2004,2,DOLOSOS,Campeche,Dec
+2004,1,DOLOSOS,Campeche,Nov
+2004,3,DOLOSOS,Campeche,Oct
+2004,6,DOLOSOS,Campeche,Sep
+2004,1,DOLOSOS,Campeche,Aug
+2004,4,DOLOSOS,Campeche,Jul
+2004,3,DOLOSOS,Campeche,Jun
+2004,5,DOLOSOS,Campeche,May
+2004,3,DOLOSOS,Campeche,Apr
+2004,4,DOLOSOS,Campeche,Mar
+2004,1,DOLOSOS,Campeche,Feb
+2004,4,DOLOSOS,Campeche,Jan
+2004,36,DOLOSOS,"Baja California Sur",Tot
+2004,5,DOLOSOS,"Baja California Sur",Dec
+2004,2,DOLOSOS,"Baja California Sur",Nov
+2004,2,DOLOSOS,"Baja California Sur",Oct
+2004,6,DOLOSOS,"Baja California Sur",Sep
+2004,4,DOLOSOS,"Baja California Sur",Aug
+2004,3,DOLOSOS,"Baja California Sur",Jul
+2004,1,DOLOSOS,"Baja California Sur",Jun
+2004,4,DOLOSOS,"Baja California Sur",May
+2004,4,DOLOSOS,"Baja California Sur",Apr
+2004,1,DOLOSOS,"Baja California Sur",Mar
+2004,3,DOLOSOS,"Baja California Sur",Feb
+2004,1,DOLOSOS,"Baja California Sur",Jan
+2004,470,DOLOSOS,"Baja California",Tot
+2004,41,DOLOSOS,"Baja California",Dec
+2004,46,DOLOSOS,"Baja California",Nov
+2004,51,DOLOSOS,"Baja California",Oct
+2004,45,DOLOSOS,"Baja California",Sep
+2004,29,DOLOSOS,"Baja California",Aug
+2004,37,DOLOSOS,"Baja California",Jul
+2004,50,DOLOSOS,"Baja California",Jun
+2004,38,DOLOSOS,"Baja California",May
+2004,25,DOLOSOS,"Baja California",Apr
+2004,38,DOLOSOS,"Baja California",Mar
+2004,42,DOLOSOS,"Baja California",Feb
+2004,28,DOLOSOS,"Baja California",Jan
+2004,17,DOLOSOS,Aguascalientes,Tot
+2004,2,DOLOSOS,Aguascalientes,Dec
+2004,3,DOLOSOS,Aguascalientes,Nov
+2004,2,DOLOSOS,Aguascalientes,Oct
+2004,1,DOLOSOS,Aguascalientes,Sep
+2004,2,DOLOSOS,Aguascalientes,Aug
+2004,1,DOLOSOS,Aguascalientes,Jul
+2004,2,DOLOSOS,Aguascalientes,Jun
+2004,0,DOLOSOS,Aguascalientes,May
+2004,3,DOLOSOS,Aguascalientes,Apr
+2004,0,DOLOSOS,Aguascalientes,Mar
+2004,0,DOLOSOS,Aguascalientes,Feb
+2004,1,DOLOSOS,Aguascalientes,Jan
+2004,11658,DOLOSOS,National,Tot
+2004,997,DOLOSOS,National,Dec
+2004,984,DOLOSOS,National,Nov
+2004,1002,DOLOSOS,National,Oct
+2004,878,DOLOSOS,National,Sep
+2004,922,DOLOSOS,National,Aug
+2004,892,DOLOSOS,National,Jul
+2004,1039,DOLOSOS,National,Jun
+2004,1013,DOLOSOS,National,May
+2004,1002,DOLOSOS,National,Apr
+2004,1052,DOLOSOS,National,Mar
+2004,939,DOLOSOS,National,Feb
+2004,938,DOLOSOS,National,Jan
+2003,105,DOLOSOS,Zacatecas,Tot
+2003,12,DOLOSOS,Zacatecas,Dec
+2003,10,DOLOSOS,Zacatecas,Nov
+2003,11,DOLOSOS,Zacatecas,Oct
+2003,12,DOLOSOS,Zacatecas,Sep
+2003,6,DOLOSOS,Zacatecas,Aug
+2003,6,DOLOSOS,Zacatecas,Jul
+2003,7,DOLOSOS,Zacatecas,Jun
+2003,9,DOLOSOS,Zacatecas,May
+2003,11,DOLOSOS,Zacatecas,Apr
+2003,6,DOLOSOS,Zacatecas,Mar
+2003,8,DOLOSOS,Zacatecas,Feb
+2003,7,DOLOSOS,Zacatecas,Jan
+2003,32,DOLOSOS,Yucatan,Tot
+2003,3,DOLOSOS,Yucatan,Dec
+2003,1,DOLOSOS,Yucatan,Nov
+2003,3,DOLOSOS,Yucatan,Oct
+2003,3,DOLOSOS,Yucatan,Sep
+2003,3,DOLOSOS,Yucatan,Aug
+2003,3,DOLOSOS,Yucatan,Jul
+2003,4,DOLOSOS,Yucatan,Jun
+2003,1,DOLOSOS,Yucatan,May
+2003,2,DOLOSOS,Yucatan,Apr
+2003,2,DOLOSOS,Yucatan,Mar
+2003,4,DOLOSOS,Yucatan,Feb
+2003,3,DOLOSOS,Yucatan,Jan
+2003,501,DOLOSOS,Veracruz,Tot
+2003,41,DOLOSOS,Veracruz,Dec
+2003,39,DOLOSOS,Veracruz,Nov
+2003,38,DOLOSOS,Veracruz,Oct
+2003,45,DOLOSOS,Veracruz,Sep
+2003,42,DOLOSOS,Veracruz,Aug
+2003,39,DOLOSOS,Veracruz,Jul
+2003,46,DOLOSOS,Veracruz,Jun
+2003,44,DOLOSOS,Veracruz,May
+2003,39,DOLOSOS,Veracruz,Apr
+2003,45,DOLOSOS,Veracruz,Mar
+2003,41,DOLOSOS,Veracruz,Feb
+2003,42,DOLOSOS,Veracruz,Jan
+2003,286,DOLOSOS,Tlaxcala,Tot
+2003,27,DOLOSOS,Tlaxcala,Dec
+2003,25,DOLOSOS,Tlaxcala,Nov
+2003,18,DOLOSOS,Tlaxcala,Oct
+2003,28,DOLOSOS,Tlaxcala,Sep
+2003,25,DOLOSOS,Tlaxcala,Aug
+2003,24,DOLOSOS,Tlaxcala,Jul
+2003,18,DOLOSOS,Tlaxcala,Jun
+2003,23,DOLOSOS,Tlaxcala,May
+2003,23,DOLOSOS,Tlaxcala,Apr
+2003,36,DOLOSOS,Tlaxcala,Mar
+2003,11,DOLOSOS,Tlaxcala,Feb
+2003,28,DOLOSOS,Tlaxcala,Jan
+2003,244,DOLOSOS,Tamaulipas,Tot
+2003,19,DOLOSOS,Tamaulipas,Dec
+2003,15,DOLOSOS,Tamaulipas,Nov
+2003,30,DOLOSOS,Tamaulipas,Oct
+2003,23,DOLOSOS,Tamaulipas,Sep
+2003,27,DOLOSOS,Tamaulipas,Aug
+2003,23,DOLOSOS,Tamaulipas,Jul
+2003,17,DOLOSOS,Tamaulipas,Jun
+2003,19,DOLOSOS,Tamaulipas,May
+2003,23,DOLOSOS,Tamaulipas,Apr
+2003,22,DOLOSOS,Tamaulipas,Mar
+2003,17,DOLOSOS,Tamaulipas,Feb
+2003,9,DOLOSOS,Tamaulipas,Jan
+2003,150,DOLOSOS,Tabasco,Tot
+2003,11,DOLOSOS,Tabasco,Dec
+2003,10,DOLOSOS,Tabasco,Nov
+2003,8,DOLOSOS,Tabasco,Oct
+2003,13,DOLOSOS,Tabasco,Sep
+2003,9,DOLOSOS,Tabasco,Aug
+2003,15,DOLOSOS,Tabasco,Jul
+2003,8,DOLOSOS,Tabasco,Jun
+2003,14,DOLOSOS,Tabasco,May
+2003,18,DOLOSOS,Tabasco,Apr
+2003,17,DOLOSOS,Tabasco,Mar
+2003,13,DOLOSOS,Tabasco,Feb
+2003,14,DOLOSOS,Tabasco,Jan
+2003,203,DOLOSOS,Sonora,Tot
+2003,19,DOLOSOS,Sonora,Dec
+2003,9,DOLOSOS,Sonora,Nov
+2003,14,DOLOSOS,Sonora,Oct
+2003,26,DOLOSOS,Sonora,Sep
+2003,23,DOLOSOS,Sonora,Aug
+2003,21,DOLOSOS,Sonora,Jul
+2003,19,DOLOSOS,Sonora,Jun
+2003,15,DOLOSOS,Sonora,May
+2003,15,DOLOSOS,Sonora,Apr
+2003,21,DOLOSOS,Sonora,Mar
+2003,11,DOLOSOS,Sonora,Feb
+2003,10,DOLOSOS,Sonora,Jan
+2003,482,DOLOSOS,Sinaloa,Tot
+2003,44,DOLOSOS,Sinaloa,Dec
+2003,37,DOLOSOS,Sinaloa,Nov
+2003,28,DOLOSOS,Sinaloa,Oct
+2003,9,DOLOSOS,Queretaro,Mar
+2003,4,DOLOSOS,Queretaro,Apr
+2003,5,DOLOSOS,Queretaro,May
+2003,6,DOLOSOS,Queretaro,Jun
+2003,7,DOLOSOS,Queretaro,Jul
+2003,60,DOLOSOS,Puebla,Dec
+2003,29,DOLOSOS,Puebla,May
+2003,40,DOLOSOS,Sinaloa,Sep
+2003,35,DOLOSOS,Sinaloa,Aug
+2003,48,DOLOSOS,Sinaloa,Jul
+2003,43,DOLOSOS,Sinaloa,Jun
+2003,48,DOLOSOS,Sinaloa,May
+2003,33,DOLOSOS,Sinaloa,Apr
+2003,49,DOLOSOS,Sinaloa,Mar
+2003,33,DOLOSOS,Sinaloa,Feb
+2003,44,DOLOSOS,Sinaloa,Jan
+2003,121,DOLOSOS,"San Luis Potosi",Tot
+2003,18,DOLOSOS,"San Luis Potosi",Dec
+2003,13,DOLOSOS,"San Luis Potosi",Nov
+2003,7,DOLOSOS,"San Luis Potosi",Oct
+2003,9,DOLOSOS,"San Luis Potosi",Sep
+2003,6,DOLOSOS,"San Luis Potosi",Aug
+2003,9,DOLOSOS,"San Luis Potosi",Jul
+2003,11,DOLOSOS,"San Luis Potosi",Jun
+2003,20,DOLOSOS,"San Luis Potosi",May
+2003,6,DOLOSOS,"San Luis Potosi",Apr
+2003,6,DOLOSOS,"San Luis Potosi",Mar
+2003,6,DOLOSOS,"San Luis Potosi",Feb
+2003,10,DOLOSOS,"San Luis Potosi",Jan
+2003,228,DOLOSOS,"Quintana Roo",Tot
+2003,22,DOLOSOS,"Quintana Roo",Dec
+2003,16,DOLOSOS,"Quintana Roo",Nov
+2003,21,DOLOSOS,"Quintana Roo",Oct
+2003,18,DOLOSOS,"Quintana Roo",Sep
+2003,16,DOLOSOS,"Quintana Roo",Aug
+2003,23,DOLOSOS,"Quintana Roo",Jul
+2003,19,DOLOSOS,"Quintana Roo",Jun
+2003,17,DOLOSOS,"Quintana Roo",May
+2003,16,DOLOSOS,"Quintana Roo",Apr
+2003,20,DOLOSOS,"Quintana Roo",Mar
+2003,22,DOLOSOS,"Quintana Roo",Feb
+2003,18,DOLOSOS,"Quintana Roo",Jan
+2003,71,DOLOSOS,Queretaro,Tot
+2003,6,DOLOSOS,Queretaro,Dec
+2003,6,DOLOSOS,Queretaro,Nov
+2003,6,DOLOSOS,Queretaro,Aug
+2003,6,DOLOSOS,Queretaro,Sep
+2003,3,DOLOSOS,Queretaro,Oct
+2003,6,DOLOSOS,Queretaro,Jan
+2003,7,DOLOSOS,Queretaro,Feb
+2003,488,DOLOSOS,Puebla,Tot
+2003,43,DOLOSOS,Puebla,Oct
+2003,38,DOLOSOS,Puebla,Nov
+2003,36,DOLOSOS,Puebla,Sep
+2003,39,DOLOSOS,Puebla,Aug
+2003,30,DOLOSOS,Puebla,Jul
+2003,33,DOLOSOS,Puebla,Jun
+2003,38,DOLOSOS,Puebla,Apr
+2003,38,DOLOSOS,Puebla,Mar
+2003,58,DOLOSOS,Puebla,Feb
+2003,46,DOLOSOS,Puebla,Jan
+2003,1571,DOLOSOS,Oaxaca,Tot
+2003,110,DOLOSOS,Oaxaca,Dec
+2003,132,DOLOSOS,Oaxaca,Nov
+2003,125,DOLOSOS,Oaxaca,Sep
+2003,123,DOLOSOS,Oaxaca,Aug
+2003,148,DOLOSOS,Oaxaca,Jul
+2003,127,DOLOSOS,Oaxaca,Jun
+2003,139,DOLOSOS,Oaxaca,Mar
+2003,126,DOLOSOS,Oaxaca,Apr
+2003,128,DOLOSOS,Oaxaca,Jan
+2003,13,DOLOSOS,"Nuevo Leon",Oct
+2003,9,DOLOSOS,"Nuevo Leon",Nov
+2003,7,DOLOSOS,"Nuevo Leon",Aug
+2003,13,DOLOSOS,"Nuevo Leon",May
+2003,17,DOLOSOS,Morelos,Jan
+2003,33,DOLOSOS,Michoacan,Jan
+2003,7,DOLOSOS,"Nuevo Leon",Dec
+2003,135,DOLOSOS,"Nuevo Leon",Tot
+2003,124,DOLOSOS,Oaxaca,Oct
+2003,158,DOLOSOS,Oaxaca,May
+2003,131,DOLOSOS,Oaxaca,Feb
+2003,13,DOLOSOS,"Nuevo Leon",Sep
+2003,9,DOLOSOS,"Nuevo Leon",Jul
+2003,17,DOLOSOS,"Nuevo Leon",Jun
+2003,11,DOLOSOS,"Nuevo Leon",Apr
+2003,18,DOLOSOS,"Nuevo Leon",Mar
+2003,11,DOLOSOS,"Nuevo Leon",Feb
+2003,7,DOLOSOS,"Nuevo Leon",Jan
+2003,95,DOLOSOS,Nayarit,Tot
+2003,11,DOLOSOS,Nayarit,Dec
+2003,10,DOLOSOS,Nayarit,Nov
+2003,5,DOLOSOS,Nayarit,Oct
+2003,12,DOLOSOS,Nayarit,Sep
+2003,7,DOLOSOS,Nayarit,Aug
+2003,5,DOLOSOS,Nayarit,Jul
+2003,10,DOLOSOS,Nayarit,Jun
+2003,6,DOLOSOS,Nayarit,May
+2003,8,DOLOSOS,Nayarit,Apr
+2003,6,DOLOSOS,Nayarit,Mar
+2003,2,DOLOSOS,Nayarit,Feb
+2003,13,DOLOSOS,Nayarit,Jan
+2003,173,DOLOSOS,Morelos,Tot
+2003,12,DOLOSOS,Morelos,Dec
+2003,10,DOLOSOS,Morelos,Nov
+2003,12,DOLOSOS,Morelos,Oct
+2003,20,DOLOSOS,Morelos,Sep
+2003,19,DOLOSOS,Morelos,Aug
+2003,18,DOLOSOS,Morelos,Jul
+2003,14,DOLOSOS,Morelos,Jun
+2003,16,DOLOSOS,Morelos,May
+2003,9,DOLOSOS,Morelos,Apr
+2003,21,DOLOSOS,Morelos,Mar
+2003,5,DOLOSOS,Morelos,Feb
+2003,440,DOLOSOS,Michoacan,Tot
+2003,36,DOLOSOS,Michoacan,Dec
+2003,35,DOLOSOS,Michoacan,Nov
+2003,37,DOLOSOS,Michoacan,Oct
+2003,43,DOLOSOS,Michoacan,Sep
+2003,34,DOLOSOS,Michoacan,Aug
+2003,35,DOLOSOS,Michoacan,Jul
+2003,37,DOLOSOS,Michoacan,Jun
+2003,45,DOLOSOS,Michoacan,May
+2003,36,DOLOSOS,Michoacan,Apr
+2003,44,DOLOSOS,Michoacan,Mar
+2003,25,DOLOSOS,Michoacan,Feb
+2003,2741,DOLOSOS,Mexico,Tot
+2003,254,DOLOSOS,Mexico,Oct
+2003,224,DOLOSOS,Mexico,Jun
+2003,37,DOLOSOS,Jalisco,Aug
+2003,7,DOLOSOS,Hidalgo,May
+2003,17,DOLOSOS,Guanajuato,Jan
+2003,15,DOLOSOS,Durango,Dec
+2003,200,DOLOSOS,Mexico,Dec
+2003,249,DOLOSOS,Mexico,Nov
+2003,221,DOLOSOS,Mexico,Sep
+2003,246,DOLOSOS,Mexico,Aug
+2003,213,DOLOSOS,Mexico,Jul
+2003,212,DOLOSOS,Mexico,May
+2003,235,DOLOSOS,Mexico,Apr
+2003,218,DOLOSOS,Mexico,Mar
+2003,241,DOLOSOS,Mexico,Feb
+2003,228,DOLOSOS,Mexico,Jan
+2003,424,DOLOSOS,Jalisco,Tot
+2003,38,DOLOSOS,Jalisco,Dec
+2003,35,DOLOSOS,Jalisco,Nov
+2003,34,DOLOSOS,Jalisco,Oct
+2003,27,DOLOSOS,Jalisco,Sep
+2003,41,DOLOSOS,Jalisco,Jul
+2003,37,DOLOSOS,Jalisco,Jun
+2003,35,DOLOSOS,Jalisco,May
+2003,30,DOLOSOS,Jalisco,Apr
+2003,38,DOLOSOS,Jalisco,Mar
+2003,35,DOLOSOS,Jalisco,Feb
+2003,37,DOLOSOS,Jalisco,Jan
+2003,113,DOLOSOS,Hidalgo,Tot
+2003,8,DOLOSOS,Hidalgo,Dec
+2003,12,DOLOSOS,Hidalgo,Nov
+2003,9,DOLOSOS,Hidalgo,Oct
+2003,8,DOLOSOS,Hidalgo,Sep
+2003,14,DOLOSOS,Hidalgo,Aug
+2003,7,DOLOSOS,Hidalgo,Jul
+2003,7,DOLOSOS,Hidalgo,Jun
+2003,11,DOLOSOS,Hidalgo,Apr
+2003,8,DOLOSOS,Hidalgo,Mar
+2003,9,DOLOSOS,Hidalgo,Feb
+2003,13,DOLOSOS,Hidalgo,Jan
+2003,808,DOLOSOS,Guerrero,Tot
+2003,51,DOLOSOS,Guerrero,Dec
+2003,75,DOLOSOS,Guerrero,Nov
+2003,49,DOLOSOS,Guerrero,Oct
+2003,63,DOLOSOS,Guerrero,Sep
+2003,70,DOLOSOS,Guerrero,Aug
+2003,75,DOLOSOS,Guerrero,Jul
+2003,78,DOLOSOS,Guerrero,Jun
+2003,85,DOLOSOS,Guerrero,May
+2003,86,DOLOSOS,Guerrero,Apr
+2003,59,DOLOSOS,Guerrero,Mar
+2003,48,DOLOSOS,Guerrero,Feb
+2003,69,DOLOSOS,Guerrero,Jan
+2003,213,DOLOSOS,Guanajuato,Tot
+2003,19,DOLOSOS,Guanajuato,Dec
+2003,18,DOLOSOS,Guanajuato,Nov
+2003,13,DOLOSOS,Guanajuato,Oct
+2003,19,DOLOSOS,Guanajuato,Sep
+2003,15,DOLOSOS,Guanajuato,Aug
+2003,12,DOLOSOS,Guanajuato,Jul
+2003,22,DOLOSOS,Guanajuato,Jun
+2003,22,DOLOSOS,Guanajuato,May
+2003,19,DOLOSOS,Guanajuato,Apr
+2003,17,DOLOSOS,Guanajuato,Mar
+2003,20,DOLOSOS,Guanajuato,Feb
+2003,216,DOLOSOS,Durango,Tot
+2003,10,DOLOSOS,Durango,Sep
+2003,12,DOLOSOS,Durango,Oct
+2003,10,DOLOSOS,Durango,Nov
+2003,14,DOLOSOS,Durango,Aug
+2003,31,DOLOSOS,Durango,Feb
+2003,27,DOLOSOS,Durango,Mar
+2003,19,DOLOSOS,Durango,Apr
+2003,44,DOLOSOS,Durango,May
+2003,47,DOLOSOS,"Distrito Federal",May
+2003,56,DOLOSOS,"Distrito Federal",Jun
+2003,62,DOLOSOS,"Distrito Federal",Jul
+2003,52,DOLOSOS,"Distrito Federal",Aug
+2003,55,DOLOSOS,"Distrito Federal",Sep
+2003,71,DOLOSOS,"Distrito Federal",Oct
+2003,53,DOLOSOS,"Distrito Federal",Nov
+2003,48,DOLOSOS,"Distrito Federal",Dec
+2003,715,DOLOSOS,"Distrito Federal",Tot
+2003,10,DOLOSOS,Durango,Jan
+2003,25,DOLOSOS,Chihuahua,Dec
+2003,471,DOLOSOS,Chihuahua,Tot
+2003,65,DOLOSOS,"Distrito Federal",Jan
+2003,38,DOLOSOS,Chihuahua,Sep
+2003,921,DOLOSOS,Chiapas,Tot
+2003,73,DOLOSOS,Chiapas,Jul
+2003,8,DOLOSOS,Durango,Jun
+2003,16,DOLOSOS,Durango,Jul
+2003,68,DOLOSOS,"Distrito Federal",Feb
+2003,76,DOLOSOS,"Distrito Federal",Mar
+2003,62,DOLOSOS,"Distrito Federal",Apr
+2003,45,DOLOSOS,Chihuahua,Nov
+2003,39,DOLOSOS,Chihuahua,Oct
+2003,33,DOLOSOS,Chihuahua,Aug
+2003,38,DOLOSOS,Chihuahua,Jul
+2003,46,DOLOSOS,Chihuahua,Jun
+2003,44,DOLOSOS,Chihuahua,May
+2003,38,DOLOSOS,Chihuahua,Apr
+2003,40,DOLOSOS,Chihuahua,Mar
+2003,40,DOLOSOS,Chihuahua,Feb
+2003,45,DOLOSOS,Chihuahua,Jan
+2003,90,DOLOSOS,Chiapas,Dec
+2003,67,DOLOSOS,Chiapas,Nov
+2003,68,DOLOSOS,Chiapas,Oct
+2003,75,DOLOSOS,Chiapas,Sep
+2003,65,DOLOSOS,Chiapas,Aug
+2003,58,DOLOSOS,Chiapas,Jun
+2003,69,DOLOSOS,Chiapas,May
+2003,95,DOLOSOS,Chiapas,Apr
+2003,85,DOLOSOS,Chiapas,Mar
+2003,73,DOLOSOS,Chiapas,Feb
+2003,103,DOLOSOS,Chiapas,Jan
+2003,34,DOLOSOS,Colima,Tot
+2003,1,DOLOSOS,Colima,Dec
+2003,3,DOLOSOS,Colima,Nov
+2003,2,DOLOSOS,Colima,Oct
+2003,3,DOLOSOS,Colima,Sep
+2003,3,DOLOSOS,Colima,Aug
+2003,1,DOLOSOS,Colima,Jul
+2003,2,DOLOSOS,Colima,Jun
+2003,8,DOLOSOS,Colima,May
+2003,3,DOLOSOS,Colima,Apr
+2003,3,DOLOSOS,Colima,Mar
+2003,3,DOLOSOS,Colima,Feb
+2003,2,DOLOSOS,Colima,Jan
+2003,116,DOLOSOS,Coahuila,Tot
+2003,12,DOLOSOS,Coahuila,Dec
+2003,13,DOLOSOS,Coahuila,Nov
+2003,10,DOLOSOS,Coahuila,Oct
+2003,8,DOLOSOS,Coahuila,Sep
+2003,24,DOLOSOS,"Baja California Sur",Tot
+2003,10,DOLOSOS,Coahuila,Aug
+2003,13,DOLOSOS,Coahuila,Jul
+2003,7,DOLOSOS,Coahuila,Jun
+2003,12,DOLOSOS,Coahuila,May
+2003,8,DOLOSOS,Coahuila,Apr
+2003,10,DOLOSOS,Coahuila,Mar
+2003,6,DOLOSOS,Coahuila,Feb
+2003,7,DOLOSOS,Coahuila,Jan
+2003,55,DOLOSOS,Campeche,Tot
+2003,4,DOLOSOS,Campeche,Dec
+2003,14,DOLOSOS,Campeche,Nov
+2003,6,DOLOSOS,Campeche,Oct
+2003,3,DOLOSOS,Campeche,Sep
+2003,4,DOLOSOS,Campeche,Aug
+2003,0,DOLOSOS,Campeche,Jul
+2003,4,DOLOSOS,Campeche,Jun
+2003,3,DOLOSOS,Campeche,May
+2003,2,DOLOSOS,Campeche,Apr
+2003,3,DOLOSOS,Campeche,Mar
+2003,8,DOLOSOS,Campeche,Feb
+2003,4,DOLOSOS,Campeche,Jan
+2003,4,DOLOSOS,"Baja California Sur",Dec
+2003,2,DOLOSOS,"Baja California Sur",Nov
+2003,3,DOLOSOS,"Baja California Sur",Oct
+2003,4,DOLOSOS,"Baja California Sur",Sep
+2003,3,DOLOSOS,"Baja California Sur",Aug
+2003,1,DOLOSOS,"Baja California Sur",Jul
+2003,2,DOLOSOS,"Baja California Sur",Jun
+2003,1,DOLOSOS,"Baja California Sur",May
+2003,1,DOLOSOS,"Baja California Sur",Apr
+2003,1,DOLOSOS,"Baja California Sur",Mar
+2003,2,DOLOSOS,"Baja California Sur",Feb
+2003,0,DOLOSOS,"Baja California Sur",Jan
+2003,479,DOLOSOS,"Baja California",Tot
+2003,32,DOLOSOS,"Baja California",Dec
+2003,35,DOLOSOS,"Baja California",Nov
+2003,49,DOLOSOS,"Baja California",Oct
+2003,44,DOLOSOS,"Baja California",Sep
+2003,44,DOLOSOS,"Baja California",Aug
+2003,41,DOLOSOS,"Baja California",Jul
+2003,25,DOLOSOS,"Baja California",Jun
+2003,41,DOLOSOS,"Baja California",May
+2003,36,DOLOSOS,"Baja California",Apr
+2003,42,DOLOSOS,"Baja California",Mar
+2003,42,DOLOSOS,"Baja California",Feb
+2003,48,DOLOSOS,"Baja California",Jan
+2003,21,DOLOSOS,Aguascalientes,Tot
+2003,5,DOLOSOS,Aguascalientes,Dec
+2003,0,DOLOSOS,Aguascalientes,Nov
+2003,2,DOLOSOS,Aguascalientes,Oct
+2003,0,DOLOSOS,Aguascalientes,Sep
+2003,1,DOLOSOS,Aguascalientes,Aug
+2003,1,DOLOSOS,Aguascalientes,Jul
+2003,4,DOLOSOS,Aguascalientes,Jun
+2003,2,DOLOSOS,Aguascalientes,May
+2003,3,DOLOSOS,Aguascalientes,Apr
+2003,1,DOLOSOS,Aguascalientes,Mar
+2003,1,DOLOSOS,Aguascalientes,Feb
+2003,1,DOLOSOS,Aguascalientes,Jan
+2003,12676,DOLOSOS,National,Tot
+2003,1010,DOLOSOS,National,Dec
+2003,1046,DOLOSOS,National,Nov
+2003,1036,DOLOSOS,National,Oct
+2003,1050,DOLOSOS,National,Sep
+2003,1038,DOLOSOS,National,Aug
+2003,1057,DOLOSOS,National,Jul
+2003,1016,DOLOSOS,National,Jun
+2003,1114,DOLOSOS,National,May
+2003,1066,DOLOSOS,National,Apr
+2003,1127,DOLOSOS,National,Mar
+2003,1032,DOLOSOS,National,Feb
+2003,1084,DOLOSOS,National,Jan
+2002,104,DOLOSOS,Zacatecas,Tot
+2002,5,DOLOSOS,Zacatecas,Dec
+2002,10,DOLOSOS,Zacatecas,Nov
+2002,11,DOLOSOS,Zacatecas,Oct
+2002,8,DOLOSOS,Zacatecas,Sep
+2002,8,DOLOSOS,Zacatecas,Aug
+2002,9,DOLOSOS,Zacatecas,Jul
+2002,6,DOLOSOS,Zacatecas,Jun
+2002,8,DOLOSOS,Zacatecas,May
+2002,13,DOLOSOS,Zacatecas,Apr
+2002,11,DOLOSOS,Zacatecas,Mar
+2002,6,DOLOSOS,Zacatecas,Feb
+2002,9,DOLOSOS,Zacatecas,Jan
+2002,30,DOLOSOS,Yucatan,Tot
+2002,2,DOLOSOS,Yucatan,Dec
+2002,1,DOLOSOS,Yucatan,Nov
+2002,0,DOLOSOS,Yucatan,Oct
+2002,4,DOLOSOS,Yucatan,Sep
+2002,4,DOLOSOS,Yucatan,Aug
+2002,3,DOLOSOS,Yucatan,Jul
+2002,3,DOLOSOS,Yucatan,Jun
+2002,0,DOLOSOS,Yucatan,May
+2002,3,DOLOSOS,Yucatan,Apr
+2002,1,DOLOSOS,Yucatan,Mar
+2002,1,DOLOSOS,Yucatan,Feb
+2002,8,DOLOSOS,Yucatan,Jan
+2002,450,DOLOSOS,Veracruz,Tot
+2002,43,DOLOSOS,Veracruz,Dec
+2002,41,DOLOSOS,Veracruz,Nov
+2002,37,DOLOSOS,Veracruz,Oct
+2002,46,DOLOSOS,Veracruz,Sep
+2002,43,DOLOSOS,Veracruz,Aug
+2002,43,DOLOSOS,Veracruz,Jul
+2002,22,DOLOSOS,Veracruz,Jun
+2002,34,DOLOSOS,Veracruz,May
+2002,32,DOLOSOS,Veracruz,Apr
+2002,40,DOLOSOS,Veracruz,Mar
+2002,33,DOLOSOS,Veracruz,Feb
+2002,36,DOLOSOS,Veracruz,Jan
+2002,309,DOLOSOS,Tlaxcala,Tot
+2002,33,DOLOSOS,Tlaxcala,Dec
+2002,34,DOLOSOS,Tlaxcala,Nov
+2002,24,DOLOSOS,Tlaxcala,Oct
+2002,21,DOLOSOS,Tlaxcala,Sep
+2002,23,DOLOSOS,Tlaxcala,Aug
+2002,22,DOLOSOS,Tlaxcala,Jul
+2002,28,DOLOSOS,Tlaxcala,Jun
+2002,29,DOLOSOS,Tlaxcala,May
+2002,26,DOLOSOS,Tlaxcala,Apr
+2002,22,DOLOSOS,Tlaxcala,Mar
+2002,23,DOLOSOS,Tlaxcala,Feb
+2002,24,DOLOSOS,Tlaxcala,Jan
+2002,184,DOLOSOS,Tamaulipas,Tot
+2002,16,DOLOSOS,Tamaulipas,Dec
+2002,11,DOLOSOS,Tamaulipas,Nov
+2002,13,DOLOSOS,Tamaulipas,Oct
+2002,17,DOLOSOS,Tamaulipas,Sep
+2002,20,DOLOSOS,Tamaulipas,Aug
+2002,19,DOLOSOS,Tamaulipas,Jul
+2002,21,DOLOSOS,Tamaulipas,Jun
+2002,17,DOLOSOS,Tamaulipas,May
+2002,13,DOLOSOS,Tamaulipas,Apr
+2002,19,DOLOSOS,Tamaulipas,Mar
+2002,10,DOLOSOS,Tamaulipas,Feb
+2002,8,DOLOSOS,Tamaulipas,Jan
+2002,141,DOLOSOS,Tabasco,Tot
+2002,8,DOLOSOS,Tabasco,Dec
+2002,21,DOLOSOS,Tabasco,Nov
+2002,16,DOLOSOS,Tabasco,Oct
+2002,15,DOLOSOS,Tabasco,Sep
+2002,11,DOLOSOS,Tabasco,Aug
+2002,7,DOLOSOS,Tabasco,Jul
+2002,9,DOLOSOS,Tabasco,Jun
+2002,10,DOLOSOS,Tabasco,May
+2002,17,DOLOSOS,Tabasco,Apr
+2002,10,DOLOSOS,Tabasco,Mar
+2002,10,DOLOSOS,Tabasco,Feb
+2002,7,DOLOSOS,Tabasco,Jan
+2002,165,DOLOSOS,Sonora,Tot
+2002,12,DOLOSOS,Sonora,Dec
+2002,18,DOLOSOS,Sonora,Nov
+2002,10,DOLOSOS,Sonora,Oct
+2002,20,DOLOSOS,Sonora,Sep
+2002,15,DOLOSOS,Sonora,Aug
+2002,12,DOLOSOS,Sonora,Jul
+2002,17,DOLOSOS,Sonora,Jun
+2002,12,DOLOSOS,Sonora,May
+2002,8,DOLOSOS,Sonora,Apr
+2002,14,DOLOSOS,Sonora,Mar
+2002,13,DOLOSOS,Sonora,Feb
+2002,14,DOLOSOS,Sonora,Jan
+2002,485,DOLOSOS,Sinaloa,Tot
+2002,25,DOLOSOS,Sinaloa,Dec
+2002,40,DOLOSOS,Sinaloa,Nov
+2002,32,DOLOSOS,Sinaloa,Oct
+2002,30,DOLOSOS,Sinaloa,Sep
+2002,36,DOLOSOS,Sinaloa,Aug
+2002,33,DOLOSOS,Sinaloa,Jul
+2002,33,DOLOSOS,Sinaloa,Jun
+2002,60,DOLOSOS,Sinaloa,May
+2002,47,DOLOSOS,Sinaloa,Apr
+2002,40,DOLOSOS,Sinaloa,Mar
+2002,52,DOLOSOS,Sinaloa,Feb
+2002,57,DOLOSOS,Sinaloa,Jan
+2002,245,DOLOSOS,"San Luis Potosi",Tot
+2002,16,DOLOSOS,"San Luis Potosi",Dec
+2002,12,DOLOSOS,"San Luis Potosi",Nov
+2002,10,DOLOSOS,"San Luis Potosi",Oct
+2002,10,DOLOSOS,"San Luis Potosi",Sep
+2002,19,DOLOSOS,"San Luis Potosi",Aug
+2002,10,DOLOSOS,"San Luis Potosi",Jul
+2002,36,DOLOSOS,"San Luis Potosi",Jun
+2002,33,DOLOSOS,"San Luis Potosi",May
+2002,28,DOLOSOS,"San Luis Potosi",Apr
+2002,15,DOLOSOS,"San Luis Potosi",Mar
+2002,11,DOLOSOS,"San Luis Potosi",Feb
+2002,45,DOLOSOS,"San Luis Potosi",Jan
+2002,194,DOLOSOS,"Quintana Roo",Tot
+2002,12,DOLOSOS,"Quintana Roo",Dec
+2002,10,DOLOSOS,"Quintana Roo",Nov
+2002,8,DOLOSOS,"Quintana Roo",Oct
+2002,14,DOLOSOS,"Quintana Roo",Sep
+2002,8,DOLOSOS,"Quintana Roo",Aug
+2002,6,DOLOSOS,"Quintana Roo",Jul
+2002,17,DOLOSOS,"Quintana Roo",Jun
+2002,27,DOLOSOS,"Quintana Roo",May
+2002,22,DOLOSOS,"Quintana Roo",Apr
+2002,20,DOLOSOS,"Quintana Roo",Mar
+2002,24,DOLOSOS,"Quintana Roo",Feb
+2002,26,DOLOSOS,"Quintana Roo",Jan
+2002,71,DOLOSOS,Queretaro,Tot
+2002,13,DOLOSOS,Queretaro,Dec
+2002,8,DOLOSOS,Queretaro,Nov
+2002,4,DOLOSOS,Queretaro,Oct
+2002,4,DOLOSOS,Queretaro,Sep
+2002,1,DOLOSOS,Queretaro,Aug
+2002,5,DOLOSOS,Queretaro,Jul
+2002,5,DOLOSOS,Queretaro,Jun
+2002,4,DOLOSOS,Queretaro,May
+2002,3,DOLOSOS,Queretaro,Apr
+2002,9,DOLOSOS,Queretaro,Mar
+2002,6,DOLOSOS,Queretaro,Feb
+2002,9,DOLOSOS,Queretaro,Jan
+2002,463,DOLOSOS,Puebla,Tot
+2002,35,DOLOSOS,Puebla,Dec
+2002,38,DOLOSOS,Puebla,Nov
+2002,37,DOLOSOS,Puebla,Oct
+2002,35,DOLOSOS,Puebla,Sep
+2002,48,DOLOSOS,Puebla,Aug
+2002,36,DOLOSOS,Puebla,Jul
+2002,39,DOLOSOS,Puebla,Jun
+2002,39,DOLOSOS,Puebla,May
+2002,39,DOLOSOS,Puebla,Apr
+2002,42,DOLOSOS,Puebla,Mar
+2002,38,DOLOSOS,Puebla,Feb
+2002,37,DOLOSOS,Puebla,Jan
+2002,1427,DOLOSOS,Oaxaca,Tot
+2002,125,DOLOSOS,Oaxaca,Dec
+2002,107,DOLOSOS,Oaxaca,Nov
+2002,122,DOLOSOS,Oaxaca,Oct
+2002,98,DOLOSOS,Oaxaca,Sep
+2002,108,DOLOSOS,Oaxaca,Aug
+2002,101,DOLOSOS,Oaxaca,Jul
+2002,78,DOLOSOS,Oaxaca,Jun
+2002,155,DOLOSOS,Oaxaca,May
+2002,137,DOLOSOS,Oaxaca,Apr
+2002,118,DOLOSOS,Oaxaca,Mar
+2002,141,DOLOSOS,Oaxaca,Feb
+2002,137,DOLOSOS,Oaxaca,Jan
+2002,124,DOLOSOS,"Nuevo Leon",Tot
+2002,6,DOLOSOS,"Nuevo Leon",Dec
+2002,4,DOLOSOS,"Nuevo Leon",Nov
+2002,5,DOLOSOS,"Nuevo Leon",Oct
+2002,11,DOLOSOS,"Nuevo Leon",Sep
+2002,25,DOLOSOS,"Nuevo Leon",Aug
+2002,6,DOLOSOS,"Nuevo Leon",Jul
+2002,12,DOLOSOS,"Nuevo Leon",Jun
+2002,14,DOLOSOS,"Nuevo Leon",May
+2002,13,DOLOSOS,"Nuevo Leon",Apr
+2002,15,DOLOSOS,"Nuevo Leon",Mar
+2002,6,DOLOSOS,"Nuevo Leon",Feb
+2002,7,DOLOSOS,"Nuevo Leon",Jan
+2002,117,DOLOSOS,Nayarit,Tot
+2002,9,DOLOSOS,Nayarit,Dec
+2002,12,DOLOSOS,Nayarit,Nov
+2002,8,DOLOSOS,Nayarit,Oct
+2002,9,DOLOSOS,Nayarit,Sep
+2002,9,DOLOSOS,Nayarit,Aug
+2002,11,DOLOSOS,Nayarit,Jul
+2002,12,DOLOSOS,Nayarit,Jun
+2002,11,DOLOSOS,Nayarit,May
+2002,12,DOLOSOS,Nayarit,Apr
+2002,8,DOLOSOS,Nayarit,Mar
+2002,10,DOLOSOS,Nayarit,Feb
+2002,6,DOLOSOS,Nayarit,Jan
+2002,226,DOLOSOS,Morelos,Tot
+2002,13,DOLOSOS,Morelos,Dec
+2002,26,DOLOSOS,Morelos,Nov
+2002,16,DOLOSOS,Morelos,Oct
+2002,23,DOLOSOS,Morelos,Sep
+2002,33,DOLOSOS,Morelos,Aug
+2002,28,DOLOSOS,Morelos,Jul
+2002,19,DOLOSOS,Morelos,Jun
+2002,9,DOLOSOS,Morelos,May
+2002,22,DOLOSOS,Morelos,Apr
+2002,15,DOLOSOS,Morelos,Mar
+2002,13,DOLOSOS,Morelos,Feb
+2002,9,DOLOSOS,Morelos,Jan
+2002,428,DOLOSOS,Michoacan,Tot
+2002,50,DOLOSOS,Michoacan,Dec
+2002,34,DOLOSOS,Michoacan,Nov
+2002,41,DOLOSOS,Michoacan,Oct
+2002,21,DOLOSOS,Michoacan,Sep
+2002,29,DOLOSOS,Michoacan,Aug
+2002,36,DOLOSOS,Michoacan,Jul
+2002,27,DOLOSOS,Michoacan,Jun
+2002,25,DOLOSOS,Michoacan,May
+2002,35,DOLOSOS,Michoacan,Apr
+2002,40,DOLOSOS,Michoacan,Mar
+2002,49,DOLOSOS,Michoacan,Feb
+2002,41,DOLOSOS,Michoacan,Jan
+2002,2870,DOLOSOS,Mexico,Tot
+2002,274,DOLOSOS,Mexico,Dec
+2002,216,DOLOSOS,Mexico,Nov
+2002,244,DOLOSOS,Mexico,Oct
+2002,264,DOLOSOS,Mexico,Sep
+2002,259,DOLOSOS,Mexico,Aug
+2002,249,DOLOSOS,Mexico,Jul
+2002,209,DOLOSOS,Mexico,Jun
+2002,226,DOLOSOS,Mexico,May
+2002,254,DOLOSOS,Mexico,Apr
+2002,231,DOLOSOS,Mexico,Mar
+2002,220,DOLOSOS,Mexico,Feb
+2002,224,DOLOSOS,Mexico,Jan
+2002,431,DOLOSOS,Jalisco,Tot
+2002,41,DOLOSOS,Jalisco,Dec
+2002,30,DOLOSOS,Jalisco,Nov
+2002,33,DOLOSOS,Jalisco,Oct
+2002,36,DOLOSOS,Jalisco,Sep
+2002,35,DOLOSOS,Jalisco,Aug
+2002,26,DOLOSOS,Jalisco,Jul
+2002,36,DOLOSOS,Jalisco,Jun
+2002,36,DOLOSOS,Jalisco,May
+2002,46,DOLOSOS,Jalisco,Apr
+2002,41,DOLOSOS,Jalisco,Mar
+2002,38,DOLOSOS,Jalisco,Feb
+2002,33,DOLOSOS,Jalisco,Jan
+2002,129,DOLOSOS,Hidalgo,Tot
+2002,8,DOLOSOS,Hidalgo,Dec
+2002,15,DOLOSOS,Hidalgo,Nov
+2002,10,DOLOSOS,Hidalgo,Oct
+2002,15,DOLOSOS,Hidalgo,Sep
+2002,14,DOLOSOS,Hidalgo,Aug
+2002,3,DOLOSOS,Hidalgo,Jul
+2002,12,DOLOSOS,Hidalgo,Jun
+2002,9,DOLOSOS,Hidalgo,May
+2002,11,DOLOSOS,Hidalgo,Apr
+2002,9,DOLOSOS,Hidalgo,Mar
+2002,10,DOLOSOS,Hidalgo,Feb
+2002,13,DOLOSOS,Hidalgo,Jan
+2002,1035,DOLOSOS,Guerrero,Tot
+2002,78,DOLOSOS,Guerrero,Dec
+2002,91,DOLOSOS,Guerrero,Nov
+2002,58,DOLOSOS,Guerrero,Oct
+2002,86,DOLOSOS,Guerrero,Sep
+2002,87,DOLOSOS,Guerrero,Aug
+2002,83,DOLOSOS,Guerrero,Jul
+2002,95,DOLOSOS,Guerrero,Jun
+2002,109,DOLOSOS,Guerrero,May
+2002,82,DOLOSOS,Guerrero,Apr
+2002,89,DOLOSOS,Guerrero,Mar
+2002,94,DOLOSOS,Guerrero,Feb
+2002,83,DOLOSOS,Guerrero,Jan
+2002,208,DOLOSOS,Guanajuato,Tot
+2002,22,DOLOSOS,Guanajuato,Dec
+2002,23,DOLOSOS,Guanajuato,Nov
+2002,15,DOLOSOS,Guanajuato,Oct
+2002,16,DOLOSOS,Guanajuato,Sep
+2002,12,DOLOSOS,Guanajuato,Aug
+2002,12,DOLOSOS,Guanajuato,Jul
+2002,16,DOLOSOS,Guanajuato,Jun
+2002,14,DOLOSOS,Guanajuato,May
+2002,21,DOLOSOS,Guanajuato,Apr
+2002,20,DOLOSOS,Guanajuato,Mar
+2002,19,DOLOSOS,Guanajuato,Feb
+2002,18,DOLOSOS,Guanajuato,Jan
+2002,232,DOLOSOS,Durango,Tot
+2002,10,DOLOSOS,Durango,Dec
+2002,38,DOLOSOS,Durango,Nov
+2002,11,DOLOSOS,Durango,Oct
+2002,12,DOLOSOS,Durango,Sep
+2002,15,DOLOSOS,Durango,Aug
+2002,55,DOLOSOS,Durango,Jul
+2002,33,DOLOSOS,Durango,Jun
+2002,12,DOLOSOS,Coahuila,Feb
+2002,3,DOLOSOS,"Baja California Sur",Apr
+2002,7,DOLOSOS,Durango,May
+2002,7,DOLOSOS,Durango,Apr
+2002,13,DOLOSOS,Durango,Mar
+2002,8,DOLOSOS,Durango,Feb
+2002,23,DOLOSOS,Durango,Jan
+2002,748,DOLOSOS,"Distrito Federal",Tot
+2002,61,DOLOSOS,"Distrito Federal",Dec
+2002,65,DOLOSOS,"Distrito Federal",Nov
+2002,56,DOLOSOS,"Distrito Federal",Oct
+2002,68,DOLOSOS,"Distrito Federal",Sep
+2002,59,DOLOSOS,"Distrito Federal",Aug
+2002,50,DOLOSOS,"Distrito Federal",Jul
+2002,53,DOLOSOS,"Distrito Federal",Jun
+2002,77,DOLOSOS,"Distrito Federal",May
+2002,61,DOLOSOS,"Distrito Federal",Apr
+2002,80,DOLOSOS,"Distrito Federal",Mar
+2002,54,DOLOSOS,"Distrito Federal",Feb
+2002,64,DOLOSOS,"Distrito Federal",Jan
+2002,528,DOLOSOS,Chihuahua,Tot
+2002,32,DOLOSOS,Chihuahua,Dec
+2002,39,DOLOSOS,Chihuahua,Nov
+2002,43,DOLOSOS,Chihuahua,Oct
+2002,35,DOLOSOS,Chihuahua,Sep
+2002,57,DOLOSOS,Chihuahua,Aug
+2002,40,DOLOSOS,Chihuahua,Jul
+2002,50,DOLOSOS,Chihuahua,Jun
+2002,42,DOLOSOS,Chihuahua,May
+2002,40,DOLOSOS,Chihuahua,Apr
+2002,49,DOLOSOS,Chihuahua,Mar
+2002,49,DOLOSOS,Chihuahua,Feb
+2002,52,DOLOSOS,Chihuahua,Jan
+2002,1056,DOLOSOS,Chiapas,Tot
+2002,81,DOLOSOS,Chiapas,Dec
+2002,64,DOLOSOS,Chiapas,Nov
+2002,78,DOLOSOS,Chiapas,Oct
+2002,68,DOLOSOS,Chiapas,Sep
+2002,88,DOLOSOS,Chiapas,Aug
+2002,120,DOLOSOS,Chiapas,Jul
+2002,109,DOLOSOS,Chiapas,Jun
+2002,94,DOLOSOS,Chiapas,May
+2002,90,DOLOSOS,Chiapas,Apr
+2002,90,DOLOSOS,Chiapas,Mar
+2002,78,DOLOSOS,Chiapas,Feb
+2002,96,DOLOSOS,Chiapas,Jan
+2002,45,DOLOSOS,Colima,Tot
+2002,4,DOLOSOS,Colima,Dec
+2002,3,DOLOSOS,Colima,Nov
+2002,5,DOLOSOS,Colima,Oct
+2002,0,DOLOSOS,Colima,Sep
+2002,4,DOLOSOS,Colima,Aug
+2002,8,DOLOSOS,Colima,Jul
+2002,3,DOLOSOS,Colima,Jun
+2002,3,DOLOSOS,Colima,May
+2002,5,DOLOSOS,Colima,Apr
+2002,4,DOLOSOS,Colima,Mar
+2002,3,DOLOSOS,Colima,Feb
+2002,3,DOLOSOS,Colima,Jan
+2002,131,DOLOSOS,Coahuila,Tot
+2002,8,DOLOSOS,Coahuila,Dec
+2002,11,DOLOSOS,Coahuila,Nov
+2002,8,DOLOSOS,Coahuila,Oct
+2002,9,DOLOSOS,Coahuila,Sep
+2002,20,DOLOSOS,Coahuila,Aug
+2002,5,DOLOSOS,Coahuila,Jul
+2002,14,DOLOSOS,Coahuila,Jun
+2002,10,DOLOSOS,Coahuila,May
+2002,12,DOLOSOS,Coahuila,Apr
+2002,16,DOLOSOS,Coahuila,Mar
+2002,6,DOLOSOS,Coahuila,Jan
+2002,52,DOLOSOS,Campeche,Tot
+2002,2,DOLOSOS,Campeche,Dec
+2002,3,DOLOSOS,Campeche,Nov
+2002,5,DOLOSOS,Campeche,Oct
+2002,2,DOLOSOS,Campeche,Sep
+2002,6,DOLOSOS,Campeche,Aug
+2002,7,DOLOSOS,Campeche,Jul
+2002,2,DOLOSOS,Campeche,Jun
+2002,10,DOLOSOS,Campeche,May
+2002,6,DOLOSOS,Campeche,Apr
+2002,1,DOLOSOS,Campeche,Mar
+2002,0,DOLOSOS,Campeche,Feb
+2002,8,DOLOSOS,Campeche,Jan
+2002,28,DOLOSOS,"Baja California Sur",Tot
+2002,4,DOLOSOS,"Baja California Sur",Dec
+2002,0,DOLOSOS,"Baja California Sur",Nov
+2002,2,DOLOSOS,"Baja California Sur",Oct
+2002,4,DOLOSOS,"Baja California Sur",Sep
+2002,4,DOLOSOS,"Baja California Sur",Aug
+2002,1,DOLOSOS,"Baja California Sur",Jul
+2002,2,DOLOSOS,"Baja California Sur",Jun
+2002,1,DOLOSOS,"Baja California Sur",May
+2002,1,DOLOSOS,"Baja California Sur",Mar
+2002,2,DOLOSOS,"Baja California Sur",Feb
+2002,4,DOLOSOS,"Baja California Sur",Jan
+2002,462,DOLOSOS,"Baja California",Tot
+2002,44,DOLOSOS,"Baja California",Dec
+2002,28,DOLOSOS,"Baja California",Nov
+2002,47,DOLOSOS,"Baja California",Oct
+2002,27,DOLOSOS,"Baja California",Sep
+2002,28,DOLOSOS,"Baja California",Aug
+2002,55,DOLOSOS,"Baja California",Jul
+2002,38,DOLOSOS,"Baja California",Jun
+2002,35,DOLOSOS,"Baja California",May
+2002,36,DOLOSOS,"Baja California",Apr
+2002,40,DOLOSOS,"Baja California",Mar
+2002,41,DOLOSOS,"Baja California",Feb
+2002,43,DOLOSOS,"Baja California",Jan
+2002,26,DOLOSOS,Aguascalientes,Tot
+2002,2,DOLOSOS,Aguascalientes,Dec
+2002,5,DOLOSOS,Aguascalientes,Nov
+2002,2,DOLOSOS,Aguascalientes,Oct
+2002,1,DOLOSOS,Aguascalientes,Sep
+2002,2,DOLOSOS,Aguascalientes,Aug
+2002,3,DOLOSOS,Aguascalientes,Jul
+2002,2,DOLOSOS,Aguascalientes,Jun
+2002,2,DOLOSOS,Aguascalientes,May
+2002,3,DOLOSOS,Aguascalientes,Apr
+2002,0,DOLOSOS,Aguascalientes,Mar
+2002,2,DOLOSOS,Aguascalientes,Feb
+2002,2,DOLOSOS,Aguascalientes,Jan
+2002,13144,DOLOSOS,National,Tot
+2002,1094,DOLOSOS,National,Dec
+2002,1058,DOLOSOS,National,Nov
+2002,1011,DOLOSOS,National,Oct
+2002,1029,DOLOSOS,National,Sep
+2002,1130,DOLOSOS,National,Aug
+2002,1104,DOLOSOS,National,Jul
+2002,1058,DOLOSOS,National,Jun
+2002,1162,DOLOSOS,National,May
+2002,1147,DOLOSOS,National,Apr
+2002,1123,DOLOSOS,National,Mar
+2002,1076,DOLOSOS,National,Feb
+2002,1152,DOLOSOS,National,Jan
+2001,94,DOLOSOS,Zacatecas,Tot
+2001,11,DOLOSOS,Zacatecas,Dec
+2001,7,DOLOSOS,Zacatecas,Nov
+2001,4,DOLOSOS,Zacatecas,Oct
+2001,8,DOLOSOS,Zacatecas,Sep
+2001,4,DOLOSOS,Zacatecas,Aug
+2001,5,DOLOSOS,Zacatecas,Jul
+2001,8,DOLOSOS,Zacatecas,Jun
+2001,10,DOLOSOS,Zacatecas,May
+2001,11,DOLOSOS,Zacatecas,Apr
+2001,5,DOLOSOS,Zacatecas,Mar
+2001,12,DOLOSOS,Zacatecas,Feb
+2001,9,DOLOSOS,Zacatecas,Jan
+2001,16,DOLOSOS,Yucatan,Tot
+2001,2,DOLOSOS,Yucatan,Dec
+2001,0,DOLOSOS,Yucatan,Nov
+2001,2,DOLOSOS,Yucatan,Oct
+2001,0,DOLOSOS,Yucatan,Sep
+2001,1,DOLOSOS,Yucatan,Aug
+2001,1,DOLOSOS,Yucatan,Jul
+2001,2,DOLOSOS,Yucatan,Jun
+2001,3,DOLOSOS,Yucatan,May
+2001,1,DOLOSOS,Yucatan,Apr
+2001,0,DOLOSOS,Yucatan,Mar
+2001,4,DOLOSOS,Yucatan,Feb
+2001,0,DOLOSOS,Yucatan,Jan
+2001,467,DOLOSOS,Veracruz,Tot
+2001,44,DOLOSOS,Veracruz,Dec
+2001,35,DOLOSOS,Veracruz,Nov
+2001,41,DOLOSOS,Veracruz,Oct
+2001,45,DOLOSOS,Veracruz,Sep
+2001,37,DOLOSOS,Veracruz,Aug
+2001,44,DOLOSOS,Veracruz,Jul
+2001,44,DOLOSOS,Veracruz,Jun
+2001,33,DOLOSOS,Veracruz,May
+2001,48,DOLOSOS,Veracruz,Apr
+2001,36,DOLOSOS,Veracruz,Mar
+2001,27,DOLOSOS,Veracruz,Feb
+2001,33,DOLOSOS,Veracruz,Jan
+2001,352,DOLOSOS,Tlaxcala,Tot
+2001,40,DOLOSOS,Tlaxcala,Dec
+2001,30,DOLOSOS,Tlaxcala,Nov
+2001,42,DOLOSOS,Tlaxcala,Oct
+2001,28,DOLOSOS,Tlaxcala,Sep
+2001,29,DOLOSOS,Tlaxcala,Aug
+2001,27,DOLOSOS,Tlaxcala,Jul
+2001,28,DOLOSOS,Tlaxcala,Jun
+2001,21,DOLOSOS,Tlaxcala,May
+2001,30,DOLOSOS,Tlaxcala,Apr
+2001,31,DOLOSOS,Tlaxcala,Mar
+2001,21,DOLOSOS,Tlaxcala,Feb
+2001,25,DOLOSOS,Tlaxcala,Jan
+2001,165,DOLOSOS,Tamaulipas,Tot
+2001,13,DOLOSOS,Tamaulipas,Dec
+2001,19,DOLOSOS,Tamaulipas,Nov
+2001,14,DOLOSOS,Tamaulipas,Oct
+2001,8,DOLOSOS,Tamaulipas,Sep
+2001,16,DOLOSOS,Tamaulipas,Aug
+2001,16,DOLOSOS,Tamaulipas,Jul
+2001,10,DOLOSOS,Tamaulipas,Jun
+2001,11,DOLOSOS,Tamaulipas,May
+2001,13,DOLOSOS,Tamaulipas,Apr
+2001,21,DOLOSOS,Tamaulipas,Mar
+2001,11,DOLOSOS,Tamaulipas,Feb
+2001,13,DOLOSOS,Tamaulipas,Jan
+2001,169,DOLOSOS,Tabasco,Tot
+2001,12,DOLOSOS,Tabasco,Dec
+2001,13,DOLOSOS,Tabasco,Nov
+2001,14,DOLOSOS,Sonora,May
+2001,38,DOLOSOS,Sinaloa,Nov
+2001,38,DOLOSOS,Sinaloa,Dec
+2001,551,DOLOSOS,Sinaloa,Tot
+2001,10,DOLOSOS,Sonora,Jan
+2001,14,DOLOSOS,Sonora,Feb
+2001,14,DOLOSOS,Sonora,Mar
+2001,16,DOLOSOS,Sonora,Apr
+2001,19,DOLOSOS,Tabasco,Oct
+2001,20,DOLOSOS,Tabasco,Sep
+2001,14,DOLOSOS,Tabasco,Aug
+2001,8,DOLOSOS,Tabasco,Jul
+2001,9,DOLOSOS,Tabasco,Jun
+2001,15,DOLOSOS,Tabasco,May
+2001,15,DOLOSOS,Tabasco,Apr
+2001,16,DOLOSOS,Tabasco,Mar
+2001,13,DOLOSOS,Tabasco,Feb
+2001,15,DOLOSOS,Tabasco,Jan
+2001,185,DOLOSOS,Sonora,Tot
+2001,19,DOLOSOS,Sonora,Dec
+2001,10,DOLOSOS,Sonora,Nov
+2001,12,DOLOSOS,Sonora,Oct
+2001,18,DOLOSOS,Sonora,Sep
+2001,22,DOLOSOS,Sonora,Aug
+2001,20,DOLOSOS,Sonora,Jul
+2001,16,DOLOSOS,Sonora,Jun
+2001,51,DOLOSOS,Sinaloa,Oct
+2001,37,DOLOSOS,Sinaloa,Sep
+2001,41,DOLOSOS,Sinaloa,Aug
+2001,52,DOLOSOS,Sinaloa,Jul
+2001,51,DOLOSOS,Sinaloa,Jun
+2001,52,DOLOSOS,Sinaloa,May
+2001,44,DOLOSOS,Sinaloa,Apr
+2001,52,DOLOSOS,Sinaloa,Mar
+2001,58,DOLOSOS,Sinaloa,Feb
+2001,37,DOLOSOS,Sinaloa,Jan
+2001,195,DOLOSOS,"San Luis Potosi",Tot
+2001,15,DOLOSOS,"San Luis Potosi",Dec
+2001,7,DOLOSOS,"San Luis Potosi",Nov
+2001,12,DOLOSOS,"San Luis Potosi",Oct
+2001,9,DOLOSOS,"San Luis Potosi",Sep
+2001,21,DOLOSOS,"San Luis Potosi",Aug
+2001,23,DOLOSOS,"San Luis Potosi",Jul
+2001,26,DOLOSOS,"San Luis Potosi",Jun
+2001,16,DOLOSOS,"San Luis Potosi",May
+2001,12,DOLOSOS,"San Luis Potosi",Apr
+2001,26,DOLOSOS,"San Luis Potosi",Mar
+2001,16,DOLOSOS,"San Luis Potosi",Feb
+2001,12,DOLOSOS,"San Luis Potosi",Jan
+2001,252,DOLOSOS,"Quintana Roo",Tot
+2001,29,DOLOSOS,"Quintana Roo",Dec
+2001,26,DOLOSOS,"Quintana Roo",Nov
+2001,20,DOLOSOS,"Quintana Roo",Oct
+2001,16,DOLOSOS,"Quintana Roo",Sep
+2001,12,DOLOSOS,"Quintana Roo",Aug
+2001,27,DOLOSOS,"Quintana Roo",Jul
+2001,20,DOLOSOS,"Quintana Roo",Jun
+2001,18,DOLOSOS,"Quintana Roo",May
+2001,21,DOLOSOS,"Quintana Roo",Apr
+2001,24,DOLOSOS,"Quintana Roo",Mar
+2001,31,DOLOSOS,"Quintana Roo",Feb
+2001,8,DOLOSOS,"Quintana Roo",Jan
+2001,86,DOLOSOS,Queretaro,Tot
+2001,9,DOLOSOS,Queretaro,Dec
+2001,9,DOLOSOS,Queretaro,Nov
+2001,7,DOLOSOS,Queretaro,Oct
+2001,4,DOLOSOS,Queretaro,Sep
+2001,7,DOLOSOS,Queretaro,Aug
+2001,6,DOLOSOS,Queretaro,Jul
+2001,10,DOLOSOS,Queretaro,Jun
+2001,6,DOLOSOS,Queretaro,May
+2001,8,DOLOSOS,Queretaro,Apr
+2001,8,DOLOSOS,Queretaro,Mar
+2001,4,DOLOSOS,Queretaro,Feb
+2001,8,DOLOSOS,Queretaro,Jan
+2001,502,DOLOSOS,Puebla,Tot
+2001,34,DOLOSOS,Puebla,Dec
+2001,38,DOLOSOS,Puebla,Nov
+2001,31,DOLOSOS,Puebla,Oct
+2001,44,DOLOSOS,Puebla,Sep
+2001,48,DOLOSOS,Puebla,Aug
+2001,43,DOLOSOS,Puebla,Jul
+2001,38,DOLOSOS,Puebla,Jun
+2001,53,DOLOSOS,Puebla,May
+2001,58,DOLOSOS,Puebla,Apr
+2001,36,DOLOSOS,Puebla,Mar
+2001,31,DOLOSOS,Puebla,Feb
+2001,48,DOLOSOS,Puebla,Jan
+2001,1311,DOLOSOS,Oaxaca,Tot
+2001,121,DOLOSOS,Oaxaca,Dec
+2001,46,DOLOSOS,Oaxaca,Nov
+2001,30,DOLOSOS,Oaxaca,Oct
+2001,39,DOLOSOS,Oaxaca,Sep
+2001,136,DOLOSOS,Oaxaca,Aug
+2001,145,DOLOSOS,Oaxaca,Jul
+2001,139,DOLOSOS,Oaxaca,Jun
+2001,147,DOLOSOS,Oaxaca,May
+2001,133,DOLOSOS,Oaxaca,Apr
+2001,119,DOLOSOS,Oaxaca,Mar
+2001,119,DOLOSOS,Oaxaca,Feb
+2001,137,DOLOSOS,Oaxaca,Jan
+2001,140,DOLOSOS,"Nuevo Leon",Tot
+2001,13,DOLOSOS,"Nuevo Leon",Dec
+2001,11,DOLOSOS,"Nuevo Leon",Nov
+2001,13,DOLOSOS,"Nuevo Leon",Oct
+2001,18,DOLOSOS,"Nuevo Leon",Sep
+2001,9,DOLOSOS,"Nuevo Leon",Aug
+2001,7,DOLOSOS,"Nuevo Leon",Jul
+2001,13,DOLOSOS,"Nuevo Leon",Jun
+2001,15,DOLOSOS,"Nuevo Leon",May
+2001,9,DOLOSOS,"Nuevo Leon",Apr
+2001,13,DOLOSOS,"Nuevo Leon",Mar
+2001,12,DOLOSOS,"Nuevo Leon",Feb
+2001,7,DOLOSOS,"Nuevo Leon",Jan
+2001,127,DOLOSOS,Nayarit,Tot
+2001,12,DOLOSOS,Nayarit,Dec
+2001,11,DOLOSOS,Nayarit,Nov
+2001,12,DOLOSOS,Nayarit,Oct
+2001,7,DOLOSOS,Nayarit,Sep
+2001,11,DOLOSOS,Nayarit,Aug
+2001,12,DOLOSOS,Nayarit,Jul
+2001,12,DOLOSOS,Nayarit,Jun
+2001,13,DOLOSOS,Nayarit,May
+2001,11,DOLOSOS,Nayarit,Apr
+2001,7,DOLOSOS,Nayarit,Mar
+2001,6,DOLOSOS,Nayarit,Feb
+2001,13,DOLOSOS,Nayarit,Jan
+2001,193,DOLOSOS,Morelos,Tot
+2001,16,DOLOSOS,Morelos,Dec
+2001,18,DOLOSOS,Morelos,Nov
+2001,17,DOLOSOS,Morelos,Oct
+2001,15,DOLOSOS,Morelos,Sep
+2001,10,DOLOSOS,Morelos,Aug
+2001,17,DOLOSOS,Morelos,Jul
+2001,10,DOLOSOS,Morelos,Jun
+2001,19,DOLOSOS,Morelos,May
+2001,15,DOLOSOS,Morelos,Apr
+2001,6,DOLOSOS,Morelos,Mar
+2001,20,DOLOSOS,Morelos,Feb
+2001,30,DOLOSOS,Morelos,Jan
+2001,475,DOLOSOS,Michoacan,Tot
+2001,37,DOLOSOS,Michoacan,Dec
+2001,43,DOLOSOS,Michoacan,Nov
+2001,46,DOLOSOS,Michoacan,Oct
+2001,37,DOLOSOS,Michoacan,Sep
+2001,26,DOLOSOS,Michoacan,Aug
+2001,31,DOLOSOS,Michoacan,Jul
+2001,40,DOLOSOS,Michoacan,Jun
+2001,35,DOLOSOS,Michoacan,May
+2001,49,DOLOSOS,Michoacan,Apr
+2001,46,DOLOSOS,Michoacan,Mar
+2001,45,DOLOSOS,Michoacan,Feb
+2001,40,DOLOSOS,Michoacan,Jan
+2001,2862,DOLOSOS,Mexico,Tot
+2001,225,DOLOSOS,Mexico,Dec
+2001,225,DOLOSOS,Mexico,Nov
+2001,244,DOLOSOS,Mexico,Oct
+2001,228,DOLOSOS,Mexico,Sep
+2001,236,DOLOSOS,Mexico,Aug
+2001,262,DOLOSOS,Mexico,Jul
+2001,247,DOLOSOS,Mexico,Jun
+2001,236,DOLOSOS,Mexico,May
+2001,230,DOLOSOS,Mexico,Apr
+2001,238,DOLOSOS,Mexico,Mar
+2001,238,DOLOSOS,Mexico,Feb
+2001,253,DOLOSOS,Mexico,Jan
+2001,488,DOLOSOS,Jalisco,Tot
+2001,32,DOLOSOS,Jalisco,Dec
+2001,29,DOLOSOS,Jalisco,Nov
+2001,46,DOLOSOS,Jalisco,Oct
+2001,53,DOLOSOS,Jalisco,Sep
+2001,44,DOLOSOS,Jalisco,Aug
+2001,50,DOLOSOS,Jalisco,Jul
+2001,43,DOLOSOS,Jalisco,Jun
+2001,38,DOLOSOS,Jalisco,May
+2001,46,DOLOSOS,Jalisco,Apr
+2001,42,DOLOSOS,Jalisco,Mar
+2001,28,DOLOSOS,Jalisco,Feb
+2001,37,DOLOSOS,Jalisco,Jan
+2001,148,DOLOSOS,Hidalgo,Tot
+2001,11,DOLOSOS,Hidalgo,Dec
+2001,13,DOLOSOS,Hidalgo,Nov
+2001,14,DOLOSOS,Hidalgo,Oct
+2001,18,DOLOSOS,Hidalgo,Sep
+2001,9,DOLOSOS,Hidalgo,Aug
+2001,8,DOLOSOS,Hidalgo,Jul
+2001,12,DOLOSOS,Hidalgo,Jun
+2001,10,DOLOSOS,Hidalgo,May
+2001,11,DOLOSOS,Hidalgo,Apr
+2001,11,DOLOSOS,Hidalgo,Mar
+2001,13,DOLOSOS,Hidalgo,Feb
+2001,18,DOLOSOS,Hidalgo,Jan
+2001,1255,DOLOSOS,Guerrero,Tot
+2001,103,DOLOSOS,Guerrero,Dec
+2001,109,DOLOSOS,Guerrero,Nov
+2001,122,DOLOSOS,Guerrero,Oct
+2001,88,DOLOSOS,Guerrero,Sep
+2001,87,DOLOSOS,Guerrero,Aug
+2001,108,DOLOSOS,Guerrero,Jul
+2001,86,DOLOSOS,Guerrero,Jun
+2001,105,DOLOSOS,Guerrero,May
+2001,112,DOLOSOS,Guerrero,Apr
+2001,128,DOLOSOS,Guerrero,Mar
+2001,85,DOLOSOS,Guerrero,Feb
+2001,122,DOLOSOS,Guerrero,Jan
+2001,233,DOLOSOS,Guanajuato,Tot
+2001,22,DOLOSOS,Guanajuato,Dec
+2001,25,DOLOSOS,Guanajuato,Nov
+2001,17,DOLOSOS,Guanajuato,Oct
+2001,9,DOLOSOS,Guanajuato,Sep
+2001,14,DOLOSOS,Guanajuato,Aug
+2001,23,DOLOSOS,Guanajuato,Jul
+2001,18,DOLOSOS,Guanajuato,Jun
+2001,23,DOLOSOS,Guanajuato,May
+2001,26,DOLOSOS,Guanajuato,Apr
+2001,17,DOLOSOS,Guanajuato,Mar
+2001,10,DOLOSOS,Guanajuato,Feb
+2001,29,DOLOSOS,Guanajuato,Jan
+2001,321,DOLOSOS,Durango,Tot
+2001,11,DOLOSOS,Durango,Dec
+2001,14,DOLOSOS,Durango,Nov
+2001,14,DOLOSOS,Durango,Oct
+2001,21,DOLOSOS,Durango,Sep
+2001,18,DOLOSOS,Durango,Aug
+2001,32,DOLOSOS,Durango,Jul
+2001,35,DOLOSOS,Durango,Jun
+2001,45,DOLOSOS,Durango,May
+2001,26,DOLOSOS,Durango,Apr
+2001,38,DOLOSOS,Durango,Mar
+2001,37,DOLOSOS,Durango,Feb
+2001,30,DOLOSOS,Durango,Jan
+2001,807,DOLOSOS,"Distrito Federal",Tot
+2001,70,DOLOSOS,"Distrito Federal",Dec
+2001,70,DOLOSOS,"Distrito Federal",Nov
+2001,76,DOLOSOS,"Distrito Federal",Oct
+2001,61,DOLOSOS,"Distrito Federal",Sep
+2001,67,DOLOSOS,"Distrito Federal",Aug
+2001,70,DOLOSOS,"Distrito Federal",Jul
+2001,63,DOLOSOS,"Distrito Federal",Jun
+2001,68,DOLOSOS,"Distrito Federal",May
+2001,58,DOLOSOS,"Distrito Federal",Apr
+2001,77,DOLOSOS,"Distrito Federal",Mar
+2001,63,DOLOSOS,"Distrito Federal",Feb
+2001,64,DOLOSOS,"Distrito Federal",Jan
+2001,480,DOLOSOS,Chihuahua,Tot
+2001,49,DOLOSOS,Chihuahua,Dec
+2001,34,DOLOSOS,Chihuahua,Nov
+2001,37,DOLOSOS,Chihuahua,Oct
+2001,35,DOLOSOS,Chihuahua,Sep
+2001,41,DOLOSOS,Chihuahua,Aug
+2001,40,DOLOSOS,Chihuahua,Jul
+2001,39,DOLOSOS,Chihuahua,Jun
+2001,44,DOLOSOS,Chihuahua,May
+2001,44,DOLOSOS,Chihuahua,Apr
+2001,29,DOLOSOS,Chihuahua,Mar
+2001,40,DOLOSOS,Chihuahua,Feb
+2001,48,DOLOSOS,Chihuahua,Jan
+2001,1252,DOLOSOS,Chiapas,Tot
+2001,96,DOLOSOS,Chiapas,Dec
+2001,81,DOLOSOS,Chiapas,Nov
+2001,98,DOLOSOS,Chiapas,Oct
+2001,92,DOLOSOS,Chiapas,Sep
+2001,112,DOLOSOS,Chiapas,Aug
+2001,110,DOLOSOS,Chiapas,Jul
+2001,127,DOLOSOS,Chiapas,Jun
+2001,113,DOLOSOS,Chiapas,May
+2001,98,DOLOSOS,Chiapas,Apr
+2001,112,DOLOSOS,Chiapas,Mar
+2001,104,DOLOSOS,Chiapas,Feb
+2001,109,DOLOSOS,Chiapas,Jan
+2001,56,DOLOSOS,Colima,Tot
+2001,5,DOLOSOS,Colima,Dec
+2001,4,DOLOSOS,Colima,Nov
+2001,3,DOLOSOS,Colima,Oct
+2001,3,DOLOSOS,Colima,Sep
+2001,5,DOLOSOS,Colima,Aug
+2001,3,DOLOSOS,Colima,Jul
+2001,2,DOLOSOS,Colima,Jun
+2001,5,DOLOSOS,Colima,May
+2001,7,DOLOSOS,Colima,Apr
+2001,6,DOLOSOS,Colima,Mar
+2001,6,DOLOSOS,Colima,Feb
+2001,7,DOLOSOS,Colima,Jan
+2001,118,DOLOSOS,Coahuila,Tot
+2001,8,DOLOSOS,Coahuila,Dec
+2001,13,DOLOSOS,Coahuila,Nov
+2001,5,DOLOSOS,Coahuila,Oct
+2001,14,DOLOSOS,Coahuila,Sep
+2001,10,DOLOSOS,Coahuila,Aug
+2001,19,DOLOSOS,Coahuila,Jul
+2001,9,DOLOSOS,Coahuila,Jun
+2001,12,DOLOSOS,Coahuila,May
+2001,8,DOLOSOS,Coahuila,Apr
+2001,5,DOLOSOS,Coahuila,Mar
+2001,6,DOLOSOS,Coahuila,Feb
+2001,9,DOLOSOS,Coahuila,Jan
+2001,52,DOLOSOS,Campeche,Tot
+2001,7,DOLOSOS,Campeche,Dec
+2001,6,DOLOSOS,Campeche,Nov
+2001,6,DOLOSOS,Campeche,Oct
+2001,2,DOLOSOS,Campeche,Sep
+2001,4,DOLOSOS,Campeche,Aug
+2001,3,DOLOSOS,Campeche,Jul
+2001,2,DOLOSOS,Campeche,Jun
+2001,4,DOLOSOS,Campeche,May
+2001,3,DOLOSOS,Campeche,Apr
+2001,8,DOLOSOS,Campeche,Mar
+2001,6,DOLOSOS,Campeche,Feb
+2001,1,DOLOSOS,Campeche,Jan
+2001,25,DOLOSOS,"Baja California Sur",Tot
+2001,1,DOLOSOS,"Baja California Sur",Dec
+2001,2,DOLOSOS,"Baja California Sur",Nov
+2001,3,DOLOSOS,"Baja California Sur",Oct
+2001,1,DOLOSOS,"Baja California Sur",Sep
+2001,4,DOLOSOS,"Baja California Sur",Aug
+2001,2,DOLOSOS,"Baja California Sur",Jul
+2001,5,DOLOSOS,"Baja California Sur",Jun
+2001,2,DOLOSOS,"Baja California Sur",May
+2001,1,DOLOSOS,"Baja California Sur",Apr
+2001,0,DOLOSOS,"Baja California Sur",Mar
+2001,3,DOLOSOS,"Baja California Sur",Feb
+2001,1,DOLOSOS,"Baja California Sur",Jan
+2001,456,DOLOSOS,"Baja California",Tot
+2001,40,DOLOSOS,"Baja California",Dec
+2001,43,DOLOSOS,"Baja California",Nov
+2001,36,DOLOSOS,"Baja California",Oct
+2001,48,DOLOSOS,"Baja California",Sep
+2001,34,DOLOSOS,"Baja California",Aug
+2001,34,DOLOSOS,"Baja California",Jul
+2001,34,DOLOSOS,"Baja California",Jun
+2001,44,DOLOSOS,"Baja California",May
+2001,43,DOLOSOS,"Baja California",Apr
+2001,46,DOLOSOS,"Baja California",Mar
+2001,30,DOLOSOS,"Baja California",Feb
+2001,24,DOLOSOS,"Baja California",Jan
+2001,22,DOLOSOS,Aguascalientes,Tot
+2001,2,DOLOSOS,Aguascalientes,Dec
+2001,2,DOLOSOS,Aguascalientes,Nov
+2001,0,DOLOSOS,Aguascalientes,Oct
+2001,2,DOLOSOS,Aguascalientes,Sep
+2001,1,DOLOSOS,Aguascalientes,Aug
+2001,0,DOLOSOS,Aguascalientes,Jul
+2001,4,DOLOSOS,Aguascalientes,Jun
+2001,3,DOLOSOS,Aguascalientes,May
+2001,3,DOLOSOS,Aguascalientes,Apr
+2001,0,DOLOSOS,Aguascalientes,Mar
+2001,2,DOLOSOS,Aguascalientes,Feb
+2001,3,DOLOSOS,Aguascalientes,Jan
+2001,13855,DOLOSOS,National,Tot
+2001,1147,DOLOSOS,National,Dec
+2001,1031,DOLOSOS,National,Nov
+2001,1094,DOLOSOS,National,Oct
+2001,1028,DOLOSOS,National,Sep
+2001,1130,DOLOSOS,National,Aug
+2001,1248,DOLOSOS,National,Jul
+2001,1202,DOLOSOS,National,Jun
+2001,1233,DOLOSOS,National,May
+2001,1210,DOLOSOS,National,Apr
+2001,1217,DOLOSOS,National,Mar
+2001,1115,DOLOSOS,National,Feb
+2001,1200,DOLOSOS,National,Jan
+2000,96,DOLOSOS,Zacatecas,Tot
+2000,11,DOLOSOS,Zacatecas,Dec
+2000,8,DOLOSOS,Zacatecas,Nov
+2000,8,DOLOSOS,Zacatecas,Oct
+2000,4,DOLOSOS,Zacatecas,Sep
+2000,6,DOLOSOS,Zacatecas,Aug
+2000,10,DOLOSOS,Zacatecas,Jul
+2000,5,DOLOSOS,Zacatecas,Jun
+2000,12,DOLOSOS,Zacatecas,May
+2000,10,DOLOSOS,Zacatecas,Apr
+2000,9,DOLOSOS,Zacatecas,Mar
+2000,5,DOLOSOS,Zacatecas,Feb
+2000,8,DOLOSOS,Zacatecas,Jan
+2000,26,DOLOSOS,Yucatan,Tot
+2000,1,DOLOSOS,Yucatan,Dec
+2000,2,DOLOSOS,Yucatan,Nov
+2000,0,DOLOSOS,Yucatan,Oct
+2000,2,DOLOSOS,Yucatan,Sep
+2000,4,DOLOSOS,Yucatan,Aug
+2000,3,DOLOSOS,Yucatan,Jul
+2000,3,DOLOSOS,Yucatan,Jun
+2000,2,DOLOSOS,Yucatan,May
+2000,4,DOLOSOS,Yucatan,Apr
+2000,3,DOLOSOS,Yucatan,Mar
+2000,0,DOLOSOS,Yucatan,Feb
+2000,2,DOLOSOS,Yucatan,Jan
+2000,465,DOLOSOS,Veracruz,Tot
+2000,35,DOLOSOS,Veracruz,Dec
+2000,47,DOLOSOS,Veracruz,Nov
+2000,31,DOLOSOS,Veracruz,Oct
+2000,44,DOLOSOS,Veracruz,Sep
+2000,39,DOLOSOS,Veracruz,Aug
+2000,43,DOLOSOS,Veracruz,Jul
+2000,38,DOLOSOS,Veracruz,Jun
+2000,39,DOLOSOS,Veracruz,May
+2000,35,DOLOSOS,Veracruz,Apr
+2000,33,DOLOSOS,Veracruz,Mar
+2000,32,DOLOSOS,Veracruz,Feb
+2000,49,DOLOSOS,Veracruz,Jan
+2000,280,DOLOSOS,Tlaxcala,Tot
+2000,22,DOLOSOS,Tlaxcala,Dec
+2000,30,DOLOSOS,Tlaxcala,Nov
+2000,18,DOLOSOS,Tlaxcala,Oct
+2000,26,DOLOSOS,Tlaxcala,Sep
+2000,29,DOLOSOS,Tlaxcala,Aug
+2000,21,DOLOSOS,Tlaxcala,Jul
+2000,10,DOLOSOS,Tlaxcala,Jun
+2000,22,DOLOSOS,Tlaxcala,May
+2000,30,DOLOSOS,Tlaxcala,Apr
+2000,25,DOLOSOS,Tlaxcala,Mar
+2000,26,DOLOSOS,Tlaxcala,Feb
+2000,21,DOLOSOS,Tlaxcala,Jan
+2000,221,DOLOSOS,Tamaulipas,Tot
+2000,11,DOLOSOS,Tamaulipas,Dec
+2000,26,DOLOSOS,Tamaulipas,Nov
+2000,15,DOLOSOS,Tamaulipas,Oct
+2000,23,DOLOSOS,Tamaulipas,Sep
+2000,13,DOLOSOS,Tamaulipas,Aug
+2000,14,DOLOSOS,Tamaulipas,Jul
+2000,22,DOLOSOS,Tamaulipas,Jun
+2000,12,DOLOSOS,Tamaulipas,May
+2000,23,DOLOSOS,Tamaulipas,Apr
+2000,26,DOLOSOS,Tamaulipas,Mar
+2000,22,DOLOSOS,Tamaulipas,Feb
+2000,14,DOLOSOS,Tamaulipas,Jan
+2000,210,DOLOSOS,Tabasco,Tot
+2000,21,DOLOSOS,Tabasco,Dec
+2000,17,DOLOSOS,Tabasco,Nov
+2000,18,DOLOSOS,Tabasco,Oct
+2000,23,DOLOSOS,Tabasco,Sep
+2000,12,DOLOSOS,Tabasco,Aug
+2000,22,DOLOSOS,Tabasco,Jul
+2000,11,DOLOSOS,Tabasco,Jun
+2000,15,DOLOSOS,Tabasco,May
+2000,19,DOLOSOS,Tabasco,Apr
+2000,17,DOLOSOS,Tabasco,Mar
+2000,14,DOLOSOS,Tabasco,Feb
+2000,21,DOLOSOS,Tabasco,Jan
+2000,194,DOLOSOS,Sonora,Tot
+2000,17,DOLOSOS,Sonora,Dec
+2000,12,DOLOSOS,Sonora,Nov
+2000,14,DOLOSOS,Sonora,Oct
+2000,18,DOLOSOS,Sonora,Sep
+2000,20,DOLOSOS,Sonora,Aug
+2000,18,DOLOSOS,Sonora,Jul
+2000,19,DOLOSOS,Sonora,Jun
+2000,17,DOLOSOS,Sonora,May
+2000,20,DOLOSOS,Sonora,Apr
+2000,13,DOLOSOS,Sonora,Mar
+2000,12,DOLOSOS,Sonora,Feb
+2000,14,DOLOSOS,Sonora,Jan
+2000,501,DOLOSOS,Sinaloa,Tot
+2000,63,DOLOSOS,Sinaloa,Dec
+2000,42,DOLOSOS,Sinaloa,Nov
+2000,30,DOLOSOS,Sinaloa,Oct
+2000,33,DOLOSOS,Sinaloa,Sep
+2000,35,DOLOSOS,Sinaloa,Aug
+2000,49,DOLOSOS,Sinaloa,Jul
+2000,42,DOLOSOS,Sinaloa,Jun
+2000,45,DOLOSOS,Sinaloa,May
+2000,23,DOLOSOS,Sinaloa,Apr
+2000,40,DOLOSOS,Sinaloa,Mar
+2000,53,DOLOSOS,Sinaloa,Feb
+2000,46,DOLOSOS,Sinaloa,Jan
+2000,254,DOLOSOS,"San Luis Potosi",Tot
+2000,20,DOLOSOS,"San Luis Potosi",Dec
+2000,15,DOLOSOS,"San Luis Potosi",Nov
+2000,19,DOLOSOS,"San Luis Potosi",Oct
+2000,21,DOLOSOS,"San Luis Potosi",Sep
+2000,21,DOLOSOS,"San Luis Potosi",Aug
+2000,20,DOLOSOS,"San Luis Potosi",Jul
+2000,10,DOLOSOS,"San Luis Potosi",Jun
+2000,19,DOLOSOS,"San Luis Potosi",May
+2000,32,DOLOSOS,"San Luis Potosi",Apr
+2000,28,DOLOSOS,"San Luis Potosi",Mar
+2000,19,DOLOSOS,"San Luis Potosi",Feb
+2000,30,DOLOSOS,"San Luis Potosi",Jan
+2000,245,DOLOSOS,"Quintana Roo",Tot
+2000,16,DOLOSOS,"Quintana Roo",Dec
+2000,20,DOLOSOS,"Quintana Roo",Nov
+2000,20,DOLOSOS,"Quintana Roo",Oct
+2000,21,DOLOSOS,"Quintana Roo",Sep
+2000,16,DOLOSOS,"Quintana Roo",Aug
+2000,28,DOLOSOS,"Quintana Roo",Jul
+2000,23,DOLOSOS,"Quintana Roo",Jun
+2000,17,DOLOSOS,"Quintana Roo",May
+2000,17,DOLOSOS,"Quintana Roo",Apr
+2000,19,DOLOSOS,"Quintana Roo",Mar
+2000,29,DOLOSOS,"Quintana Roo",Feb
+2000,19,DOLOSOS,"Quintana Roo",Jan
+2000,62,DOLOSOS,Queretaro,Tot
+2000,6,DOLOSOS,Queretaro,Dec
+2000,5,DOLOSOS,Queretaro,Nov
+2000,3,DOLOSOS,Queretaro,Oct
+2000,8,DOLOSOS,Queretaro,Sep
+2000,9,DOLOSOS,Queretaro,Aug
+2000,4,DOLOSOS,Queretaro,Jul
+2000,3,DOLOSOS,Queretaro,Jun
+2000,5,DOLOSOS,Queretaro,May
+2000,6,DOLOSOS,Queretaro,Apr
+2000,1,DOLOSOS,Queretaro,Mar
+2000,5,DOLOSOS,Queretaro,Feb
+2000,7,DOLOSOS,Queretaro,Jan
+2000,573,DOLOSOS,Puebla,Tot
+2000,42,DOLOSOS,Puebla,Dec
+2000,42,DOLOSOS,Puebla,Nov
+2000,49,DOLOSOS,Puebla,Oct
+2000,75,DOLOSOS,Puebla,Sep
+2000,30,DOLOSOS,Puebla,Aug
+2000,42,DOLOSOS,Puebla,Jul
+2000,45,DOLOSOS,Puebla,Jun
+2000,54,DOLOSOS,Puebla,May
+2000,36,DOLOSOS,Puebla,Apr
+2000,57,DOLOSOS,Puebla,Mar
+2000,55,DOLOSOS,Puebla,Feb
+2000,46,DOLOSOS,Puebla,Jan
+2000,1292,DOLOSOS,Oaxaca,Tot
+2000,119,DOLOSOS,Oaxaca,Dec
+2000,93,DOLOSOS,Oaxaca,Nov
+2000,117,DOLOSOS,Oaxaca,Oct
+2000,122,DOLOSOS,Oaxaca,Sep
+2000,104,DOLOSOS,Oaxaca,Aug
+2000,110,DOLOSOS,Oaxaca,Jul
+2000,99,DOLOSOS,Oaxaca,Jun
+2000,86,DOLOSOS,Oaxaca,May
+2000,110,DOLOSOS,Oaxaca,Apr
+2000,93,DOLOSOS,Oaxaca,Mar
+2000,102,DOLOSOS,Oaxaca,Feb
+2000,137,DOLOSOS,Oaxaca,Jan
+2000,123,DOLOSOS,"Nuevo Leon",Tot
+2000,12,DOLOSOS,"Nuevo Leon",Dec
+2000,8,DOLOSOS,"Nuevo Leon",Nov
+2000,5,DOLOSOS,"Nuevo Leon",Oct
+2000,14,DOLOSOS,"Nuevo Leon",Sep
+2000,5,DOLOSOS,"Nuevo Leon",Aug
+2000,5,DOLOSOS,"Nuevo Leon",Jul
+2000,14,DOLOSOS,"Nuevo Leon",Jun
+2000,16,DOLOSOS,"Nuevo Leon",May
+2000,10,DOLOSOS,"Nuevo Leon",Apr
+2000,10,DOLOSOS,"Nuevo Leon",Mar
+2000,12,DOLOSOS,"Nuevo Leon",Feb
+2000,12,DOLOSOS,"Nuevo Leon",Jan
+2000,121,DOLOSOS,Nayarit,Tot
+2000,10,DOLOSOS,Nayarit,Dec
+2000,17,DOLOSOS,Nayarit,Nov
+2000,15,DOLOSOS,Nayarit,Oct
+2000,6,DOLOSOS,Nayarit,Sep
+2000,7,DOLOSOS,Nayarit,Aug
+2000,7,DOLOSOS,Nayarit,Jul
+2000,11,DOLOSOS,Nayarit,Jun
+2000,9,DOLOSOS,Nayarit,May
+2000,6,DOLOSOS,Nayarit,Apr
+2000,8,DOLOSOS,Nayarit,Mar
+2000,13,DOLOSOS,Nayarit,Feb
+2000,12,DOLOSOS,Nayarit,Jan
+2000,352,DOLOSOS,Morelos,Tot
+2000,40,DOLOSOS,Morelos,Dec
+2000,22,DOLOSOS,Morelos,Nov
+2000,34,DOLOSOS,Morelos,Oct
+2000,28,DOLOSOS,Morelos,Sep
+2000,17,DOLOSOS,Morelos,Aug
+2000,28,DOLOSOS,Morelos,Jul
+2000,29,DOLOSOS,Morelos,Jun
+2000,36,DOLOSOS,Morelos,May
+2000,24,DOLOSOS,Morelos,Apr
+2000,25,DOLOSOS,Morelos,Mar
+2000,36,DOLOSOS,Morelos,Feb
+2000,33,DOLOSOS,Morelos,Jan
+2000,487,DOLOSOS,Michoacan,Tot
+2000,58,DOLOSOS,Michoacan,Dec
+2000,39,DOLOSOS,Michoacan,Nov
+2000,40,DOLOSOS,Michoacan,Oct
+2000,37,DOLOSOS,Michoacan,Sep
+2000,30,DOLOSOS,Michoacan,Aug
+2000,36,DOLOSOS,Michoacan,Jul
+2000,18,DOLOSOS,Michoacan,Jun
+2000,46,DOLOSOS,Michoacan,May
+2000,42,DOLOSOS,Michoacan,Apr
+2000,50,DOLOSOS,Michoacan,Mar
+2000,44,DOLOSOS,Michoacan,Feb
+2000,47,DOLOSOS,Michoacan,Jan
+2000,2726,DOLOSOS,Mexico,Tot
+2000,229,DOLOSOS,Mexico,Dec
+2000,227,DOLOSOS,Mexico,Nov
+2000,226,DOLOSOS,Mexico,Oct
+2000,274,DOLOSOS,Mexico,Sep
+2000,219,DOLOSOS,Mexico,Aug
+2000,233,DOLOSOS,Mexico,Jul
+2000,198,DOLOSOS,Mexico,Jun
+2000,222,DOLOSOS,Mexico,May
+2000,202,DOLOSOS,Mexico,Apr
+2000,240,DOLOSOS,Mexico,Mar
+2000,234,DOLOSOS,Mexico,Feb
+2000,222,DOLOSOS,Mexico,Jan
+2000,486,DOLOSOS,Jalisco,Tot
+2000,44,DOLOSOS,Jalisco,Dec
+2000,39,DOLOSOS,Jalisco,Nov
+2000,39,DOLOSOS,Jalisco,Oct
+2000,36,DOLOSOS,Jalisco,Sep
+2000,42,DOLOSOS,Jalisco,Aug
+2000,28,DOLOSOS,Jalisco,Jul
+2000,41,DOLOSOS,Jalisco,Jun
+2000,37,DOLOSOS,Jalisco,May
+2000,41,DOLOSOS,Jalisco,Apr
+2000,51,DOLOSOS,Jalisco,Mar
+2000,48,DOLOSOS,Jalisco,Feb
+2000,40,DOLOSOS,Jalisco,Jan
+2000,115,DOLOSOS,Hidalgo,Tot
+2000,12,DOLOSOS,Hidalgo,Dec
+2000,7,DOLOSOS,Hidalgo,Nov
+2000,11,DOLOSOS,Hidalgo,Oct
+2000,5,DOLOSOS,Hidalgo,Sep
+2000,7,DOLOSOS,Hidalgo,Aug
+2000,5,DOLOSOS,Hidalgo,Jul
+2000,8,DOLOSOS,Hidalgo,Jun
+2000,8,DOLOSOS,Hidalgo,May
+2000,9,DOLOSOS,Hidalgo,Apr
+2000,16,DOLOSOS,Hidalgo,Mar
+2000,11,DOLOSOS,Hidalgo,Feb
+2000,16,DOLOSOS,Hidalgo,Jan
+2000,1399,DOLOSOS,Guerrero,Tot
+2000,157,DOLOSOS,Guerrero,Dec
+2000,150,DOLOSOS,Guerrero,Nov
+2000,88,DOLOSOS,Guerrero,Oct
+2000,100,DOLOSOS,Guerrero,Sep
+2000,105,DOLOSOS,Guerrero,Aug
+2000,102,DOLOSOS,Guerrero,Jul
+2000,116,DOLOSOS,Guerrero,Jun
+2000,118,DOLOSOS,Guerrero,May
+2000,116,DOLOSOS,Guerrero,Apr
+2000,117,DOLOSOS,Guerrero,Mar
+2000,140,DOLOSOS,Guerrero,Feb
+2000,90,DOLOSOS,Guerrero,Jan
+2000,219,DOLOSOS,Guanajuato,Tot
+2000,21,DOLOSOS,Guanajuato,Dec
+2000,15,DOLOSOS,Guanajuato,Nov
+2000,22,DOLOSOS,Guanajuato,Oct
+2000,11,DOLOSOS,Guanajuato,Sep
+2000,17,DOLOSOS,Guanajuato,Aug
+2000,17,DOLOSOS,Guanajuato,Jul
+2000,12,DOLOSOS,Guanajuato,Jun
+2000,17,DOLOSOS,Guanajuato,May
+2000,19,DOLOSOS,Guanajuato,Apr
+2000,14,DOLOSOS,Guanajuato,Mar
+2000,25,DOLOSOS,Guanajuato,Feb
+2000,29,DOLOSOS,Guanajuato,Jan
+2000,268,DOLOSOS,Durango,Tot
+2000,25,DOLOSOS,Durango,Dec
+2000,28,DOLOSOS,Durango,Nov
+2000,15,DOLOSOS,Durango,Oct
+2000,31,DOLOSOS,Durango,Sep
+2000,27,DOLOSOS,Durango,Aug
+2000,24,DOLOSOS,Durango,Jul
+2000,15,DOLOSOS,Durango,Jun
+2000,18,DOLOSOS,Durango,May
+2000,15,DOLOSOS,Durango,Apr
+2000,26,DOLOSOS,Durango,Mar
+2000,21,DOLOSOS,Durango,Feb
+2000,23,DOLOSOS,Durango,Jan
+2000,709,DOLOSOS,"Distrito Federal",Tot
+2000,61,DOLOSOS,"Distrito Federal",Dec
+2000,59,DOLOSOS,"Distrito Federal",Nov
+2000,54,DOLOSOS,"Distrito Federal",Oct
+2000,53,DOLOSOS,"Distrito Federal",Sep
+2000,64,DOLOSOS,"Distrito Federal",Aug
+2000,61,DOLOSOS,"Distrito Federal",Jul
+2000,57,DOLOSOS,"Distrito Federal",Jun
+2000,52,DOLOSOS,"Distrito Federal",May
+2000,59,DOLOSOS,"Distrito Federal",Apr
+2000,65,DOLOSOS,"Distrito Federal",Mar
+2000,55,DOLOSOS,"Distrito Federal",Feb
+2000,69,DOLOSOS,"Distrito Federal",Jan
+2000,437,DOLOSOS,Chihuahua,Tot
+2000,23,DOLOSOS,Chihuahua,Dec
+2000,28,DOLOSOS,Chihuahua,Nov
+2000,42,DOLOSOS,Chihuahua,Oct
+2000,47,DOLOSOS,Chihuahua,Sep
+2000,50,DOLOSOS,Chihuahua,Aug
+2000,42,DOLOSOS,Chihuahua,Jul
+2000,40,DOLOSOS,Chihuahua,Jun
+2000,35,DOLOSOS,Chihuahua,May
+2000,29,DOLOSOS,Chihuahua,Apr
+2000,36,DOLOSOS,Chihuahua,Mar
+2000,33,DOLOSOS,Chihuahua,Feb
+2000,32,DOLOSOS,Chihuahua,Jan
+2000,1270,DOLOSOS,Chiapas,Tot
+2000,93,DOLOSOS,Chiapas,Dec
+2000,76,DOLOSOS,Chiapas,Nov
+2000,116,DOLOSOS,Chiapas,Oct
+2000,116,DOLOSOS,Chiapas,Sep
+2000,89,DOLOSOS,Chiapas,Aug
+2000,118,DOLOSOS,Chiapas,Jul
+2000,75,DOLOSOS,Chiapas,Jun
+2000,102,DOLOSOS,Chiapas,May
+2000,130,DOLOSOS,Chiapas,Apr
+2000,110,DOLOSOS,Chiapas,Mar
+2000,122,DOLOSOS,Chiapas,Feb
+2000,123,DOLOSOS,Chiapas,Jan
+2000,45,DOLOSOS,Colima,Tot
+2000,3,DOLOSOS,Colima,Dec
+2000,3,DOLOSOS,Colima,Nov
+2000,4,DOLOSOS,Colima,Oct
+2000,3,DOLOSOS,Colima,Sep
+2000,8,DOLOSOS,Colima,Aug
+2000,4,DOLOSOS,Colima,Jul
+2000,4,DOLOSOS,Colima,Jun
+2000,2,DOLOSOS,Colima,May
+2000,4,DOLOSOS,Colima,Apr
+2000,3,DOLOSOS,Colima,Mar
+2000,4,DOLOSOS,Colima,Feb
+2000,3,DOLOSOS,Colima,Jan
+2000,113,DOLOSOS,Coahuila,Tot
+2000,3,DOLOSOS,Coahuila,Dec
+2000,14,DOLOSOS,Coahuila,Nov
+2000,11,DOLOSOS,Coahuila,Oct
+2000,8,DOLOSOS,Coahuila,Sep
+2000,10,DOLOSOS,Coahuila,Aug
+2000,11,DOLOSOS,Coahuila,Jul
+2000,6,DOLOSOS,Coahuila,Jun
+2000,6,DOLOSOS,Coahuila,May
+2000,12,DOLOSOS,Coahuila,Apr
+2000,11,DOLOSOS,Coahuila,Mar
+2000,10,DOLOSOS,Coahuila,Feb
+2000,11,DOLOSOS,Coahuila,Jan
+2000,55,DOLOSOS,Campeche,Tot
+2000,3,DOLOSOS,Campeche,Dec
+2000,4,DOLOSOS,Campeche,Nov
+2000,3,DOLOSOS,Campeche,Oct
+2000,5,DOLOSOS,Campeche,Sep
+2000,5,DOLOSOS,Campeche,Aug
+2000,6,DOLOSOS,Campeche,Jul
+2000,5,DOLOSOS,Campeche,Jun
+2000,4,DOLOSOS,Campeche,May
+2000,4,DOLOSOS,Campeche,Apr
+2000,3,DOLOSOS,Campeche,Mar
+2000,5,DOLOSOS,Campeche,Feb
+2000,8,DOLOSOS,Campeche,Jan
+2000,31,DOLOSOS,"Baja California Sur",Tot
+2000,1,DOLOSOS,"Baja California Sur",Dec
+2000,3,DOLOSOS,"Baja California Sur",Nov
+2000,5,DOLOSOS,"Baja California Sur",Oct
+2000,4,DOLOSOS,"Baja California Sur",Sep
+2000,4,DOLOSOS,"Baja California Sur",Aug
+2000,3,DOLOSOS,"Baja California Sur",Jul
+2000,4,DOLOSOS,"Baja California Sur",Jun
+2000,3,DOLOSOS,"Baja California Sur",May
+2000,2,DOLOSOS,"Baja California Sur",Apr
+2000,0,DOLOSOS,"Baja California Sur",Mar
+2000,2,DOLOSOS,"Baja California Sur",Feb
+2000,0,DOLOSOS,"Baja California Sur",Jan
+2000,460,DOLOSOS,"Baja California",Tot
+2000,29,DOLOSOS,"Baja California",Dec
+2000,41,DOLOSOS,"Baja California",Nov
+2000,36,DOLOSOS,"Baja California",Oct
+2000,33,DOLOSOS,"Baja California",Sep
+2000,49,DOLOSOS,"Baja California",Aug
+2000,40,DOLOSOS,"Baja California",Jul
+2000,27,DOLOSOS,"Baja California",Jun
+2000,46,DOLOSOS,"Baja California",May
+2000,32,DOLOSOS,"Baja California",Apr
+2000,26,DOLOSOS,"Baja California",Mar
+2000,36,DOLOSOS,"Baja California",Feb
+2000,65,DOLOSOS,"Baja California",Jan
+2000,14,DOLOSOS,Aguascalientes,Tot
+2000,1,DOLOSOS,Aguascalientes,Dec
+2000,2,DOLOSOS,Aguascalientes,Nov
+2000,2,DOLOSOS,Aguascalientes,Oct
+2000,1,DOLOSOS,Aguascalientes,Sep
+2000,3,DOLOSOS,Aguascalientes,Aug
+2000,0,DOLOSOS,Aguascalientes,Jul
+2000,1,DOLOSOS,Aguascalientes,Jun
+2000,1,DOLOSOS,Aguascalientes,May
+2000,2,DOLOSOS,Aguascalientes,Apr
+2000,0,DOLOSOS,Aguascalientes,Mar
+2000,1,DOLOSOS,Aguascalientes,Feb
+2000,0,DOLOSOS,Aguascalientes,Jan
+2000,13849,DOLOSOS,National,Tot
+2000,1209,DOLOSOS,National,Dec
+2000,1141,DOLOSOS,National,Nov
+2000,1232,DOLOSOS,National,Sep
+2000,1110,DOLOSOS,National,Oct
+2000,1096,DOLOSOS,National,Aug
+2000,1154,DOLOSOS,National,Jul
+2000,1011,DOLOSOS,National,Jun
+2000,1123,DOLOSOS,National,May
+2000,1123,DOLOSOS,National,Apr
+2000,1175,DOLOSOS,National,Mar
+2000,1226,DOLOSOS,National,Feb
+2000,1249,DOLOSOS,National,Jan
+1999,90,DOLOSOS,Zacatecas,Tot
+1999,9,DOLOSOS,Zacatecas,Dec
+1999,9,DOLOSOS,Zacatecas,Nov
+1999,11,DOLOSOS,Zacatecas,Oct
+1999,5,DOLOSOS,Zacatecas,Sep
+1999,11,DOLOSOS,Zacatecas,Aug
+1999,6,DOLOSOS,Zacatecas,Jul
+1999,10,DOLOSOS,Zacatecas,Jun
+1999,6,DOLOSOS,Zacatecas,May
+1999,6,DOLOSOS,Zacatecas,Apr
+1999,4,DOLOSOS,Zacatecas,Mar
+1999,7,DOLOSOS,Zacatecas,Feb
+1999,6,DOLOSOS,Zacatecas,Jan
+1999,8,DOLOSOS,Yucatan,Tot
+1999,1,DOLOSOS,Yucatan,Dec
+1999,0,DOLOSOS,Yucatan,Nov
+1999,0,DOLOSOS,Yucatan,Oct
+1999,1,DOLOSOS,Yucatan,Sep
+1999,3,DOLOSOS,Yucatan,Aug
+1999,0,DOLOSOS,Yucatan,Jul
+1999,0,DOLOSOS,Yucatan,Jun
+1999,0,DOLOSOS,Yucatan,May
+1999,0,DOLOSOS,Yucatan,Apr
+1999,0,DOLOSOS,Yucatan,Mar
+1999,3,DOLOSOS,Yucatan,Feb
+1999,0,DOLOSOS,Yucatan,Jan
+1999,590,DOLOSOS,Veracruz,Tot
+1999,42,DOLOSOS,Veracruz,Dec
+1999,37,DOLOSOS,Veracruz,Nov
+1999,49,DOLOSOS,Veracruz,Oct
+1999,50,DOLOSOS,Veracruz,Sep
+1999,46,DOLOSOS,Veracruz,Aug
+1999,44,DOLOSOS,Veracruz,Jul
+1999,47,DOLOSOS,Veracruz,Jun
+1999,54,DOLOSOS,Veracruz,May
+1999,56,DOLOSOS,Veracruz,Apr
+1999,58,DOLOSOS,Veracruz,Mar
+1999,53,DOLOSOS,Veracruz,Feb
+1999,54,DOLOSOS,Veracruz,Jan
+1999,163,DOLOSOS,Tlaxcala,Tot
+1999,38,DOLOSOS,Tlaxcala,Dec
+1999,19,DOLOSOS,Tlaxcala,Nov
+1999,15,DOLOSOS,Tlaxcala,Oct
+1999,18,DOLOSOS,Tlaxcala,Sep
+1999,9,DOLOSOS,Tlaxcala,Aug
+1999,5,DOLOSOS,Tlaxcala,Jul
+1999,27,DOLOSOS,Tlaxcala,Jun
+1999,10,DOLOSOS,Tlaxcala,May
+1999,6,DOLOSOS,Tlaxcala,Apr
+1999,6,DOLOSOS,Tlaxcala,Mar
+1999,5,DOLOSOS,Tlaxcala,Feb
+1999,5,DOLOSOS,Tlaxcala,Jan
+1999,253,DOLOSOS,Tamaulipas,Tot
+1999,21,DOLOSOS,Tamaulipas,Dec
+1999,15,DOLOSOS,Tamaulipas,Nov
+1999,28,DOLOSOS,Tamaulipas,Oct
+1999,18,DOLOSOS,Tamaulipas,Sep
+1999,21,DOLOSOS,Tamaulipas,Aug
+1999,20,DOLOSOS,Tamaulipas,Jul
+1999,23,DOLOSOS,Tamaulipas,Jun
+1999,25,DOLOSOS,Tamaulipas,May
+1999,22,DOLOSOS,Tamaulipas,Apr
+1999,23,DOLOSOS,Tamaulipas,Mar
+1999,16,DOLOSOS,Tamaulipas,Feb
+1999,21,DOLOSOS,Tamaulipas,Jan
+1999,229,DOLOSOS,Tabasco,Tot
+1999,16,DOLOSOS,Tabasco,Dec
+1999,12,DOLOSOS,Tabasco,Nov
+1999,11,DOLOSOS,Tabasco,Oct
+1999,20,DOLOSOS,Tabasco,Sep
+1999,27,DOLOSOS,Tabasco,Aug
+1999,23,DOLOSOS,Tabasco,Jul
+1999,22,DOLOSOS,Tabasco,Jun
+1999,26,DOLOSOS,Tabasco,May
+1999,21,DOLOSOS,Tabasco,Apr
+1999,24,DOLOSOS,Tabasco,Mar
+1999,14,DOLOSOS,Tabasco,Feb
+1999,13,DOLOSOS,Tabasco,Jan
+1999,292,DOLOSOS,Sonora,Tot
+1999,15,DOLOSOS,Sonora,Dec
+1999,15,DOLOSOS,Sonora,Nov
+1999,21,DOLOSOS,Sonora,Oct
+1999,32,DOLOSOS,Sonora,Sep
+1999,27,DOLOSOS,Sonora,Aug
+1999,20,DOLOSOS,Sonora,Jul
+1999,17,DOLOSOS,Sonora,Jun
+1999,30,DOLOSOS,Sonora,May
+1999,37,DOLOSOS,Sonora,Apr
+1999,22,DOLOSOS,Sonora,Mar
+1999,33,DOLOSOS,Sonora,Feb
+1999,23,DOLOSOS,Sonora,Jan
+1999,564,DOLOSOS,Sinaloa,Tot
+1999,51,DOLOSOS,Sinaloa,Dec
+1999,40,DOLOSOS,Sinaloa,Nov
+1999,46,DOLOSOS,Sinaloa,Oct
+1999,40,DOLOSOS,Sinaloa,Sep
+1999,43,DOLOSOS,Sinaloa,Aug
+1999,54,DOLOSOS,Sinaloa,Jul
+1999,44,DOLOSOS,Sinaloa,Jun
+1999,48,DOLOSOS,Sinaloa,May
+1999,43,DOLOSOS,Sinaloa,Apr
+1999,50,DOLOSOS,Sinaloa,Mar
+1999,45,DOLOSOS,Sinaloa,Feb
+1999,60,DOLOSOS,Sinaloa,Jan
+1999,414,DOLOSOS,"San Luis Potosi",Tot
+1999,31,DOLOSOS,"San Luis Potosi",Dec
+1999,29,DOLOSOS,"San Luis Potosi",Nov
+1999,40,DOLOSOS,"San Luis Potosi",Oct
+1999,47,DOLOSOS,"San Luis Potosi",Sep
+1999,28,DOLOSOS,"San Luis Potosi",Aug
+1999,22,DOLOSOS,"San Luis Potosi",Jul
+1999,36,DOLOSOS,"San Luis Potosi",Jun
+1999,53,DOLOSOS,"San Luis Potosi",May
+1999,27,DOLOSOS,"San Luis Potosi",Apr
+1999,37,DOLOSOS,"San Luis Potosi",Mar
+1999,29,DOLOSOS,"San Luis Potosi",Feb
+1999,35,DOLOSOS,"San Luis Potosi",Jan
+1999,123,DOLOSOS,"Quintana Roo",Tot
+1999,4,DOLOSOS,"Quintana Roo",Dec
+1999,9,DOLOSOS,"Quintana Roo",Nov
+1999,10,DOLOSOS,"Quintana Roo",Oct
+1999,7,DOLOSOS,"Quintana Roo",Sep
+1999,24,DOLOSOS,"Quintana Roo",Aug
+1999,13,DOLOSOS,"Quintana Roo",Jul
+1999,8,DOLOSOS,"Quintana Roo",Jun
+1999,12,DOLOSOS,"Quintana Roo",May
+1999,9,DOLOSOS,"Quintana Roo",Apr
+1999,13,DOLOSOS,"Quintana Roo",Mar
+1999,6,DOLOSOS,"Quintana Roo",Feb
+1999,8,DOLOSOS,"Quintana Roo",Jan
+1999,55,DOLOSOS,Queretaro,Tot
+1999,10,DOLOSOS,Queretaro,Dec
+1999,4,DOLOSOS,Queretaro,Nov
+1999,2,DOLOSOS,Queretaro,Oct
+1999,4,DOLOSOS,Queretaro,Sep
+1999,7,DOLOSOS,Queretaro,Aug
+1999,3,DOLOSOS,Queretaro,Jul
+1999,1,DOLOSOS,Queretaro,Jun
+1999,8,DOLOSOS,Queretaro,May
+1999,4,DOLOSOS,Queretaro,Apr
+1999,5,DOLOSOS,Queretaro,Mar
+1999,3,DOLOSOS,Queretaro,Feb
+1999,4,DOLOSOS,Queretaro,Jan
+1999,575,DOLOSOS,Puebla,Tot
+1999,49,DOLOSOS,Puebla,Dec
+1999,37,DOLOSOS,Puebla,Nov
+1999,60,DOLOSOS,Puebla,Oct
+1999,50,DOLOSOS,Puebla,Sep
+1999,45,DOLOSOS,Puebla,Aug
+1999,49,DOLOSOS,Puebla,Jul
+1999,53,DOLOSOS,Puebla,Jun
+1999,51,DOLOSOS,Puebla,May
+1999,51,DOLOSOS,Puebla,Apr
+1999,48,DOLOSOS,Puebla,Mar
+1999,37,DOLOSOS,Puebla,Feb
+1999,45,DOLOSOS,Puebla,Jan
+1999,823,DOLOSOS,Oaxaca,Tot
+1999,71,DOLOSOS,Oaxaca,Dec
+1999,59,DOLOSOS,Oaxaca,Nov
+1999,67,DOLOSOS,Oaxaca,Oct
+1999,87,DOLOSOS,Oaxaca,Sep
+1999,66,DOLOSOS,Oaxaca,Aug
+1999,62,DOLOSOS,Oaxaca,Jul
+1999,19,DOLOSOS,Oaxaca,Jun
+1999,35,DOLOSOS,Oaxaca,May
+1999,56,DOLOSOS,Oaxaca,Apr
+1999,79,DOLOSOS,Oaxaca,Mar
+1999,118,DOLOSOS,Oaxaca,Feb
+1999,104,DOLOSOS,Oaxaca,Jan
+1999,131,DOLOSOS,"Nuevo Leon",Tot
+1999,7,DOLOSOS,"Nuevo Leon",Dec
+1999,9,DOLOSOS,"Nuevo Leon",Nov
+1999,10,DOLOSOS,"Nuevo Leon",Oct
+1999,6,DOLOSOS,"Nuevo Leon",Sep
+1999,18,DOLOSOS,"Nuevo Leon",Aug
+1999,14,DOLOSOS,"Nuevo Leon",Jul
+1999,13,DOLOSOS,"Nuevo Leon",Jun
+1999,19,DOLOSOS,"Nuevo Leon",May
+1999,8,DOLOSOS,"Nuevo Leon",Apr
+1999,10,DOLOSOS,"Nuevo Leon",Mar
+1999,5,DOLOSOS,"Nuevo Leon",Feb
+1999,12,DOLOSOS,"Nuevo Leon",Jan
+1999,146,DOLOSOS,Nayarit,Tot
+1999,6,DOLOSOS,Nayarit,Dec
+1999,11,DOLOSOS,Nayarit,Nov
+1999,16,DOLOSOS,Nayarit,Oct
+1999,14,DOLOSOS,Nayarit,Sep
+1999,8,DOLOSOS,Nayarit,Aug
+1999,13,DOLOSOS,Nayarit,Jul
+1999,8,DOLOSOS,Nayarit,Jun
+1999,19,DOLOSOS,Nayarit,May
+1999,17,DOLOSOS,Nayarit,Apr
+1999,9,DOLOSOS,Nayarit,Mar
+1999,14,DOLOSOS,Nayarit,Feb
+1999,11,DOLOSOS,Nayarit,Jan
+1999,344,DOLOSOS,Morelos,Tot
+1999,38,DOLOSOS,Morelos,Dec
+1999,31,DOLOSOS,Morelos,Nov
+1999,23,DOLOSOS,Morelos,Oct
+1999,26,DOLOSOS,Morelos,Sep
+1999,27,DOLOSOS,Morelos,Aug
+1999,22,DOLOSOS,Morelos,Jul
+1999,34,DOLOSOS,Morelos,Jun
+1999,31,DOLOSOS,Morelos,May
+1999,34,DOLOSOS,Morelos,Apr
+1999,33,DOLOSOS,Morelos,Mar
+1999,26,DOLOSOS,Morelos,Feb
+1999,19,DOLOSOS,Morelos,Jan
+1999,575,DOLOSOS,Michoacan,Tot
+1999,44,DOLOSOS,Michoacan,Dec
+1999,50,DOLOSOS,Michoacan,Nov
+1999,40,DOLOSOS,Michoacan,Oct
+1999,45,DOLOSOS,Michoacan,Sep
+1999,49,DOLOSOS,Michoacan,Aug
+1999,46,DOLOSOS,Michoacan,Jul
+1999,45,DOLOSOS,Michoacan,Jun
+1999,56,DOLOSOS,Michoacan,May
+1999,46,DOLOSOS,Michoacan,Apr
+1999,68,DOLOSOS,Michoacan,Mar
+1999,38,DOLOSOS,Michoacan,Feb
+1999,48,DOLOSOS,Michoacan,Jan
+1999,2966,DOLOSOS,Mexico,Tot
+1999,223,DOLOSOS,Mexico,Dec
+1999,212,DOLOSOS,Mexico,Nov
+1999,245,DOLOSOS,Mexico,Oct
+1999,230,DOLOSOS,Mexico,Sep
+1999,242,DOLOSOS,Mexico,Aug
+1999,244,DOLOSOS,Mexico,Jul
+1999,206,DOLOSOS,Mexico,Jun
+1999,267,DOLOSOS,Mexico,May
+1999,258,DOLOSOS,Mexico,Apr
+1999,280,DOLOSOS,Mexico,Mar
+1999,306,DOLOSOS,Mexico,Feb
+1999,253,DOLOSOS,Mexico,Jan
+1999,545,DOLOSOS,Jalisco,Tot
+1999,45,DOLOSOS,Jalisco,Dec
+1999,41,DOLOSOS,Jalisco,Nov
+1999,40,DOLOSOS,Jalisco,Oct
+1999,37,DOLOSOS,Jalisco,Sep
+1999,35,DOLOSOS,Jalisco,Aug
+1999,43,DOLOSOS,Jalisco,Jul
+1999,55,DOLOSOS,Jalisco,Jun
+1999,51,DOLOSOS,Jalisco,May
+1999,39,DOLOSOS,Jalisco,Apr
+1999,56,DOLOSOS,Jalisco,Mar
+1999,35,DOLOSOS,Jalisco,Feb
+1999,68,DOLOSOS,Jalisco,Jan
+1999,199,DOLOSOS,Hidalgo,Tot
+1999,27,DOLOSOS,Hidalgo,Dec
+1999,18,DOLOSOS,Hidalgo,Nov
+1999,17,DOLOSOS,Hidalgo,Oct
+1999,13,DOLOSOS,Hidalgo,Sep
+1999,16,DOLOSOS,Hidalgo,Aug
+1999,22,DOLOSOS,Hidalgo,Jul
+1999,7,DOLOSOS,Hidalgo,Jun
+1999,13,DOLOSOS,Hidalgo,May
+1999,11,DOLOSOS,Hidalgo,Apr
+1999,20,DOLOSOS,Hidalgo,Mar
+1999,15,DOLOSOS,Hidalgo,Feb
+1999,20,DOLOSOS,Hidalgo,Jan
+1999,1242,DOLOSOS,Guerrero,Tot
+1999,172,DOLOSOS,Guerrero,Dec
+1999,155,DOLOSOS,Guerrero,Nov
+1999,132,DOLOSOS,Guerrero,Oct
+1999,128,DOLOSOS,Guerrero,Sep
+1999,120,DOLOSOS,Guerrero,Aug
+1999,86,DOLOSOS,Guerrero,Jul
+1999,90,DOLOSOS,Guerrero,Jun
+1999,89,DOLOSOS,Guerrero,May
+1999,63,DOLOSOS,Guerrero,Apr
+1999,82,DOLOSOS,Guerrero,Mar
+1999,71,DOLOSOS,Guerrero,Feb
+1999,54,DOLOSOS,Guerrero,Jan
+1999,259,DOLOSOS,Guanajuato,Tot
+1999,23,DOLOSOS,Guanajuato,Dec
+1999,23,DOLOSOS,Guanajuato,Nov
+1999,25,DOLOSOS,Guanajuato,Oct
+1999,20,DOLOSOS,Guanajuato,Sep
+1999,20,DOLOSOS,Guanajuato,Aug
+1999,25,DOLOSOS,Guanajuato,Jul
+1999,11,DOLOSOS,Guanajuato,Jun
+1999,26,DOLOSOS,Guanajuato,May
+1999,14,DOLOSOS,Guanajuato,Apr
+1999,23,DOLOSOS,Guanajuato,Mar
+1999,25,DOLOSOS,Guanajuato,Feb
+1999,24,DOLOSOS,Guanajuato,Jan
+1999,291,DOLOSOS,Durango,Tot
+1999,42,DOLOSOS,Durango,Dec
+1999,42,DOLOSOS,Durango,Nov
+1999,35,DOLOSOS,Durango,Oct
+1999,30,DOLOSOS,Durango,Sep
+1999,43,DOLOSOS,Durango,Aug
+1999,24,DOLOSOS,Durango,Jul
+1999,26,DOLOSOS,Durango,Jun
+1999,8,DOLOSOS,Durango,May
+1999,15,DOLOSOS,Durango,Apr
+1999,12,DOLOSOS,Durango,Mar
+1999,10,DOLOSOS,Durango,Feb
+1999,4,DOLOSOS,Durango,Jan
+1999,880,DOLOSOS,"Distrito Federal",Tot
+1999,96,DOLOSOS,"Distrito Federal",Dec
+1999,73,DOLOSOS,"Distrito Federal",Nov
+1999,74,DOLOSOS,"Distrito Federal",Oct
+1999,80,DOLOSOS,"Distrito Federal",Sep
+1999,61,DOLOSOS,"Distrito Federal",Aug
+1999,75,DOLOSOS,"Distrito Federal",Jul
+1999,63,DOLOSOS,"Distrito Federal",Jun
+1999,74,DOLOSOS,"Distrito Federal",May
+1999,67,DOLOSOS,"Distrito Federal",Apr
+1999,71,DOLOSOS,"Distrito Federal",Mar
+1999,81,DOLOSOS,"Distrito Federal",Feb
+1999,65,DOLOSOS,"Distrito Federal",Jan
+1999,425,DOLOSOS,Chihuahua,Tot
+1999,41,DOLOSOS,Chihuahua,Dec
+1999,42,DOLOSOS,Chihuahua,Nov
+1999,31,DOLOSOS,Chihuahua,Oct
+1999,38,DOLOSOS,Chihuahua,Sep
+1999,33,DOLOSOS,Chihuahua,Aug
+1999,30,DOLOSOS,Chihuahua,Jul
+1999,31,DOLOSOS,Chihuahua,Jun
+1999,43,DOLOSOS,Chihuahua,May
+1999,34,DOLOSOS,Chihuahua,Apr
+1999,36,DOLOSOS,Chihuahua,Mar
+1999,33,DOLOSOS,Chihuahua,Feb
+1999,33,DOLOSOS,Chihuahua,Jan
+1999,1452,DOLOSOS,Chiapas,Tot
+1999,86,DOLOSOS,Chiapas,Dec
+1999,102,DOLOSOS,Chiapas,Nov
+1999,127,DOLOSOS,Chiapas,Oct
+1999,92,DOLOSOS,Chiapas,Sep
+1999,123,DOLOSOS,Chiapas,Aug
+1999,141,DOLOSOS,Chiapas,Jul
+1999,176,DOLOSOS,Chiapas,Jun
+1999,120,DOLOSOS,Chiapas,May
+1999,131,DOLOSOS,Chiapas,Apr
+1999,121,DOLOSOS,Chiapas,Mar
+1999,107,DOLOSOS,Chiapas,Feb
+1999,126,DOLOSOS,Chiapas,Jan
+1999,53,DOLOSOS,Colima,Tot
+1999,4,DOLOSOS,Colima,Dec
+1999,5,DOLOSOS,Colima,Nov
+1999,3,DOLOSOS,Colima,Oct
+1999,1,DOLOSOS,Colima,Sep
+1999,4,DOLOSOS,Colima,Aug
+1999,4,DOLOSOS,Colima,Jul
+1999,7,DOLOSOS,Colima,Jun
+1999,5,DOLOSOS,Colima,May
+1999,7,DOLOSOS,Colima,Apr
+1999,7,DOLOSOS,Colima,Mar
+1999,4,DOLOSOS,Colima,Feb
+1999,2,DOLOSOS,Colima,Jan
+1999,139,DOLOSOS,Coahuila,Tot
+1999,14,DOLOSOS,Coahuila,Dec
+1999,11,DOLOSOS,Coahuila,Nov
+1999,11,DOLOSOS,Coahuila,Oct
+1999,15,DOLOSOS,Coahuila,Sep
+1999,16,DOLOSOS,Coahuila,Aug
+1999,13,DOLOSOS,Coahuila,Jul
+1999,7,DOLOSOS,Coahuila,Jun
+1999,10,DOLOSOS,Coahuila,May
+1999,6,DOLOSOS,Coahuila,Apr
+1999,9,DOLOSOS,Coahuila,Mar
+1999,13,DOLOSOS,Coahuila,Feb
+1999,14,DOLOSOS,Coahuila,Jan
+1999,78,DOLOSOS,Campeche,Tot
+1999,5,DOLOSOS,Campeche,Dec
+1999,3,DOLOSOS,Campeche,Nov
+1999,5,DOLOSOS,Campeche,Oct
+1999,6,DOLOSOS,Campeche,Sep
+1999,6,DOLOSOS,Campeche,Aug
+1999,10,DOLOSOS,Campeche,Jul
+1999,5,DOLOSOS,Campeche,Jun
+1999,7,DOLOSOS,Campeche,May
+1999,12,DOLOSOS,Campeche,Apr
+1999,6,DOLOSOS,Campeche,Mar
+1999,6,DOLOSOS,Campeche,Feb
+1999,7,DOLOSOS,Campeche,Jan
+1999,31,DOLOSOS,"Baja California Sur",Tot
+1999,3,DOLOSOS,"Baja California Sur",Dec
+1999,1,DOLOSOS,"Baja California Sur",Nov
+1999,0,DOLOSOS,"Baja California Sur",Oct
+1999,2,DOLOSOS,"Baja California Sur",Sep
+1999,2,DOLOSOS,"Baja California Sur",Aug
+1999,3,DOLOSOS,"Baja California Sur",Jul
+1999,2,DOLOSOS,"Baja California Sur",Jun
+1999,9,DOLOSOS,"Baja California Sur",May
+1999,4,DOLOSOS,"Baja California Sur",Apr
+1999,2,DOLOSOS,"Baja California Sur",Mar
+1999,1,DOLOSOS,"Baja California Sur",Feb
+1999,2,DOLOSOS,"Baja California Sur",Jan
+1999,657,DOLOSOS,"Baja California",Tot
+1999,56,DOLOSOS,"Baja California",Dec
+1999,43,DOLOSOS,"Baja California",Nov
+1999,59,DOLOSOS,"Baja California",Oct
+1999,47,DOLOSOS,"Baja California",Sep
+1999,76,DOLOSOS,"Baja California",Aug
+1999,55,DOLOSOS,"Baja California",Jul
+1999,52,DOLOSOS,"Baja California",Jun
+1999,64,DOLOSOS,"Baja California",May
+1999,46,DOLOSOS,"Baja California",Apr
+1999,51,DOLOSOS,"Baja California",Mar
+1999,49,DOLOSOS,"Baja California",Feb
+1999,59,DOLOSOS,"Baja California",Jan
+1999,27,DOLOSOS,Aguascalientes,Tot
+1999,1,DOLOSOS,Aguascalientes,Dec
+1999,2,DOLOSOS,Aguascalientes,Nov
+1999,1,DOLOSOS,Aguascalientes,Oct
+1999,3,DOLOSOS,Aguascalientes,Sep
+1999,6,DOLOSOS,Aguascalientes,Aug
+1999,1,DOLOSOS,Aguascalientes,Jul
+1999,1,DOLOSOS,Aguascalientes,Jun
+1999,2,DOLOSOS,Aguascalientes,May
+1999,2,DOLOSOS,Aguascalientes,Apr
+1999,3,DOLOSOS,Aguascalientes,Mar
+1999,1,DOLOSOS,Aguascalientes,Feb
+1999,4,DOLOSOS,Aguascalientes,Jan
+1999,14619,DOLOSOS,National,Tot
+1999,1291,DOLOSOS,National,Dec
+1999,1159,DOLOSOS,National,Nov
+1999,1254,DOLOSOS,National,Oct
+1999,1212,DOLOSOS,National,Sep
+1999,1262,DOLOSOS,National,Aug
+1999,1192,DOLOSOS,National,Jul
+1999,1146,DOLOSOS,National,Jun
+1999,1271,DOLOSOS,National,May
+1999,1152,DOLOSOS,National,Apr
+1999,1268,DOLOSOS,National,Mar
+1999,1209,DOLOSOS,National,Feb
+1999,1203,DOLOSOS,National,Jan
+1998,316,DOLOSOS,Zacatecas,Tot
+1998,19,DOLOSOS,Zacatecas,Dec
+1998,22,DOLOSOS,Zacatecas,Nov
+1998,28,DOLOSOS,Zacatecas,Oct
+1998,15,DOLOSOS,Zacatecas,Sep
+1998,29,DOLOSOS,Zacatecas,Aug
+1998,20,DOLOSOS,Zacatecas,Jul
+1998,18,DOLOSOS,Zacatecas,Jun
+1998,27,DOLOSOS,Zacatecas,May
+1998,30,DOLOSOS,Zacatecas,Apr
+1998,27,DOLOSOS,Zacatecas,Mar
+1998,30,DOLOSOS,Zacatecas,Feb
+1998,51,DOLOSOS,Zacatecas,Jan
+1998,23,DOLOSOS,Yucatan,Tot
+1998,2,DOLOSOS,Yucatan,Dec
+1998,0,DOLOSOS,Yucatan,Nov
+1998,3,DOLOSOS,Yucatan,Oct
+1998,0,DOLOSOS,Yucatan,Sep
+1998,3,DOLOSOS,Yucatan,Aug
+1998,2,DOLOSOS,Yucatan,Jul
+1998,3,DOLOSOS,Yucatan,Jun
+1998,1,DOLOSOS,Yucatan,May
+1998,3,DOLOSOS,Yucatan,Apr
+1998,2,DOLOSOS,Yucatan,Mar
+1998,2,DOLOSOS,Yucatan,Feb
+1998,2,DOLOSOS,Yucatan,Jan
+1998,707,DOLOSOS,Veracruz,Tot
+1998,68,DOLOSOS,Veracruz,Dec
+1998,64,DOLOSOS,Veracruz,Nov
+1998,41,DOLOSOS,Veracruz,Oct
+1998,61,DOLOSOS,Veracruz,Sep
+1998,64,DOLOSOS,Veracruz,Aug
+1998,57,DOLOSOS,Veracruz,Jul
+1998,44,DOLOSOS,Veracruz,Jun
+1998,78,DOLOSOS,Veracruz,May
+1998,62,DOLOSOS,Veracruz,Apr
+1998,59,DOLOSOS,Veracruz,Mar
+1998,43,DOLOSOS,Veracruz,Feb
+1998,66,DOLOSOS,Veracruz,Jan
+1998,49,DOLOSOS,Tlaxcala,Tot
+1998,5,DOLOSOS,Tlaxcala,Dec
+1998,9,DOLOSOS,Tlaxcala,Nov
+1998,6,DOLOSOS,Tlaxcala,Oct
+1998,5,DOLOSOS,Tlaxcala,Sep
+1998,2,DOLOSOS,Tlaxcala,Aug
+1998,5,DOLOSOS,Tlaxcala,Jul
+1998,5,DOLOSOS,Tlaxcala,Jun
+1998,3,DOLOSOS,Tlaxcala,May
+1998,3,DOLOSOS,Tlaxcala,Apr
+1998,3,DOLOSOS,Tlaxcala,Mar
+1998,1,DOLOSOS,Tlaxcala,Feb
+1998,2,DOLOSOS,Tlaxcala,Jan
+1998,428,DOLOSOS,Tamaulipas,Tot
+1998,40,DOLOSOS,Tamaulipas,Dec
+1998,26,DOLOSOS,Tamaulipas,Nov
+1998,31,DOLOSOS,Tamaulipas,Oct
+1998,34,DOLOSOS,Tamaulipas,Sep
+1998,35,DOLOSOS,Tamaulipas,Aug
+1998,43,DOLOSOS,Tamaulipas,Jul
+1998,49,DOLOSOS,Tamaulipas,Jun
+1998,50,DOLOSOS,Tamaulipas,May
+1998,36,DOLOSOS,Tamaulipas,Apr
+1998,22,DOLOSOS,Tamaulipas,Mar
+1998,29,DOLOSOS,Tamaulipas,Feb
+1998,33,DOLOSOS,Tamaulipas,Jan
+1998,368,DOLOSOS,Tabasco,Tot
+1998,27,DOLOSOS,Tabasco,Dec
+1998,20,DOLOSOS,Tabasco,Nov
+1998,18,DOLOSOS,Tabasco,Oct
+1998,35,DOLOSOS,Tabasco,Sep
+1998,32,DOLOSOS,Tabasco,Aug
+1998,24,DOLOSOS,Tabasco,Jul
+1998,41,DOLOSOS,Tabasco,Jun
+1998,31,DOLOSOS,Tabasco,May
+1998,32,DOLOSOS,Tabasco,Apr
+1998,40,DOLOSOS,Tabasco,Mar
+1998,29,DOLOSOS,Tabasco,Feb
+1998,39,DOLOSOS,Tabasco,Jan
+1998,555,DOLOSOS,Sonora,Tot
+1998,30,DOLOSOS,Sonora,Dec
+1998,42,DOLOSOS,Sonora,Nov
+1998,46,DOLOSOS,Sonora,Oct
+1998,41,DOLOSOS,Sonora,Sep
+1998,53,DOLOSOS,Sonora,Aug
+1998,67,DOLOSOS,Sonora,Jul
+1998,53,DOLOSOS,Sonora,Jun
+1998,52,DOLOSOS,Sonora,May
+1998,48,DOLOSOS,Sonora,Apr
+1998,47,DOLOSOS,Sonora,Mar
+1998,39,DOLOSOS,Sonora,Feb
+1998,37,DOLOSOS,Sonora,Jan
+1998,643,DOLOSOS,Sinaloa,Tot
+1998,55,DOLOSOS,Sinaloa,Dec
+1998,64,DOLOSOS,Sinaloa,Nov
+1998,49,DOLOSOS,Sinaloa,Oct
+1998,60,DOLOSOS,Sinaloa,Sep
+1998,35,DOLOSOS,Sinaloa,Aug
+1998,60,DOLOSOS,Sinaloa,Jul
+1998,51,DOLOSOS,Sinaloa,Jun
+1998,44,DOLOSOS,Sinaloa,May
+1998,47,DOLOSOS,Sinaloa,Apr
+1998,63,DOLOSOS,Sinaloa,Mar
+1998,57,DOLOSOS,Sinaloa,Feb
+1998,58,DOLOSOS,Sinaloa,Jan
+1998,297,DOLOSOS,"San Luis Potosi",Tot
+1998,30,DOLOSOS,"San Luis Potosi",Dec
+1998,26,DOLOSOS,"San Luis Potosi",Nov
+1998,57,DOLOSOS,"San Luis Potosi",Oct
+1998,16,DOLOSOS,"San Luis Potosi",Sep
+1998,18,DOLOSOS,"San Luis Potosi",Aug
+1998,20,DOLOSOS,"San Luis Potosi",Jul
+1998,16,DOLOSOS,"San Luis Potosi",Jun
+1998,24,DOLOSOS,"San Luis Potosi",May
+1998,25,DOLOSOS,"San Luis Potosi",Apr
+1998,21,DOLOSOS,"San Luis Potosi",Mar
+1998,21,DOLOSOS,"San Luis Potosi",Feb
+1998,23,DOLOSOS,"San Luis Potosi",Jan
+1998,117,DOLOSOS,"Quintana Roo",Tot
+1998,13,DOLOSOS,"Quintana Roo",Dec
+1998,2,DOLOSOS,"Quintana Roo",Nov
+1998,12,DOLOSOS,"Quintana Roo",Oct
+1998,11,DOLOSOS,"Quintana Roo",Sep
+1998,9,DOLOSOS,"Quintana Roo",Aug
+1998,13,DOLOSOS,"Quintana Roo",Jul
+1998,8,DOLOSOS,"Quintana Roo",Jun
+1998,5,DOLOSOS,"Quintana Roo",May
+1998,6,DOLOSOS,"Quintana Roo",Apr
+1998,20,DOLOSOS,"Quintana Roo",Mar
+1998,10,DOLOSOS,"Quintana Roo",Feb
+1998,8,DOLOSOS,"Quintana Roo",Jan
+1998,39,DOLOSOS,Queretaro,Tot
+1998,2,DOLOSOS,Queretaro,Dec
+1998,4,DOLOSOS,Queretaro,Nov
+1998,4,DOLOSOS,Queretaro,Oct
+1998,2,DOLOSOS,Queretaro,Sep
+1998,1,DOLOSOS,Queretaro,Aug
+1998,5,DOLOSOS,Queretaro,Jul
+1998,2,DOLOSOS,Queretaro,Jun
+1998,5,DOLOSOS,Queretaro,May
+1998,5,DOLOSOS,Queretaro,Apr
+1998,2,DOLOSOS,Queretaro,Mar
+1998,3,DOLOSOS,Queretaro,Feb
+1998,4,DOLOSOS,Queretaro,Jan
+1998,675,DOLOSOS,Puebla,Tot
+1998,61,DOLOSOS,Puebla,Dec
+1998,44,DOLOSOS,Puebla,Nov
+1998,41,DOLOSOS,Puebla,Oct
+1998,41,DOLOSOS,Puebla,Sep
+1998,48,DOLOSOS,Puebla,Aug
+1998,57,DOLOSOS,Puebla,Jul
+1998,65,DOLOSOS,Puebla,Jun
+1998,76,DOLOSOS,Puebla,May
+1998,74,DOLOSOS,Puebla,Apr
+1998,62,DOLOSOS,Puebla,Mar
+1998,43,DOLOSOS,Puebla,Feb
+1998,63,DOLOSOS,Puebla,Jan
+1998,14,DOLOSOS,Oaxaca,Tot
+1998,0,DOLOSOS,Oaxaca,Dec
+1998,0,DOLOSOS,Oaxaca,Nov
+1998,0,DOLOSOS,Oaxaca,Oct
+1998,3,DOLOSOS,Oaxaca,Sep
+1998,0,DOLOSOS,Oaxaca,Aug
+1998,3,DOLOSOS,Oaxaca,Jul
+1998,2,DOLOSOS,Oaxaca,Jun
+1998,2,DOLOSOS,Oaxaca,May
+1998,0,DOLOSOS,Oaxaca,Apr
+1998,1,DOLOSOS,Oaxaca,Mar
+1998,1,DOLOSOS,Oaxaca,Feb
+1998,2,DOLOSOS,Oaxaca,Jan
+1998,160,DOLOSOS,"Nuevo Leon",Tot
+1998,9,DOLOSOS,"Nuevo Leon",Dec
+1998,14,DOLOSOS,"Nuevo Leon",Nov
+1998,14,DOLOSOS,"Nuevo Leon",Oct
+1998,20,DOLOSOS,"Nuevo Leon",Sep
+1998,15,DOLOSOS,"Nuevo Leon",Aug
+1998,11,DOLOSOS,"Nuevo Leon",Jul
+1998,12,DOLOSOS,"Nuevo Leon",Jun
+1998,17,DOLOSOS,"Nuevo Leon",May
+1998,9,DOLOSOS,"Nuevo Leon",Apr
+1998,12,DOLOSOS,"Nuevo Leon",Mar
+1998,14,DOLOSOS,"Nuevo Leon",Feb
+1998,13,DOLOSOS,"Nuevo Leon",Jan
+1998,165,DOLOSOS,Nayarit,Tot
+1998,12,DOLOSOS,Nayarit,Dec
+1998,16,DOLOSOS,Nayarit,Nov
+1998,11,DOLOSOS,Nayarit,Oct
+1998,11,DOLOSOS,Nayarit,Sep
+1998,13,DOLOSOS,Nayarit,Aug
+1998,16,DOLOSOS,Nayarit,Jul
+1998,10,DOLOSOS,Nayarit,Jun
+1998,22,DOLOSOS,Nayarit,May
+1998,15,DOLOSOS,Nayarit,Apr
+1998,12,DOLOSOS,Nayarit,Mar
+1998,10,DOLOSOS,Nayarit,Feb
+1998,17,DOLOSOS,Nayarit,Jan
+1998,216,DOLOSOS,Morelos,Tot
+1998,34,DOLOSOS,Morelos,Dec
+1998,21,DOLOSOS,Morelos,Nov
+1998,14,DOLOSOS,Morelos,Oct
+1998,13,DOLOSOS,Morelos,Sep
+1998,23,DOLOSOS,Morelos,Aug
+1998,10,DOLOSOS,Morelos,Jul
+1998,25,DOLOSOS,Morelos,Jun
+1998,23,DOLOSOS,Morelos,May
+1998,17,DOLOSOS,Morelos,Apr
+1998,21,DOLOSOS,Morelos,Mar
+1998,6,DOLOSOS,Morelos,Feb
+1998,9,DOLOSOS,Morelos,Jan
+1998,1022,DOLOSOS,Michoacan,Tot
+1998,63,DOLOSOS,Michoacan,Dec
+1998,75,DOLOSOS,Michoacan,Nov
+1998,65,DOLOSOS,Michoacan,Oct
+1998,65,DOLOSOS,Michoacan,Sep
+1998,59,DOLOSOS,Michoacan,Aug
+1998,59,DOLOSOS,Michoacan,Jul
+1998,103,DOLOSOS,Michoacan,Jun
+1998,106,DOLOSOS,Michoacan,May
+1998,121,DOLOSOS,Michoacan,Apr
+1998,117,DOLOSOS,Michoacan,Mar
+1998,86,DOLOSOS,Michoacan,Feb
+1998,103,DOLOSOS,Michoacan,Jan
+1998,2221,DOLOSOS,Mexico,Tot
+1998,0,DOLOSOS,Mexico,Dec
+1998,0,DOLOSOS,Mexico,Nov
+1998,0,DOLOSOS,Mexico,Oct
+1998,250,DOLOSOS,Mexico,Sep
+1998,255,DOLOSOS,Mexico,Aug
+1998,247,DOLOSOS,Mexico,Jul
+1998,238,DOLOSOS,Mexico,Jun
+1998,259,DOLOSOS,Mexico,May
+1998,249,DOLOSOS,Mexico,Apr
+1998,266,DOLOSOS,Mexico,Mar
+1998,229,DOLOSOS,Mexico,Feb
+1998,228,DOLOSOS,Mexico,Jan
+1998,604,DOLOSOS,Jalisco,Tot
+1998,45,DOLOSOS,Jalisco,Dec
+1998,67,DOLOSOS,Jalisco,Nov
+1998,56,DOLOSOS,Jalisco,Oct
+1998,60,DOLOSOS,Jalisco,Sep
+1998,48,DOLOSOS,Jalisco,Aug
+1998,40,DOLOSOS,Jalisco,Jul
+1998,63,DOLOSOS,Jalisco,Jun
+1998,50,DOLOSOS,Jalisco,May
+1998,52,DOLOSOS,Jalisco,Apr
+1998,43,DOLOSOS,Jalisco,Mar
+1998,28,DOLOSOS,Jalisco,Feb
+1998,52,DOLOSOS,Jalisco,Jan
+1998,250,DOLOSOS,Hidalgo,Tot
+1998,32,DOLOSOS,Hidalgo,Dec
+1998,25,DOLOSOS,Hidalgo,Nov
+1998,13,DOLOSOS,Hidalgo,Oct
+1998,19,DOLOSOS,Hidalgo,Sep
+1998,14,DOLOSOS,Hidalgo,Aug
+1998,18,DOLOSOS,Hidalgo,Jul
+1998,13,DOLOSOS,Hidalgo,Jun
+1998,18,DOLOSOS,Hidalgo,May
+1998,15,DOLOSOS,Hidalgo,Apr
+1998,33,DOLOSOS,Hidalgo,Mar
+1998,29,DOLOSOS,Hidalgo,Feb
+1998,21,DOLOSOS,Hidalgo,Jan
+1998,1306,DOLOSOS,Guerrero,Tot
+1998,60,DOLOSOS,Guerrero,Dec
+1998,73,DOLOSOS,Guerrero,Nov
+1998,105,DOLOSOS,Guerrero,Oct
+1998,69,DOLOSOS,Guerrero,Sep
+1998,110,DOLOSOS,Guerrero,Aug
+1998,114,DOLOSOS,Guerrero,Jul
+1998,136,DOLOSOS,Guerrero,Jun
+1998,153,DOLOSOS,Guerrero,May
+1998,127,DOLOSOS,Guerrero,Apr
+1998,144,DOLOSOS,Guerrero,Mar
+1998,123,DOLOSOS,Guerrero,Feb
+1998,92,DOLOSOS,Guerrero,Jan
+1998,230,DOLOSOS,Guanajuato,Tot
+1998,14,DOLOSOS,Guanajuato,Dec
+1998,3,DOLOSOS,Guanajuato,Nov
+1998,8,DOLOSOS,Guanajuato,Oct
+1998,34,DOLOSOS,Guanajuato,Sep
+1998,24,DOLOSOS,Guanajuato,Aug
+1998,27,DOLOSOS,Guanajuato,Jul
+1998,29,DOLOSOS,Guanajuato,Jun
+1998,5,DOLOSOS,Guanajuato,May
+1998,8,DOLOSOS,Guanajuato,Apr
+1998,16,DOLOSOS,Guanajuato,Mar
+1998,22,DOLOSOS,Guanajuato,Feb
+1998,40,DOLOSOS,Guanajuato,Jan
+1998,134,DOLOSOS,Durango,Tot
+1998,21,DOLOSOS,Durango,Dec
+1998,17,DOLOSOS,Durango,Nov
+1998,8,DOLOSOS,Durango,Oct
+1998,11,DOLOSOS,Durango,Sep
+1998,8,DOLOSOS,Durango,Aug
+1998,7,DOLOSOS,Durango,Jul
+1998,4,DOLOSOS,Durango,Jun
+1998,13,DOLOSOS,Durango,May
+1998,12,DOLOSOS,Durango,Apr
+1998,10,DOLOSOS,Durango,Mar
+1998,8,DOLOSOS,Durango,Feb
+1998,15,DOLOSOS,Durango,Jan
+1998,947,DOLOSOS,"Distrito Federal",Tot
+1998,101,DOLOSOS,"Distrito Federal",Dec
+1998,62,DOLOSOS,"Distrito Federal",Nov
+1998,85,DOLOSOS,"Distrito Federal",Oct
+1998,86,DOLOSOS,"Distrito Federal",Sep
+1998,68,DOLOSOS,"Distrito Federal",Aug
+1998,83,DOLOSOS,"Distrito Federal",Jul
+1998,65,DOLOSOS,"Distrito Federal",Jun
+1998,88,DOLOSOS,"Distrito Federal",May
+1998,88,DOLOSOS,"Distrito Federal",Apr
+1998,85,DOLOSOS,"Distrito Federal",Mar
+1998,75,DOLOSOS,"Distrito Federal",Feb
+1998,61,DOLOSOS,"Distrito Federal",Jan
+1998,584,DOLOSOS,Chihuahua,Tot
+1998,59,DOLOSOS,Chihuahua,Dec
+1998,55,DOLOSOS,Chihuahua,Nov
+1998,52,DOLOSOS,Chihuahua,Oct
+1998,63,DOLOSOS,Chihuahua,Sep
+1998,59,DOLOSOS,Chihuahua,Aug
+1998,48,DOLOSOS,Chihuahua,Jul
+1998,56,DOLOSOS,Chihuahua,Jun
+1998,36,DOLOSOS,Chihuahua,May
+1998,53,DOLOSOS,Chihuahua,Apr
+1998,59,DOLOSOS,Chihuahua,Mar
+1998,21,DOLOSOS,Chihuahua,Feb
+1998,23,DOLOSOS,Chihuahua,Jan
+1998,1399,DOLOSOS,Chiapas,Tot
+1998,24,DOLOSOS,Chiapas,Dec
+1998,37,DOLOSOS,Chiapas,Nov
+1998,100,DOLOSOS,Chiapas,Oct
+1998,42,DOLOSOS,Chiapas,Sep
+1998,32,DOLOSOS,Chiapas,Aug
+1998,80,DOLOSOS,Chiapas,Jul
+1998,148,DOLOSOS,Chiapas,Jun
+1998,180,DOLOSOS,Chiapas,May
+1998,183,DOLOSOS,Chiapas,Apr
+1998,203,DOLOSOS,Chiapas,Mar
+1998,173,DOLOSOS,Chiapas,Feb
+1998,197,DOLOSOS,Chiapas,Jan
+1998,89,DOLOSOS,Colima,Tot
+1998,11,DOLOSOS,Colima,Dec
+1998,7,DOLOSOS,Colima,Nov
+1998,8,DOLOSOS,Colima,Oct
+1998,6,DOLOSOS,Colima,Sep
+1998,3,DOLOSOS,Colima,Aug
+1998,8,DOLOSOS,Colima,Jul
+1998,11,DOLOSOS,Colima,Jun
+1998,8,DOLOSOS,Colima,May
+1998,7,DOLOSOS,Colima,Apr
+1998,5,DOLOSOS,Colima,Mar
+1998,7,DOLOSOS,Colima,Feb
+1998,8,DOLOSOS,Colima,Jan
+1998,165,DOLOSOS,Coahuila,Tot
+1998,14,DOLOSOS,Coahuila,Dec
+1998,10,DOLOSOS,Coahuila,Nov
+1998,17,DOLOSOS,Coahuila,Oct
+1998,18,DOLOSOS,Coahuila,Sep
+1998,12,DOLOSOS,Coahuila,Aug
+1998,26,DOLOSOS,Coahuila,Jul
+1998,14,DOLOSOS,Coahuila,Jun
+1998,11,DOLOSOS,Coahuila,May
+1998,19,DOLOSOS,Coahuila,Apr
+1998,6,DOLOSOS,Coahuila,Mar
+1998,8,DOLOSOS,Coahuila,Feb
+1998,10,DOLOSOS,Coahuila,Jan
+1998,117,DOLOSOS,Campeche,Tot
+1998,13,DOLOSOS,Campeche,Dec
+1998,2,DOLOSOS,Campeche,Nov
+1998,12,DOLOSOS,Campeche,Oct
+1998,11,DOLOSOS,Campeche,Sep
+1998,9,DOLOSOS,Campeche,Aug
+1998,13,DOLOSOS,Campeche,Jul
+1998,8,DOLOSOS,Campeche,Jun
+1998,5,DOLOSOS,Campeche,May
+1998,6,DOLOSOS,Campeche,Apr
+1998,20,DOLOSOS,Campeche,Mar
+1998,10,DOLOSOS,Campeche,Feb
+1998,8,DOLOSOS,Campeche,Jan
+1998,18,DOLOSOS,"Baja California Sur",Tot
+1998,0,DOLOSOS,"Baja California Sur",Dec
+1998,1,DOLOSOS,"Baja California Sur",Nov
+1998,3,DOLOSOS,"Baja California Sur",Oct
+1998,1,DOLOSOS,"Baja California Sur",Sep
+1998,1,DOLOSOS,"Baja California Sur",Aug
+1998,1,DOLOSOS,"Baja California Sur",Jul
+1998,3,DOLOSOS,"Baja California Sur",Jun
+1998,1,DOLOSOS,"Baja California Sur",May
+1998,0,DOLOSOS,"Baja California Sur",Apr
+1998,3,DOLOSOS,"Baja California Sur",Mar
+1998,2,DOLOSOS,"Baja California Sur",Feb
+1998,2,DOLOSOS,"Baja California Sur",Jan
+1998,292,DOLOSOS,"Baja California",Tot
+1998,20,DOLOSOS,"Baja California",Dec
+1998,26,DOLOSOS,"Baja California",Nov
+1998,29,DOLOSOS,"Baja California",Oct
+1998,35,DOLOSOS,"Baja California",Sep
+1998,24,DOLOSOS,"Baja California",Aug
+1998,28,DOLOSOS,"Baja California",Jul
+1998,25,DOLOSOS,"Baja California",Jun
+1998,24,DOLOSOS,"Baja California",May
+1998,23,DOLOSOS,"Baja California",Apr
+1998,13,DOLOSOS,"Baja California",Mar
+1998,22,DOLOSOS,"Baja California",Feb
+1998,23,DOLOSOS,"Baja California",Jan
+1998,66,DOLOSOS,Aguascalientes,Tot
+1998,2,DOLOSOS,Aguascalientes,Dec
+1998,3,DOLOSOS,Aguascalientes,Nov
+1998,2,DOLOSOS,Aguascalientes,Oct
+1998,11,DOLOSOS,Aguascalientes,Sep
+1998,10,DOLOSOS,Aguascalientes,Aug
+1998,3,DOLOSOS,Aguascalientes,Jul
+1998,3,DOLOSOS,Aguascalientes,Jun
+1998,6,DOLOSOS,Aguascalientes,May
+1998,4,DOLOSOS,Aguascalientes,Apr
+1998,10,DOLOSOS,Aguascalientes,Mar
+1998,8,DOLOSOS,Aguascalientes,Feb
+1998,4,DOLOSOS,Aguascalientes,Jan
+1998,14216,DOLOSOS,National,Tot
+1998,886,DOLOSOS,National,Dec
+1998,837,DOLOSOS,National,Nov
+1998,938,DOLOSOS,National,Oct
+1998,1149,DOLOSOS,National,Sep
+1998,1116,DOLOSOS,National,Aug
+1998,1215,DOLOSOS,National,Jul
+1998,1323,DOLOSOS,National,Jun
+1998,1423,DOLOSOS,National,May
+1998,1379,DOLOSOS,National,Apr
+1998,1447,DOLOSOS,National,Mar
+1998,1189,DOLOSOS,National,Feb
+1998,1314,DOLOSOS,National,Jan
+1997,113,DOLOSOS,Zacatecas,Tot
+1997,12,DOLOSOS,Zacatecas,Dec
+1997,8,DOLOSOS,Zacatecas,Nov
+1997,6,DOLOSOS,Zacatecas,Oct
+1997,7,DOLOSOS,Zacatecas,Sep
+1997,9,DOLOSOS,Zacatecas,Aug
+1997,4,DOLOSOS,Zacatecas,Jul
+1997,10,DOLOSOS,Zacatecas,Jun
+1997,10,DOLOSOS,Zacatecas,May
+1997,11,DOLOSOS,Zacatecas,Apr
+1997,10,DOLOSOS,Zacatecas,Mar
+1997,10,DOLOSOS,Zacatecas,Feb
+1997,16,DOLOSOS,Zacatecas,Jan
+1997,110,DOLOSOS,Yucatan,Tot
+1997,6,DOLOSOS,Yucatan,Dec
+1997,2,DOLOSOS,Yucatan,Nov
+1997,1,DOLOSOS,Yucatan,Oct
+1997,1,DOLOSOS,Yucatan,Sep
+1997,49,DOLOSOS,Yucatan,Aug
+1997,0,DOLOSOS,Yucatan,Jul
+1997,47,DOLOSOS,Yucatan,Jun
+1997,2,DOLOSOS,Yucatan,May
+1997,2,DOLOSOS,Yucatan,Apr
+1997,0,DOLOSOS,Yucatan,Mar
+1997,0,DOLOSOS,Yucatan,Feb
+1997,0,DOLOSOS,Yucatan,Jan
+1997,722,DOLOSOS,Veracruz,Tot
+1997,62,DOLOSOS,Veracruz,Dec
+1997,66,DOLOSOS,Veracruz,Nov
+1997,48,DOLOSOS,Veracruz,Oct
+1997,53,DOLOSOS,Veracruz,Sep
+1997,57,DOLOSOS,Veracruz,Aug
+1997,65,DOLOSOS,Veracruz,Jul
+1997,56,DOLOSOS,Veracruz,Jun
+1997,64,DOLOSOS,Veracruz,May
+1997,65,DOLOSOS,Veracruz,Apr
+1997,80,DOLOSOS,Veracruz,Mar
+1997,58,DOLOSOS,Veracruz,Feb
+1997,48,DOLOSOS,Veracruz,Jan
+1997,63,DOLOSOS,Tlaxcala,Tot
+1997,3,DOLOSOS,Tlaxcala,Dec
+1997,1,DOLOSOS,Tlaxcala,Nov
+1997,9,DOLOSOS,Tlaxcala,Oct
+1997,5,DOLOSOS,Tlaxcala,Sep
+1997,6,DOLOSOS,Tlaxcala,Aug
+1997,2,DOLOSOS,Tlaxcala,Jul
+1997,5,DOLOSOS,Tlaxcala,Jun
+1997,6,DOLOSOS,Tlaxcala,May
+1997,5,DOLOSOS,Tlaxcala,Apr
+1997,8,DOLOSOS,Tlaxcala,Mar
+1997,12,DOLOSOS,Tlaxcala,Feb
+1997,1,DOLOSOS,Tlaxcala,Jan
+1997,473,DOLOSOS,Tamaulipas,Tot
+1997,41,DOLOSOS,Tamaulipas,Dec
+1997,53,DOLOSOS,Tamaulipas,Nov
+1997,37,DOLOSOS,Tamaulipas,Oct
+1997,42,DOLOSOS,Tamaulipas,Sep
+1997,40,DOLOSOS,Tamaulipas,Aug
+1997,38,DOLOSOS,Tamaulipas,Jul
+1997,37,DOLOSOS,Tamaulipas,Jun
+1997,37,DOLOSOS,Tamaulipas,May
+1997,37,DOLOSOS,Tamaulipas,Apr
+1997,37,DOLOSOS,Tamaulipas,Mar
+1997,37,DOLOSOS,Tamaulipas,Feb
+1997,37,DOLOSOS,Tamaulipas,Jan
+1997,353,DOLOSOS,Tabasco,Tot
+1997,36,DOLOSOS,Tabasco,Dec
+1997,34,DOLOSOS,Tabasco,Nov
+1997,35,DOLOSOS,Tabasco,Oct
+1997,28,DOLOSOS,Tabasco,Sep
+1997,26,DOLOSOS,Tabasco,Aug
+1997,34,DOLOSOS,Tabasco,Jul
+1997,31,DOLOSOS,Tabasco,Jun
+1997,26,DOLOSOS,Tabasco,May
+1997,34,DOLOSOS,Tabasco,Apr
+1997,29,DOLOSOS,Tabasco,Mar
+1997,21,DOLOSOS,Tabasco,Feb
+1997,19,DOLOSOS,Tabasco,Jan
+1997,526,DOLOSOS,Sonora,Tot
+1997,58,DOLOSOS,Sonora,Dec
+1997,55,DOLOSOS,Sonora,Nov
+1997,44,DOLOSOS,Sonora,Oct
+1997,43,DOLOSOS,Sonora,Sep
+1997,62,DOLOSOS,Sonora,Aug
+1997,33,DOLOSOS,Sonora,Jul
+1997,37,DOLOSOS,Sonora,Jun
+1997,46,DOLOSOS,Sonora,May
+1997,40,DOLOSOS,Sonora,Apr
+1997,42,DOLOSOS,Sonora,Mar
+1997,32,DOLOSOS,Sonora,Feb
+1997,34,DOLOSOS,Sonora,Jan
+1997,669,DOLOSOS,Sinaloa,Tot
+1997,72,DOLOSOS,Sinaloa,Dec
+1997,48,DOLOSOS,Sinaloa,Nov
+1997,59,DOLOSOS,Sinaloa,Oct
+1997,59,DOLOSOS,Sinaloa,Sep
+1997,47,DOLOSOS,Sinaloa,Aug
+1997,47,DOLOSOS,Sinaloa,Jul
+1997,56,DOLOSOS,Sinaloa,Jun
+1997,64,DOLOSOS,Sinaloa,May
+1997,53,DOLOSOS,Sinaloa,Apr
+1997,53,DOLOSOS,Sinaloa,Mar
+1997,50,DOLOSOS,Sinaloa,Feb
+1997,61,DOLOSOS,Sinaloa,Jan
+1997,301,DOLOSOS,"San Luis Potosi",Tot
+1997,47,DOLOSOS,"San Luis Potosi",Dec
+1997,21,DOLOSOS,"San Luis Potosi",Nov
+1997,37,DOLOSOS,"San Luis Potosi",Oct
+1997,10,DOLOSOS,"San Luis Potosi",Sep
+1997,48,DOLOSOS,"San Luis Potosi",Aug
+1997,35,DOLOSOS,"San Luis Potosi",Jul
+1997,12,DOLOSOS,"San Luis Potosi",Jun
+1997,19,DOLOSOS,"San Luis Potosi",May
+1997,17,DOLOSOS,"San Luis Potosi",Apr
+1997,22,DOLOSOS,"San Luis Potosi",Mar
+1997,16,DOLOSOS,"San Luis Potosi",Feb
+1997,17,DOLOSOS,"San Luis Potosi",Jan
+1997,335,DOLOSOS,"Quintana Roo",Tot
+1997,41,DOLOSOS,"Quintana Roo",Dec
+1997,43,DOLOSOS,"Quintana Roo",Nov
+1997,42,DOLOSOS,"Quintana Roo",Oct
+1997,35,DOLOSOS,"Quintana Roo",Sep
+1997,38,DOLOSOS,"Quintana Roo",Aug
+1997,42,DOLOSOS,"Quintana Roo",Jul
+1997,16,DOLOSOS,"Quintana Roo",Jun
+1997,21,DOLOSOS,"Quintana Roo",May
+1997,21,DOLOSOS,"Quintana Roo",Apr
+1997,6,DOLOSOS,"Quintana Roo",Mar
+1997,8,DOLOSOS,"Quintana Roo",Feb
+1997,22,DOLOSOS,"Quintana Roo",Jan
+1997,234,DOLOSOS,Queretaro,Tot
+1997,60,DOLOSOS,Queretaro,Dec
+1997,15,DOLOSOS,Queretaro,Nov
+1997,19,DOLOSOS,Queretaro,Oct
+1997,6,DOLOSOS,Queretaro,Sep
+1997,56,DOLOSOS,Queretaro,Aug
+1997,78,DOLOSOS,Queretaro,Jul
+1997,0,DOLOSOS,Queretaro,Jun
+1997,0,DOLOSOS,Queretaro,May
+1997,0,DOLOSOS,Queretaro,Apr
+1997,0,DOLOSOS,Queretaro,Mar
+1997,0,DOLOSOS,Queretaro,Feb
+1997,0,DOLOSOS,Queretaro,Jan
+1997,729,DOLOSOS,Puebla,Tot
+1997,57,DOLOSOS,Puebla,Dec
+1997,60,DOLOSOS,Puebla,Nov
+1997,47,DOLOSOS,Puebla,Oct
+1997,62,DOLOSOS,Puebla,Sep
+1997,64,DOLOSOS,Puebla,Aug
+1997,64,DOLOSOS,Puebla,Jul
+1997,56,DOLOSOS,Puebla,Jun
+1997,54,DOLOSOS,Puebla,May
+1997,61,DOLOSOS,Puebla,Apr
+1997,68,DOLOSOS,Puebla,Mar
+1997,70,DOLOSOS,Puebla,Feb
+1997,66,DOLOSOS,Puebla,Jan
+1997,788,DOLOSOS,Oaxaca,Tot
+1997,3,DOLOSOS,Oaxaca,Dec
+1997,2,DOLOSOS,Oaxaca,Nov
+1997,2,DOLOSOS,Oaxaca,Oct
+1997,2,DOLOSOS,Oaxaca,Sep
+1997,1,DOLOSOS,Oaxaca,Aug
+1997,2,DOLOSOS,Oaxaca,Jul
+1997,129,DOLOSOS,Oaxaca,Jun
+1997,130,DOLOSOS,Oaxaca,May
+1997,130,DOLOSOS,Oaxaca,Apr
+1997,129,DOLOSOS,Oaxaca,Mar
+1997,129,DOLOSOS,Oaxaca,Feb
+1997,129,DOLOSOS,Oaxaca,Jan
+1997,163,DOLOSOS,"Nuevo Leon",Tot
+1997,10,DOLOSOS,"Nuevo Leon",Dec
+1997,10,DOLOSOS,"Nuevo Leon",Nov
+1997,25,DOLOSOS,"Nuevo Leon",Oct
+1997,12,DOLOSOS,"Nuevo Leon",Sep
+1997,18,DOLOSOS,"Nuevo Leon",Aug
+1997,7,DOLOSOS,"Nuevo Leon",Jul
+1997,11,DOLOSOS,"Nuevo Leon",Jun
+1997,15,DOLOSOS,"Nuevo Leon",May
+1997,12,DOLOSOS,"Nuevo Leon",Apr
+1997,16,DOLOSOS,"Nuevo Leon",Mar
+1997,19,DOLOSOS,"Nuevo Leon",Feb
+1997,8,DOLOSOS,"Nuevo Leon",Jan
+1997,132,DOLOSOS,Nayarit,Tot
+1997,21,DOLOSOS,Nayarit,Dec
+1997,26,DOLOSOS,Nayarit,Nov
+1997,5,DOLOSOS,Nayarit,Oct
+1997,6,DOLOSOS,Nayarit,Sep
+1997,8,DOLOSOS,Nayarit,Aug
+1997,15,DOLOSOS,Nayarit,Jul
+1997,8,DOLOSOS,Nayarit,Jun
+1997,17,DOLOSOS,Nayarit,May
+1997,10,DOLOSOS,Nayarit,Apr
+1997,1,DOLOSOS,Nayarit,Mar
+1997,10,DOLOSOS,Nayarit,Feb
+1997,5,DOLOSOS,Nayarit,Jan
+1997,178,DOLOSOS,Morelos,Tot
+1997,18,DOLOSOS,Morelos,Dec
+1997,19,DOLOSOS,Morelos,Nov
+1997,13,DOLOSOS,Morelos,Oct
+1997,11,DOLOSOS,Morelos,Sep
+1997,7,DOLOSOS,Morelos,Aug
+1997,15,DOLOSOS,Morelos,Jul
+1997,10,DOLOSOS,Morelos,Jun
+1997,13,DOLOSOS,Morelos,May
+1997,11,DOLOSOS,Morelos,Apr
+1997,14,DOLOSOS,Morelos,Mar
+1997,24,DOLOSOS,Morelos,Feb
+1997,23,DOLOSOS,Morelos,Jan
+1997,757,DOLOSOS,Michoacan,Tot
+1997,81,DOLOSOS,Michoacan,Dec
+1997,89,DOLOSOS,Michoacan,Nov
+1997,67,DOLOSOS,Michoacan,Oct
+1997,57,DOLOSOS,Michoacan,Sep
+1997,52,DOLOSOS,Michoacan,Aug
+1997,55,DOLOSOS,Michoacan,Jul
+1997,52,DOLOSOS,Michoacan,Jun
+1997,61,DOLOSOS,Michoacan,May
+1997,61,DOLOSOS,Michoacan,Apr
+1997,61,DOLOSOS,Michoacan,Mar
+1997,60,DOLOSOS,Michoacan,Feb
+1997,61,DOLOSOS,Michoacan,Jan
+1997,3037,DOLOSOS,Mexico,Tot
+1997,223,DOLOSOS,Mexico,Dec
+1997,222,DOLOSOS,Mexico,Nov
+1997,254,DOLOSOS,Mexico,Oct
+1997,278,DOLOSOS,Mexico,Sep
+1997,267,DOLOSOS,Mexico,Aug
+1997,197,DOLOSOS,Mexico,Jul
+1997,260,DOLOSOS,Mexico,Jun
+1997,269,DOLOSOS,Mexico,May
+1997,248,DOLOSOS,Mexico,Apr
+1997,287,DOLOSOS,Mexico,Mar
+1997,265,DOLOSOS,Mexico,Feb
+1997,267,DOLOSOS,Mexico,Jan
+1997,600,DOLOSOS,Jalisco,Tot
+1997,81,DOLOSOS,Jalisco,Dec
+1997,51,DOLOSOS,Jalisco,Nov
+1997,51,DOLOSOS,Jalisco,Oct
+1997,54,DOLOSOS,Jalisco,Sep
+1997,52,DOLOSOS,Jalisco,Aug
+1997,43,DOLOSOS,Jalisco,Jul
+1997,45,DOLOSOS,Jalisco,Jun
+1997,46,DOLOSOS,Jalisco,May
+1997,40,DOLOSOS,Jalisco,Apr
+1997,55,DOLOSOS,Jalisco,Mar
+1997,42,DOLOSOS,Jalisco,Feb
+1997,40,DOLOSOS,Jalisco,Jan
+1997,360,DOLOSOS,Hidalgo,Tot
+1997,32,DOLOSOS,Hidalgo,Dec
+1997,31,DOLOSOS,Hidalgo,Nov
+1997,31,DOLOSOS,Hidalgo,Oct
+1997,29,DOLOSOS,Hidalgo,Sep
+1997,13,DOLOSOS,Hidalgo,Aug
+1997,18,DOLOSOS,Hidalgo,Jul
+1997,12,DOLOSOS,Hidalgo,Jun
+1997,37,DOLOSOS,Hidalgo,May
+1997,32,DOLOSOS,Hidalgo,Apr
+1997,49,DOLOSOS,Hidalgo,Mar
+1997,39,DOLOSOS,Hidalgo,Feb
+1997,37,DOLOSOS,Hidalgo,Jan
+1997,1273,DOLOSOS,Guerrero,Tot
+1997,114,DOLOSOS,Guerrero,Dec
+1997,145,DOLOSOS,Guerrero,Nov
+1997,134,DOLOSOS,Guerrero,Oct
+1997,85,DOLOSOS,Guerrero,Sep
+1997,101,DOLOSOS,Guerrero,Aug
+1997,111,DOLOSOS,Guerrero,Jul
+1997,123,DOLOSOS,Guerrero,Jun
+1997,91,DOLOSOS,Guerrero,May
+1997,93,DOLOSOS,Guerrero,Apr
+1997,94,DOLOSOS,Guerrero,Mar
+1997,91,DOLOSOS,Guerrero,Feb
+1997,91,DOLOSOS,Guerrero,Jan
+1997,567,DOLOSOS,Guanajuato,Tot
+1997,73,DOLOSOS,Guanajuato,Dec
+1997,67,DOLOSOS,Guanajuato,Nov
+1997,58,DOLOSOS,Guanajuato,Oct
+1997,67,DOLOSOS,Guanajuato,Sep
+1997,46,DOLOSOS,Guanajuato,Aug
+1997,50,DOLOSOS,Guanajuato,Jul
+1997,41,DOLOSOS,Guanajuato,Jun
+1997,40,DOLOSOS,Guanajuato,May
+1997,32,DOLOSOS,Guanajuato,Apr
+1997,34,DOLOSOS,Guanajuato,Mar
+1997,30,DOLOSOS,Guanajuato,Feb
+1997,29,DOLOSOS,Guanajuato,Jan
+1997,62,DOLOSOS,Durango,Tot
+1997,9,DOLOSOS,Durango,Dec
+1997,8,DOLOSOS,Durango,Nov
+1997,11,DOLOSOS,Durango,Oct
+1997,5,DOLOSOS,Durango,Sep
+1997,4,DOLOSOS,Durango,Aug
+1997,4,DOLOSOS,Durango,Jul
+1997,3,DOLOSOS,Durango,Jun
+1997,4,DOLOSOS,Durango,May
+1997,4,DOLOSOS,Durango,Apr
+1997,4,DOLOSOS,Durango,Mar
+1997,3,DOLOSOS,Durango,Feb
+1997,3,DOLOSOS,Durango,Jan
+1997,977,DOLOSOS,"Distrito Federal",Tot
+1997,92,DOLOSOS,"Distrito Federal",Dec
+1997,94,DOLOSOS,"Distrito Federal",Nov
+1997,78,DOLOSOS,"Distrito Federal",Oct
+1997,95,DOLOSOS,"Distrito Federal",Sep
+1997,87,DOLOSOS,"Distrito Federal",Aug
+1997,76,DOLOSOS,"Distrito Federal",Jul
+1997,69,DOLOSOS,"Distrito Federal",Jun
+1997,78,DOLOSOS,"Distrito Federal",May
+1997,68,DOLOSOS,"Distrito Federal",Apr
+1997,74,DOLOSOS,"Distrito Federal",Mar
+1997,70,DOLOSOS,"Distrito Federal",Jan
+1997,96,DOLOSOS,"Distrito Federal",Feb
+1997,677,DOLOSOS,Chihuahua,Tot
+1997,56,DOLOSOS,Chihuahua,Dec
+1997,52,DOLOSOS,Chihuahua,Nov
+1997,54,DOLOSOS,Chihuahua,Oct
+1997,57,DOLOSOS,Chihuahua,Sep
+1997,46,DOLOSOS,Chihuahua,Aug
+1997,50,DOLOSOS,Chihuahua,Jul
+1997,45,DOLOSOS,Chihuahua,Jun
+1997,50,DOLOSOS,Chihuahua,May
+1997,57,DOLOSOS,Chihuahua,Apr
+1997,74,DOLOSOS,Chihuahua,Mar
+1997,49,DOLOSOS,Chihuahua,Feb
+1997,87,DOLOSOS,Chihuahua,Jan
+1997,1357,DOLOSOS,Chiapas,Tot
+1997,144,DOLOSOS,Chiapas,Dec
+1997,167,DOLOSOS,Chiapas,Nov
+1997,132,DOLOSOS,Chiapas,Oct
+1997,141,DOLOSOS,Chiapas,Sep
+1997,24,DOLOSOS,Chiapas,Aug
+1997,108,DOLOSOS,Chiapas,Jul
+1997,82,DOLOSOS,Chiapas,Jun
+1997,101,DOLOSOS,Chiapas,May
+1997,100,DOLOSOS,Chiapas,Apr
+1997,142,DOLOSOS,Chiapas,Mar
+1997,104,DOLOSOS,Chiapas,Feb
+1997,112,DOLOSOS,Chiapas,Jan
+1997,99,DOLOSOS,Colima,Tot
+1997,6,DOLOSOS,Colima,Dec
+1997,11,DOLOSOS,Colima,Nov
+1997,5,DOLOSOS,Colima,Oct
+1997,6,DOLOSOS,Colima,Sep
+1997,13,DOLOSOS,Colima,Aug
+1997,5,DOLOSOS,Colima,Jul
+1997,14,DOLOSOS,Colima,Jun
+1997,7,DOLOSOS,Colima,May
+1997,9,DOLOSOS,Colima,Apr
+1997,11,DOLOSOS,Colima,Mar
+1997,5,DOLOSOS,Colima,Feb
+1997,7,DOLOSOS,Colima,Jan
+1997,175,DOLOSOS,Coahuila,Tot
+1997,13,DOLOSOS,Coahuila,Dec
+1997,12,DOLOSOS,Coahuila,Nov
+1997,19,DOLOSOS,Coahuila,Oct
+1997,12,DOLOSOS,Coahuila,Sep
+1997,15,DOLOSOS,Coahuila,Aug
+1997,20,DOLOSOS,Coahuila,Jul
+1997,16,DOLOSOS,Coahuila,Jun
+1997,10,DOLOSOS,Coahuila,May
+1997,14,DOLOSOS,Coahuila,Apr
+1997,14,DOLOSOS,Coahuila,Mar
+1997,15,DOLOSOS,Coahuila,Feb
+1997,15,DOLOSOS,Coahuila,Jan
+1997,130,DOLOSOS,Campeche,Tot
+1997,9,DOLOSOS,Campeche,Dec
+1997,7,DOLOSOS,Campeche,Nov
+1997,13,DOLOSOS,Campeche,Oct
+1997,5,DOLOSOS,Campeche,Sep
+1997,11,DOLOSOS,Campeche,Aug
+1997,16,DOLOSOS,Campeche,Jul
+1997,15,DOLOSOS,Campeche,Jun
+1997,12,DOLOSOS,Campeche,May
+1997,5,DOLOSOS,Campeche,Apr
+1997,12,DOLOSOS,Campeche,Mar
+1997,13,DOLOSOS,Campeche,Feb
+1997,12,DOLOSOS,Campeche,Jan
+1997,60,DOLOSOS,"Baja California Sur",Tot
+1997,21,DOLOSOS,"Baja California Sur",Dec
+1997,8,DOLOSOS,"Baja California Sur",Nov
+1997,0,DOLOSOS,"Baja California Sur",Oct
+1997,5,DOLOSOS,"Baja California Sur",Sep
+1997,8,DOLOSOS,"Baja California Sur",Aug
+1997,1,DOLOSOS,"Baja California Sur",Jul
+1997,2,DOLOSOS,"Baja California Sur",Jun
+1997,3,DOLOSOS,"Baja California Sur",May
+1997,4,DOLOSOS,"Baja California Sur",Apr
+1997,2,DOLOSOS,"Baja California Sur",Mar
+1997,4,DOLOSOS,"Baja California Sur",Feb
+1997,2,DOLOSOS,"Baja California Sur",Jan
+1997,492,DOLOSOS,"Baja California",Tot
+1997,28,DOLOSOS,"Baja California",Dec
+1997,47,DOLOSOS,"Baja California",Nov
+1997,28,DOLOSOS,"Baja California",Oct
+1997,49,DOLOSOS,"Baja California",Sep
+1997,48,DOLOSOS,"Baja California",Aug
+1997,38,DOLOSOS,"Baja California",Jul
+1997,42,DOLOSOS,"Baja California",Jun
+1997,41,DOLOSOS,"Baja California",May
+1997,37,DOLOSOS,"Baja California",Apr
+1997,65,DOLOSOS,"Baja California",Mar
+1997,36,DOLOSOS,"Baja California",Feb
+1997,33,DOLOSOS,"Baja California",Jan
+1997,355,DOLOSOS,Aguascalientes,Tot
+1997,2,DOLOSOS,Aguascalientes,Dec
+1997,0,DOLOSOS,Aguascalientes,Nov
+1997,0,DOLOSOS,Aguascalientes,Oct
+1997,2,DOLOSOS,Aguascalientes,Sep
+1997,2,DOLOSOS,Aguascalientes,Aug
+1997,1,DOLOSOS,Aguascalientes,Jul
+1997,58,DOLOSOS,Aguascalientes,Jun
+1997,58,DOLOSOS,Aguascalientes,May
+1997,58,DOLOSOS,Aguascalientes,Apr
+1997,58,DOLOSOS,Aguascalientes,Mar
+1997,58,DOLOSOS,Aguascalientes,Feb
+1997,58,DOLOSOS,Aguascalientes,Jan
+1997,16867,DOLOSOS,National,Tot
+1997,1531,DOLOSOS,National,Dec
+1997,1474,DOLOSOS,National,Nov
+1997,1364,DOLOSOS,National,Oct
+1997,1329,DOLOSOS,National,Sep
+1997,1325,DOLOSOS,National,Aug
+1997,1274,DOLOSOS,National,Jul
+1997,1400,DOLOSOS,National,Jun
+1997,1432,DOLOSOS,National,May
+1997,1371,DOLOSOS,National,Apr
+1997,1551,DOLOSOS,National,Mar
+1997,1406,DOLOSOS,National,Feb
+1997,1410,DOLOSOS,National,Jan

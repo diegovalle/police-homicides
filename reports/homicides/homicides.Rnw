@@ -1,0 +1,100 @@
+Recent Events in the Mexican Drug War
+=====================================
+
+<<fig = TRUE, echo = FALSE, width = 8, height = 5, png = TRUE, ext = png, pdf = FALSE, jpg = FALSE>>= 
+print(dwplot)
+@ 
+
+The Mexican government recently released data on all crime statistics from January 1997 to October 2010, as reported by the various police forces operating in Mexico. This information provides an unprecedented look at what has happened since the drug war began and allows for a frank assessment of the deterioration of security in Mexico.
+
+For some states the data is only available up to August, but for most it is available up to October. The first thing to do is http://i.imgur.com/PTYox.png[visualize] the data to see if there are any mistakes.  And there were indeed, some mistakes:
+
+* The state of Chiapas reported 0 homicides during the month of January 2010, but in previous versions of the reports there were 96 homicides. Probably someone's finger slipped while updating the database.
+
+* In the state of Tamaulipas, during August 2010, Mexican marines found the dead bodies of 72 persons inside a ranch. The victims were immigrants from Central America, presumably killed by the Zetas. Yet during the month of August there were less than 70 homicides in all of Tamaulipas. Probably the police haven't had time to update the database to include this massacre.
+
+* Starting January 2007 the number of homicides in the state of Mexico http://i.imgur.com/IyRSe.png[dropped by half from one month to the next]. Perhaps some bodies were swept under the bed?
+
+* In 1997, Yucatan and Querétaro had incredibly high homicide rates, there's probably an error in database.
+
+* According to the database there were no homicides in Tlaxcala during 2007. However the General Secretary of the state verbally reported to the ICESI that there were 42 homicides in 2007. Also in Tlaxcala, during 2006 there were an anomalously high number of kidnappings, probably the result of another error unless the smallest state in Mexico accounted for over 40% of the kidnappings in the entire country.
+
+* *The numbers in the database for some states correspond to the number of police reports for the crime of homicide not the number of dead bodies*. Because of the increase in multiple homicides, the numbers for Chihuahua and Baja California are very likely to be underestimated.
+
+Because of issues involving the undereporting of crimes, in this blog post I will concentrate on reported homicides.
+
+_Special note about the population of Mexico:_
+Preliminary data from the 2010 Census indicate that the population estimates made by the CONAPO (which I'm using) were off by about 4 million people, that's a pretty big mistake. Depending on whether it was due to higher fertility rates or reduced levels of emigration from Mexico to the US this likely means the homicide rates are a bit lower than shown here. Also lots of people have left Chihuahua, black swans and all that.
+
+With all that said let's look at the state level data:
+
+All States Affected by the Drug War
+-----------------------------------
+<<fig = TRUE, echo = FALSE, width = 9, height = 6, png = TRUE, ext = png, pdf = FALSE, jpg = FALSE>>= 
+print(all)
+@ 
+
+Chihuahua
+---------
+<<fig = TRUE, echo = FALSE, width = 8, height = 5, png = TRUE, ext = png, pdf = FALSE, jpg = FALSE>>= 
+print(chih)
+@ 
+This is Mexico's most violent state as a consequence of the war between the Sinaloa Cartel and the Juárez Cartel.
+
+Sinaloa vs Beltrán Leyva (and later Barbie)
+-------------------------------------------
+
+The Beltrán Leyvas were brothers who used to be allied with ``El Chapo'' Guzmán, but in January 2008 one of the brothers, ``El Mochomo'', was captured by the army and the rest of the family blamed their former boss of tipping of the government to his location. In response they allied themselves with the Zetas and started a war with the Sinaloans.
+
+Later in December 2009, Arturo Beltrán Leyva, the leader of the group, was killed in a shootout in Cuernavaca. As a consequence of his demise one of their chief enforcers, ``La Barbie'', http://www.pnas.org/content/105/23/7907/F1.expansion.html[split] from the Beltran Leyva organization and started a war with the remaining brother. The Sinaloa Cartel also took advantage of this opportunity to try and take over their drug traficking routes once and for all.
+
+<<fig = TRUE, echo = FALSE, width = 8, height = 5, png = TRUE, ext = png, pdf = FALSE, jpg = FALSE>>= 
+print(sin.dur)
+@ 
+
+Showing the homicide rates for whole states hides the different geographical patterns. Violence started in different ways in the biggest cities of Sinaloa: Culiacán and Mazatlán. The start of the violence in Culiacán coincided with Joint Operation Culiacán-Navolato and in Mazatlán with the expansion of the operation to Mazatlán and Salvador Alvarado.
+
+Likewise in Durango the patterns were different for the city of Durango and the Metropolitan Area of La Laguna (Torreón, Gómez Palacios and Lerdo).
+
+<<fig = TRUE, echo = FALSE, width = 8, height = 5, png = TRUE, ext = png, pdf = FALSE, jpg = FALSE>>= 
+print(b.vs.bl)
+@ 
+
+Just ecently 20 people were kidnapped and murdered in the tourist destination of Acapulco, Guerrero, because they were mistaken for members of La Familia. 
+
+<<fig = TRUE, echo = FALSE, width = 8, height = 5, png = TRUE, ext = png, pdf = FALSE, jpg = FALSE>>= 
+print(bl)
+@ 
+
+In April the leader of the Beltrán Leyva's in Nayarit kidnapped and killed the son of the Sinaloan boss in Jalisco, Nacho Coronel, afterwards violence rose steeply. When Nacho Coronel was killed by the army in July violence decreased somewhat.
+
+Zetas vs Gulf Cartel
+--------------------
+<<fig = TRUE, echo = FALSE, width = 8, height = 5, png = TRUE, ext = png, pdf = FALSE, jpg = FALSE>>= 
+print(z.vs.cdg)
+@ 
+The Zetas used to be the paramilitary group of the Gulf Cartel, but sometime in late February the Gulf Cartel entered into an agreement with the Sinaloa Cartel and La Familia Michoacana and declared war on the Zetas.
+
+Michoacán
+---------
+<<fig = TRUE, echo = FALSE, width = 8, height = 5, png = TRUE, ext = png, pdf = FALSE, jpg = FALSE>>= 
+print(mich)
+@ 
+This state is where it all started, on December 11 2006, Felipe Calderón, president of Mexico sent troops to his home state to battle La Familia. After another rise in violence the government started Joint Operation Monoraca in 2009. 
+
+
+Baja California
+---------------
+<<fig = TRUE, echo = FALSE, width = 8, height = 5, png = TRUE, ext = png, pdf = FALSE, jpg = FALSE>>= 
+print(bc)
+@ 
+The trend-line represents a robust linear regression because of the big outliers when ``El Doctor'', the leader of Tijuana Cartel was captured, and the rise in violence right before ``El Teo'' was captured. The city of Tijuana has been praised as an example of successfully reducing violence. The police records only include data at the state level, but since the vast majority of murders in Baja California occur in Tijuana it is safe to say that violence has only increased with the drug war.
+
+It is pretty sad when the strategy that's been praised to the skies has only resulted in more deaths.
+
+Recently, relatives of one of the leaders of the Sinaloa Cartel where kidnapped in Tijuana, I'm guessing the only way ``El Mayo'' Zambada would send his family to that city was if he had come to some sort of agreement with the Tijuana Cartel. My guess as to why they were kidnapped is that it was some splinter group from the Tijuana Cartel who couldn't accept the new alliance.
+
+As a bonus here's an OpenHeatMap of the logarithms of homicide rates (You can see a lot more maps at http://www.animalpolitico.com/2010/11/mapas-de-mexico-5-delitos-13-anos-32-entidades-3/[Animal Político]):
+
+
+pass::[<iframe width="480" height="360" src="http://www.openheatmap.com/embed.html?map=CompilerPenancesRedheads" ></iframe>]
