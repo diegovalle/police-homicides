@@ -1,5 +1,6 @@
 smallMPlot <- function(df, states = NULL,  title = "",
-                       ncol = NULL){
+                       ncol = NULL,
+                       minor = NULL, major = NULL){
   if(!is.null(states))
     df <- subset(df, State %in% states)
   
@@ -10,7 +11,7 @@ smallMPlot <- function(df, states = NULL,  title = "",
   ggplot(df, aes(date, rate, group = State)) +
     geom_line() +
     #geom_point(aes(size = Homicides)) +
-    scale_x_date() +
+    scale_x_date(minor = minor, major = major) +
     ylim(0, max(df$rate, na.rm = TRUE)) +
     opts(title = title) +
     ylab("annualized homicide rate") +
@@ -81,7 +82,8 @@ all <- smallMPlot(hom.dw, c("Sonora","Baja California",
                        "Guerrero", "Morelos",
                        "Coahuila", "Colima",
                        "Quintana Roo", "Guanajuato"),
-           "Homicide Rates in States Affected by the Drug War")
+           "Homicide Rates in States Affected by the Drug War",
+                  minor = "3 months", major = "2 years")
 ggsave("graphs/narco-states.png", dpi = 100,
        height = 7, width = 10)
 

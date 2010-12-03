@@ -8,7 +8,7 @@ ggplot(mexecutions, aes(date, value,
 ggsave("graphs/reforma-vs-milenio.png", dpi = 100,
        height = 5, width = 8)
 
-
+executions$b <- ifelse(executions$date <= as.Date("2009-05-15"), 0 ,1) 
 ggplot(executions, aes(date, diff)) +
   geom_line() +
   opts(title = "Differences in Number of Executions According to Milenio and Reforma") +
@@ -56,6 +56,6 @@ ggplot(reforma,
 #  geom_bar(stat = "identity", fill = "blue", alpha = .5) +
 #  coord_flip() +
 #  geom_bar(stat = "identity", data = exe.dif,
-           aes(State, diff.x), fill = "red", alpha = .5)
+#           aes(State, diff.x), fill = "red", alpha = .5)
 
 
